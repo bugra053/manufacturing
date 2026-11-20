@@ -1,0 +1,13 @@
+1. Turning
+1.1 Universal lathes
+1.1.1 Task –Solution (6)
+The power of the drive motor of the machine is:
+P =(F x v) /η=(F x v) /0,8= ? kW
+M V V
+The mass of the chip removed per unit of time is:
+M = A x v x ρ =0,45 x 10-6 x v x 7850 =? kg/s.
+s
+Where is : ρ =7850 kg/m3 - density or specific mass of material taken from the table O-1 for steel.
+m
+Table O-1 : Approximate values ​​of modulus of elasticity and density or specific mass of workpiece material
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

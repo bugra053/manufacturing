@@ -1,0 +1,795 @@
+
+--- PDF PAGE 1 ---
+Manual of ENS 208 ; Prof. Ismar Alagić Ph.D.
+APPENDIX - BASIC TECHNOLOGICAL DATA FOR CALCULATION OF MACHINING
+MODES
+1) GENERAL DATA
+Table O-1 : Approximate values of modulus of elasticity and density or specific mass of workpiece material.
+Work material - Workpiece Modulus of elasticity E (N/m2) Density or specific mass of material
+ρ (kg/m3)
+m
+Steel 210 x 109 7,85 x 103
+Cast Iron 100 x 109 7,4 x 103
+Bronze 120 x 109 8,2 x 103
+Brass 110 x 109 8,85 x 103
+Aluminium 70 x 109 2,65 x 103
+2) TURNING AND PLANING
+Table S-1 : Recommended allowance for rough longitudinal machining on a lathe – d (mm).
+1
+Machining Workpiece diameter D (mm)
+length l (mm) up to 10 10÷18 18÷30 30÷50 50÷80 80÷120 120÷180 180÷260 260÷360 above
+360
+up to 100 1,0 1,0 1,2 1,2 1,4 1,6 1,8 2,0 2,2 2,4
+100÷250 1,2 1,2 1,4 1,4 1,6 1,8 2,0 2,2 2,4 2,6
+250÷400 1,4 1,6 1,6 1,8 2,0 2,2 2,4 2,6 2,8 3,0
+400÷630 1,6 1,8 1,8 2,0 2,2 2,4 2,6 2,8 3,0 3,2
+630÷1000 - 2,2 2,4 2,6 2,8 3,0 3,0 3,2 3,4 3,8
+1000÷1600 - - 3,0 3,0 3,2 3,4 3,6 3,8 4,0 4,2
+above 1600 - - - 3,8 4,0 4,2 4,4 4,6 4,8 5
+Table S-2 : Recommended allowance for fine longitudinal machining on a lathe – d (mm).
+2
+Machining Workpiece diameter D (mm)
+length l (mm) up to 10 10÷18 18÷30 30÷50 50÷80 80÷120 120÷180 180÷260 260÷360 above
+360
+up to 100 0,7 0,7 0,8 0,9 1,0 1,1 1,1 1,2 1,3 1,5
+100÷250 0,8 0,8 0,9 0,9 1,0 1,1 1,2 1,3 1,4 1,5
+250÷400 0,8 0,9 0,9 1,0 1,1 1,2 1,3 1,4 1,5 1,6
+400÷630 0,9 1,0 1,0 1,1 1,2 1,3 1,4 1,5 1,6 1,7
+630÷1000 - 1,1 1,2 1,3 1,4 1,5 1,5 1,6 1,7 1,9
+1000÷1600 - - 1,5 1,5 1,6 1,7 1,8 1,9 2,0 2,1
+above 1600 - - - 1,9 2,0 2,1 2.2 2,3 2,4 2,5
+
+--- PDF PAGE 2 ---
+Manual of ENS 208 ; Prof. Ismar Alagić Ph.D.
+Table S-3 : Recommended allowance for rough and fine internal machining on a lathe
+Finished hole Machining length l (mm)
+diameter d (mm) up to 63 63÷100 100÷160 160÷250 250÷400 above 400
+d – rough turning
+1
+up to 18 1,4 1,5 - - - -
+18÷50 1,6 1,6 1,8 2,0 - -
+50÷80 1,8 1,8 2,0 2,2 2,4 -
+80÷120 2,2 2,2 2,2 2,4 2,6 2,8
+120÷180 2,6 2,6 2,8 2,8 3,0 3,2
+180÷260 3,0 3,0 3,2 3,2 3,4 3,6
+above 260 3,2 3,2 3,4 3,4 3,6 3,8
+d - fine turning
+2
+up to 18 0,9 1,0 - - - -
+18÷50 1,1 1,1 1,2 1,2 - -
+50÷80 1,2 1,2 1,3 1,3 1,4 -
+80÷120 1,3 1,3 1,3 1,4 1,5 1,6
+120÷180 1,4 1,4 1,5 1,5 1,6 1,7
+180÷260 1,5 1,5 1,6 1,6 1,7 1,8
+above 260 1,6 1,6 1,7 1,7 1,8 1,9
+Table S-4 : Recommended allowance for rough and fine transverse machining on a lathe
+Final workpiece Workpiece diameter D (mm)
+length l (mm) up to 18 18÷50 50÷120 120÷260 above 260
+d – rough turning
+1
+up to 18 0,9 1,0 1,1 - -
+18÷50 1,1 1,2 1,3 1,5 -
+50÷120 1,4 1,5 1,6 1,8 1,9
+120÷260 1,8 1,9 2,0 2,1 2,3
+260÷500 2,4 2,5 2,6 2,7 2,9
+above 500 2,7 2,8 2,9 3,0 3,2
+d – fine turning
+2
+up to 18 0,6 0,7 0,8 - -
+18÷50 0,7 0,8 0,9 0,9 -
+50÷120 0,9 0,9 1,0 1,0 1,1
+120÷260 1,0 1,1 1,1 1,2 1,3
+260÷500 1,2 1,3 1,3 1,4 1,5
+above 500 1,4 1,4 1,5 1,5 1,6
+Table S-5: Correction coefficient „ζ “for the calculation of the cutting speed v for
+k
+various values of the attack angles of the tool blade κ.
+The angle of attack of the tool blade κ
+20 25 30 35 40 45 50 55 60 65 70 75 80 85 90
+1,27 1,22 1,17 1,11 1,05 1,00 0,95 0,90 0,86 0,82 0,79 0,77 0,75 0,74 0,74
+
+--- PDF PAGE 3 ---
+Manual of ENS 208 ; Prof. Ismar Alagić Ph.D.
+Table S-6: Correction coefficient „ζ “ for calculation of cutting speed „v“ for various
+m
+tool materials.
+Work Material - Tool material
+Workpiece Unalloyed tool High speed steel Hard metal
+steel
+Steel 0,25 1 4-8
+Cast Iron 0,30 1 5 and more
+Table S7 : Values for calculation C , x,y for cutting speed v=(C / ax x sy) x ζ x ζ xζ (m/s)
+V V κ m T
+The table is used only in the case when the tool material is high-speed steel.
+Work material – a>1 mm a≤ 1 mm
+Workpiece
+C x,y C x,y C x,y C x,y
+V V V V
+Carbon steel s≥0,4 mm/rev s=0,2÷0,4 mm/rev s=0,2÷0,4 mm/rev s=0,1÷0,2 mm/rev
+Rm=45 x 107 N/m2 0,001610 0,016841 x=0,26 0,029266 x=0,18 0,068524 x=0,18
+x=0,26
+y=0,36 y=0,36 y=0,26
+y=0,66
+Rm=60 x 107 N/m2 0,001046 0,010928 0,018991 0,044513
+Rm=70 x 107 N/m2 0,000828 0,008673 0,015073 0,035339
+s≥0,4 mm/rev s=0,2÷0,4 mm/rev s=0,2÷0,4 mm/rev s=0,1÷0,2 mm/rev
+Chrome-nickel steel
+0,000937 x=0,24 0,009069 x=0,24 0,015758 x=0,16 0,036911 x=0,16
+Rm=70 x 107 N/m2
+y=0,63 y=0,34 y=0,34 y=0,24
+s≥0,72 mm/rev s<0,72 mm/rev
+Cast iron, HB=160 0,010395 x=0,16 0,014336 x=0,20
+- -
+y=0,38 y=0,30
+Bronze, s≥0,72 mm/rev s<0,72 mm/rev s=0,2÷0,4 mm/rev s=0,1÷0,2 mm/rev
+Rm=(20-30) x 107
+N/m2
+s≥0,72 mm/rev s<0,72 mm/rev s=0,1÷0,2 mm/rev
+Aluminum,
+0,003033 x=0,40 0,006651 x=0,40 - 0,015592 x=0,40
+HB=80-100
+y=0,60 y=0,50 y=0,40
+Note: The correction coefficient for the calculation of the cutting speed v for various values of tool stability T is determined based on the equation
+z
+ζ
+T
+=√(3600/T)
+; z=6-9 (lower values for steel and higher for cast iron).
+
+--- PDF PAGE 4 ---
+Manual of ENS 208 ; Prof. Ismar Alagić Ph.D.
+Table S-8: Values of C , x, y and m for calculation of cutting speed v=(C x ζ x ζ xζ ) /Tm x ax
+v v κ mrp T
+x sy (m/s)
+The table is used when the material of the tool is hard metal and ceramic insert, and if
+necessary also for high-speed steel.
+Work material Type of machining Tool Coefficients Ti (min)
+Material Cv x y m
+s≤0,3 0,9197 0,2
+s≤0,75 HM P25 0,2713 0,15 0,35 0,2 60
+s>0,75 0,1324 0,45
+a≤s 0,3 0,15
+HM P10 0,4543 0,18 45
+Outer a>s 0,15 0,3
+Structural
+s≤0,25 0,4443 0,33
+longitudina HS 0,25 0,125 60
+carbon steels, s>0,25 0,0029 0,66
+alloy steels
+l turning
+, ≤ 0 3 a≤ 2 0,4830 0,19 0,37 0,24
+and cast steel s
+a>2 CERAMIC 16,539 0,02 60
+Rm=75 x 107 N/m2 s=0,3÷0,7
+10,321
+0,08
+0,08
+0,24
+a≤7
+- HM P25 0,0071 0 0,8 0,2
+Parting off 60
+- HS 0,0115 0 0,66 0,25
+Facing - HS 0,0409 0 0,5 0,3 120
+s≤0,4 0,9837 0,2
+Outer 0,15 0,2 60
+s>0,4 K20 - 0,2056 0,4
+Cast Iron, longitudina a≤s CARBIDE 0,4 0,2
+0,2693 0,28 30
+HB=190 l turning a>s 0,2 0,4
+s≤0,5 CERAMIC 9,5407 0,2 0,2 0,43
+- HM K20 0,1634 0 0,4 0,2 60
+Parting off
+- HS 0,0437 0 0,4 0,15
+Outer a<2
+2,1308 0,2
+s≤0,4
+Cast Iron, longitudina a≥2 HM K35 0,15 0,2
+0,1288 0,45 60
+HB=150 l turning
+Parting off - 0,0689 0 0,5 0,25
+Non-ferrous Outer s≤0,2 0,7856 0,25
+metals and their HS
+longitudina 0,12 0,23 60
+alloys, s>0,2 0,0950 0,23
+HB=100÷140 l turning
+Note: Feed values are given in (mm/rev), and cutting depth in (mm).
+Correction coefficient for the workpiece material:
+ζmrp=(75 x 107) / Rm – for steel ; ζmrp=(190/HB)1,25 –for Cast Iron.
+For given persistences T that differ from the values in this table, the cutting speed is corrected with a coefficient where the coefficient
+that takes into account tool durability is taken from the table below:
+z
+ζ =√(T /T ) ;z=7÷12 (tool made of high-speed steel); z=2÷6 (hard metal tool); z=1,5 ÷3 (ceramic insert as tool).
+T t 1
+Use smaller values for z when machining steel, and higher values when machining cast iron.
+
+--- PDF PAGE 5 ---
+Manual of ENS 208 ; Prof. Ismar Alagić Ph.D.
+Table S-9: Recommended feed values „s“ for rough turning with knives made of high-speed
+steel and hard metal- carbide.
+Cross- Work material – workpiece material
+section of
+Workpiece Steel and Cast steel Cast iron and Non-ferrous metals
+the handle of
+diameter D
+(mm)
+the turning
+knife (mm x
+up to 3 3÷5 5÷8 8÷12 above 12 up to 3 3÷5 5÷8 8÷12 above 12
+mm)
+up to 20 16x25
+0,3÷0,4 - - - - - - - - -
+25x25
+20-40 16x25
+0,4÷0,5 0,3÷0,4 - - - 0,4÷0,5 - - - -
+25x25
+40-60 16x25
+0,5÷0,9 0,4÷0,8 0,3÷0,7 - - 0,6÷0,9 0,5÷0,8 0,4÷0,7 - -
+25x40
+60-100 16x25
+0,6÷1,2 0,5÷1,1 0,5÷0,9 0,4÷0,8 - 0,8÷1,4 0,7÷1,2 0,6÷1,00 0,5÷0,9 -
+25x40
+100-200 16x25
+0,8÷1,3 0,7÷1,2 0,6÷1,0 0,5÷0,9 - 1,0÷1,5 0,9÷1,4 0,8÷1,1 0,6÷0,8 -
+25x40
+200-400 20x30
+1,1÷1,4 1,0÷1,3 0,7÷1,2 0,6÷1,2 0,4÷1,1 1,3÷1,6 1,2÷1,5 1,0÷1,3 0,8÷1,0 0,7÷0,9
+40x60
+400-600 20x30
+1,2÷1,5 1,0÷1,4 0,8÷1,3 0,6÷1,3 0,4÷1,2 1,5÷1,8 1,2÷1,6 1,0÷1,4 0,9÷1,2 0,8÷1,0
+40x60
+600-1000 25x40
+1,2÷1,8 1,1÷1,5 0,9÷1,4 0,8÷1,4 0,7÷1,3 1,5÷2,0 1,3÷1,8 1,0÷1,4 1,0÷1,3 0,9÷1,2
+40x60
+above 1000 30x45
+1,3÷2,0 1,3÷1,8 1,2÷1,6 1,1÷1,5 1,0÷1,5 1,6÷2,4 1,6÷2,0 1,4÷1,8 1,3÷1,7 1,2÷1,7
+40x60
+Note: Table feed values should be checked with regard to the chip slenderness coefficient g=a/s. The recommended values of the chip
+slenderness coefficient are g=5-10 for longitudinal turning and g=5-20 for transverse turning.
+Table S-10: Recommended feed values „s" for fine turning with knives made of high-speed steel
+and hard metal (carbide).
+Surface Workpiece material Feed s (mm/rev) at knife tip radius r (mm)
+quality class r = 0,5 r = 1,0 r = 1,5 r = 2,0
+N9 Steel 0,4÷0,55 0,55÷0,65 0,65÷0,70 0,65÷0,70
+Cast Iron & Non-Ferrous Metal 0,25÷0,40 0,40÷0,50 0,50 0,50
+N8 Steel 0,20÷0,30 0,30÷0,45 0,35÷0,50 0,35÷0,50
+Cast Iron & Non-Ferrous Metal 0,15÷0,25 0,20÷0,40 0,30÷0,50 0,35÷0,50
+N7 Steel 0,11÷0,18 0,14÷0,24 0,16÷0,28 0,18÷0,32
+Cast Iron & Non-Ferrous Metal 0,10÷0,15 0,12÷0,20 0,15÷0,30 0,20÷0,35
+Note: Check the recommended feed rate with regard to the geometric roughness s≤ (32 x R x r)1/2
+a
+Table S-11: Standard cross-sections of lathe knife handles.
+Square section (mm x mm) Rectangular section (mm x mm)
+6 x 6 -
+8 x 8 -
+10 x 10 10 x 16
+12 x 12 12 x 20
+16 x 16 16 x 25
+20 x 20 20 x 32
+25 x 25 25 x 40
+32 x 32 32 x 50
+40 x 40 -
+
+--- PDF PAGE 6 ---
+Manual of ENS 208 ; Prof. Ismar Alagić Ph.D.
+Table S-12 : Recommended values of σ , e and f for determining the feed with respect to the resistance
+allow
+of the handle of a lathe tool of a given cross section s≤ [σ /(C x C x ax )]1/y (mm/rev.)
+allow k 0 1 1
+Tool Permissible/Allowed stress of the knife handle material when
+bending σ (N/mm2)
+allow
+Integral knives made of high-speed steel (22 ÷ 25) x 107
+Knife with a insert/blade made of high-speed steel or (20 ÷ 22) x 107
+hard metal with a cemented steel handle
+Note: For longitudinal external turning is: C =[(6 x f +2,4 x e x f -0,4) / (b2 x e)]; e= h/b; f=l /h
+0 n .
+For other types of turning, expressions for C can be found in the relevant literature.
+o
+The values of „e“ and „f“ are usually between 1 ÷ 1.6.
+Table S-13: Values of C , x , y for the calculation of the main cutting force (resistance),
+k 1 1
+F =C x ax1 x sy1 (N).
+v k
+Work material - Workpiece
+Cast Iron Structural steel Chrome- Chrome steel Bronze Brass Al-alloys
+nickel steel
+C
+k
+HB Rm x 107 N/m2 HB
+140 180 200 45 60 70 50 70 45 70 20÷30 30÷38 22÷36 36÷48 60÷80 80÷100
+1,459 1,67 1,778 3,37 3,669 3,95 3,82 4,356 3,69 4,356 1,22 1,52 1,50 1,82 0,98 1,48
+x
+1
+1,0 1,0 1,0 1,0 1,0 1,0 1,0
+y
+1
+0,73 0,78 0,78 0,78 0,73 0,78 0,80
+Note: Value of C are multiplied by 108
+k
+Table S-14: Values of C , x , y for the calculation of penetration force and auxiliary movement
+k 1 1
+force F =C x ax x sy (N).
+p/S k 1 1
+Workpiece material
+Cast iron Structural steel Chrome-nickel Chrome steel
+steel
+HB R x 107 (N/mm2)
+a
+140 180 200 45 60 70 50 70 45 70
+C 0,8918 1,1191 1,2327 0,6295 0,7950 0,9005 0,7519 0,9880 0,6907 0,9880
+k
+F x 0,9 0,9 0,9 0,9
+P 1
+y 0,75 0,75 0,75 0,75
+1
+C 0,7675 0,9595 1,0467 0,3847 0,481 0,5508 0,4634 0,6030 0,4197 0,6030
+k
+F x 1,10 1,10 1,10 1,10
+s 1
+y 0,65 0,55 0,55 0,55
+1
+Note: Value of C are multiplied by 108
+k
+Table S-15: Ck and ε values for the calculation of the specific milling/cutting resistance;
+k
+εk
+k =C /√ A (N/m2), kv= C / (A)ε
+v k k k
+Work material-Workpiece C ε
+k k
+Cast Iron 1,448 x 108 7,4
+Carbon Steel 1,936 x 108 6,1
+Chrome-nickel steel 6,263 x 108 10,4
+Steel Cast 2,196 x 108 6,7
+Bronze 0,248 x 108 4
+Brass 0,900 x 108 6,8
+Aluminium 1,920 x 108 8
+
+--- PDF PAGE 7 ---
+Manual of ENS 208 ; Prof. Ismar Alagić Ph.D.
+Table S-16: Overview of cutting layer elements b and h for the most important cutting machining processes.
+Machining Process Width of cutting layer b Thickness of the cutting layer h Note
+Turning and Planing b = a / sin κ h = s x sin κ a – cutting depth
+s – feed
+κ - lead angle
+Drilling b = D / [2 x sin (φ/2)] h= (s/2) x sin (φ/2) s – feed
+D – drill bit diameter
+φ - drill point angle / drill bit angle
+Face Milling b = a / sin κ hm =s1 x sin κ x cos φm a – cutting depth
+cos φm = (sin φs +sinφi) / (φs+ φi) s1 – feed per tooth
+κ – lead angle
+φi – tool engagement angle during climb
+milling /down milling
+φs - angle of contact during up-cut milling
+/ conventional milling
+Peripheral/Slab milling b = B hm = s1 x ( a/D)1/2 a – cutting depth
+(values from the table are s1 – feed per tooth
+valid for milling cutters with B – milling cutter width
+straight and helical teeth) D – milling cutter diameter
+Grinding - Circular b = sa hm = (vp / vt) x a vp – feed rate
+vt – Grinding wheel speed
+a - cutting depth
+sa - Axial feed rate
+Broaching B = O h=a O – Contour perimeter / Profile perimeter
+a - cutting depth
+
+--- PDF PAGE 8 ---
+Manual of ENS 208 ; Prof. Ismar Alagić Ph.D.
+Table S-17: Values of k and 1-m for calculation of main cutting force F , Passive / Radial force F and Feed force
+v1.1 i v P
+F based on Kienzie's equation , F =b x h1-m x k , (i=v,p,s)
+S i 1 i1.1
+No. Workpiece material Rnx106 HV 10 Specific cutting forces (N/mm2)
+(N/m2) kv1.1 1-mv kp1.1 1-mp ks1.1 1-ms
+1. C15G 373 108 1481 0,7184 266 0,2029 333 0,0005
+2. C35N 550 160 1516 0,7349 259 0,4648 321 0,1993
+3. St50-2 559 168 1499 0,7078 274 0,5089 351 0,2987
+4. St70-2 824 239 1595 0,6781 152 0,0994 228 0,0714
+5. Ck45N 713 199 1427 0,7715 198 0,5426 232 0,2319
+6. Ck60N 775 221 1686 0,7842 259 0,5870 285 0,2775
+7. 40Mn4G 618 183 1602 0,7399 290 0,6161 343 0,2909
+8. 37MnSi5G 676 196 1581 0,7532 259 0,5870 317 0,3113
+9. 15NiCr6 G 589 180 1482 0,7403 274 0,5089 340 0,2997
+10. 18CrNi8 G 578 181 1446 0,7328 257 0,5273 351 0,3437
+11. 30CrNiMo8 G 707 210 1493 0,7477 255 0,5657 355 0,3844
+12. 34CrNiMo6 G 834 250 1571 0,7800 233 0,5371 300 0,3233
+13. 34CrMo6 G 559 150 1569 0,7939 317 0,6925 366 0,4165
+14. 41Cr4 G 618 173 1588 0,7763 231 0,4797 334 0,2828
+15. 16MnCr5N 500 150 1411 0,6995 312 0,5004 406 0,3652
+16. 20MnCr5N 588 183 1464 0,7413 300 0,5833 356 0,2433
+17. 34CrMo4G 628 193 1552 0,7192 237 0,3715 337 0,3190
+18. 42CrMo4 G 568 170 1563 0,7442 271 0,5239 374 0,3295
+19. 15CrMo5 G 500 150 1437 0,7161 300 0,5833 391 0,3748
+20. 20MoCr4BG 530 162 1566 07683 290 0,4770 394 0,2864
+21. 30CrMoV9 G 657 214 1526 0,7614 229 0,4599 357 0,3609
+22. 50CrV4 G 667 197 1584 0,7310 315 0,6106 317 0,2345
+23. 31CrMoV9 G 687 208 1490 0,7470 248 0,4953 321 0,2946
+24. Ck35 V 622 185 1527 0,7150 291 0,4644 344 0,2535
+25. Ck53 705 204 1584 0,7619 362 0,5947 355 0,3586
+26. 55NiCrMoVV 1141 340 1595 0,7087 198 0,3422 269 0,2135
+27. 100Cr6 G 624 202 1726 0,7162 362 0,4702 318 0,1368
+28. GG 30 - 206 899 0,5862 164 0,2989 170 0,0867
+Note: These data were obtained during turning and the following test conditions:
+-Tool material hard metal - P 10 (for gray cast iron GG 30 K10)
+-Cutting speed v=100 m/min;
+-Cutting geometry of the tool: α=5°; γ =6°; ε=90; κ =70°; λ=0°; r=0.8 mm;
+-Cut layer thickness range h=0.1÷1.6 mm
+Abbreviations: N-normally annealed; G-soft annealed; V-improved; BG-heat treated to a ferrite-pearlite structure.
+Table S-18: Overview of correction factors for calculating cutting force/resistance components
+according to Kienzi's equation, F = b x h1-m x k x Π k
+i v i1.1 j
+Forces - Correction factor for D (mm); v (m/min); VB (mm); γ, λ, α, κ (°)
+Cutting k k k k k k k
+op va h γ λ α κ
+resistance
+F 1,05 + (1/D) (100/V)Z 1+ξ x VB [(106-1,5 x γ) /100] [(100-1,5 x λ) /100] - -
+v v
+ξ = 0,2÷0,5
+F - (100/v)0,35 1+ξ x VB [(106-5 x γ) /100] [(105-α) /100] sinκ /sin 70°
+s
+ξ = 1,0÷2,5
+F - - 1+ξ x VB [(106-4 x γ) /100] [(100-10 x λ) /100] cosκ /cos70°
+p
+ξ = 1,2÷3,0
+Note: zv=0,143 for v=20 – 100 m/min ; zv=0,071 for v>100 m/min
+kop - refers to internal turning;
+kva - since tool material and cutting speed are interrelated quantities, these are the correction factors for these two quantities combined so that: kva
+=kv x ka
+KB - correction factor that takes into account the specifics of drilling compared to turning.
+KB =1,14 ; for drilling in solid material ; KB =1,10 ; for enlarging an existing hole.
+Ka - correction factor that takes into account the tool material.
+Ka =1 ; for hard metal; Ka =0,9 ÷0,95 ; for cutting ceramics ; Ka =0,8; for high-speed steel.
+
+--- PDF PAGE 9 ---
+Manual of ENS 208 ; Prof. Ismar Alagić Ph.D.
+3) DRILING
+Table BU-1: Recommended feed values for drilling.
+Work material - Workpiece Drill bit diameter Feed s (mm/rev)
+Steel up to Rm=70 x 107 N/m2 1÷10 0,05÷0,18
+Steel up to Rm=50 x 107 N/m2 10÷25 0,18÷0,25
+Steel up to Rm=(60÷70 )x 107 N/m2 1÷10 0,05÷0,18
+Steel up to Rm=(60÷70 )x 107 N/m2 10÷25 0,18÷0,25
+Steel up to Rm=(80÷90 )x 107 N/m2 1÷10 0,03÷0,12
+Steel up to Rm=(80÷90 )x 107 N/m2 10÷25 0,12÷0,25
+Cast Iron, HB≤180 1÷10 0,025÷0,27
+Cast Iron, HB≤180 10÷25 0,27÷0,45
+Cast Iron, HB>180 1÷10 0,01÷0,17
+Cast Iron, HB>180 10÷25 0,17÷0,30
+Note: s(Dx)=smin+x Δs ; Δs(D=1 mm)=(smax-smin)/(Dmax-Dmin); x=Dx-Dmin
+Table BU-2: C ,x ,y and m values for cutting speed calculation :
+v 0 0
+v=(C x D x0 x μ ) /(T m x sy0) (m/s)
+v b 0 b
+Work material -
+C x y m
+Workpiece v 0 0
+Carbon steel
+Rm=45 x 107 N/m2 0,21028
+Rm=55 x 107 N/m2 0,17618
+0,4 0,5 0,2
+Rm=65 x 107 N/m2 0,15155
+Rm=75 x 107 N/m2 0,13450
+Chrome-nickel steel
+Rm=65 x 107 N/m2 0,11935
+Rm=75 x 107 N/m2 0,10609
+0,4 0,5 0,2
+Rm=85 x 107 N/m2 0,09472
+Rm=95 x 107 N/m2 0,08525
+Cast Iron
+HB=170 0,14206
+HB=190 0,12035 0,25 0,4 0,125
+HB=210 0,10359
+Bronze
+HB=100÷140 0,08025 0,25 0,55 0,12
+Aluminium
+Rm=30 x 107 N/m2 0,16667
+0,25 0,55 0,12
+Rm=(30÷50) x 107 N/m2 0,12551
+Note: v=[(Cv x Dx0-m x μ
+0
+) /(l x π)m x sy0-m)1/1-m , where is L- the durability of the drill given in (mm).
+Table BU-3: Value of μ for l/D>2,5
+0
+l/D μO
+up to 2,5 1,0
+3÷4 0,9÷0,8
+4÷5 0,8÷0,7
+5÷6 0,7÷0,65
+6÷8 0,65÷0,6
+8÷10 0,6÷0,5
+
+--- PDF PAGE 10 ---
+Manual of ENS 208 ; Prof. Ismar Alagić Ph.D.
+Table BU-4: C and C values for the calculation of the torque and a secondary movement
+m F
+force during drilling.
+M= C x Dx x sy (Nm) ; F =C x Dx1 x sy1 (N)
+M f F
+Work Material-Workpiece CM CF
+Carbon Steel
+Rm=45 x 107 N/m2 59,139854 x 106 70,395332 x 106
+Rm=55 x 107 N/m2 67,764416 x 106 81,510385x 106
+Rm=65 x 107 N/m2 76,388978 x 106 98,860443 x 106
+Rm=75 x 107 N/m2 85,013540 x 106 103,740489 x 106
+Chrome-nickel steel
+Rm=65 x 107 N/m2 85,013540 x 106 103,740489 x 106
+Rm=75 x 107 N/m2 93,638102 x 106 116,090548 x 106
+Rm=85 x 107 N/m2 103,494748x 106 127,205600 x 106
+Chrome steel
+Rm=65 x 107 N/m2 103,740489 x 106
+Rm=85 x 107 N/m2 127,205600 x 106
+Cast Iron
+HB=170 26,552625 x 106 142,921314 x 106
+HB=190 29,022637 x 106 154,010037 x 106
+HB=210 30,875145 x 106 163,866679 x 106
+Note : for all kind of Steels, x=2; y=0.8; x1=1 and y1=0.7; while for Cast iron x=1.9; y=0.8; x1=1 and y1=0.8.
+4) MILLING
+Table G-1: Allowances of material for rough and fine machining by milling - δ and δ
+1 2.
+Final workpiece Width of the workpiece B≤200 mm Width of the workpiece B>200 mm
+thickness The length of the workpiece L (mm)
+H (mm) up to 100 100÷250 250÷400 400÷630 above 630 up to 100 100÷250 250÷400 400÷630 above 630
+δ1 - rough milling
+up to 18 1,9 2,4 - - - 2,2 2,7 - - -
+18÷30 1,9 2,5 3,0 - - 2,2 2,7 3,2 - -
+30÷50 2,0 2,5 3,1 3,9 - 2,2 2,8 3,3 4,1 -
+above 50 2,1 2,6 3,2 4,0 5,3 2,4 2,9 3,4 4,2 5,6
+δ2 - fine milling
+up to 18 1,0 1,1 - - - 1,2 1,3 - - -
+18÷30 1,0 1,1 1,2 - - 1,2 1,3 1,4 - -
+30÷50 1,1 1,2 1,3 1,4 - 1,3 1,4 1,5 1,6 -
+above 50 1,1 1,2 1,3 1,4 1,8 1,3 1,4 1,5 1,6 1,9
+Table G-2: Recommended feed values per tooth for rough milling
+Workpiece material Feed per tooth s (mm/tooth)
+1
+Plain milling Slitting cutters / End milling Form-relieved Indexable
+cutter and shell side milling cutter milling cutters / milling cutters
+end mill cutters backed-off form
+cutters
+Steel R ≤ 60 x 107 N/m2 0,1 ÷ 0,2 0,06 ÷ 0,08 0,016 ÷ 0,08 0,04 ÷0,06 0,1 ÷ 0,28
+m
+Steel R ≤ 80 x 107 N/m2 0,08 ÷ 0,16 0,05 ÷ 0,06 0,012 ÷ 0,04 0,03 ÷0,05 0,1 ÷ 0,25
+m
+Steel R ≤ 110 x 107 N/m2 0,05 ÷ 0,1 0,04 ÷ 0,05 0,01 ÷ 0,04 0,02 ÷0,04 0,1 ÷ 0,2
+m
+Cast iron HB ≤ 180 0,16 ÷ 0,25 0,07 ÷ 0,1 0,02 ÷ 0,1 0,05 ÷0,08 0,16 ÷ 0,36
+Cast iron HB > 180 0,1 ÷ 0,2 0,04 ÷ 0,06 0,012 ÷ 0,06 0,03 ÷0,08 0,1 ÷ 0,25
+Copper 0,2 ÷ 0,25 0,08 ÷ 0,1 0,016 ÷ 0,07 0,05 ÷0,08 0,1 ÷ 0,2
+Aluminum 0,1 ÷ 0,2 0,05 ÷ 0,08 0,01 ÷ 0,09 0,03 ÷0,07 0,08 ÷ 0,25
+Note: The upper limit of feed per tooth should be used for rough machining, and the lower limit for fine machining.
+
+--- PDF PAGE 11 ---
+Manual of ENS 208 ; Prof. Ismar Alagić Ph.D.
+Table G-3:Standard milling cutter dimensions (cutter diameter D,cutter length l and shaft hole diameter d).
+g
+D (mm) 40 50 63 80 100 125 160
+20 25 32 36 40 50 63
+l (mm) 32 40 50 63 70 80 100
+g
+50 63 70 80 90 110 125
+70 80 90 100 110 140 160
+d (mm) 16 22 27 32 40 50 63
+Table G-4: Values C ,m,y,q,u,w and for calculation of cutting speed during circumferential milling
+v
+v=C /s y=(C x Di)/(Tm x ax x bq x zu x ωw x s y) (m/s) ; C =(C x Di)/(Tm x ax x bq x zu x ωw)
+0 1 v 1 0 v
+Work Cast Iron Carbon Stel Chrome steel Chrome-Nickel steel
+material - HB Rm x 107 (N/m2) Rm x 107 (N/m2) Rm x 107 (N/m2)
+Workpiece 150 200 230 40 50 60 70 55 75 55 80
+Cv 0,0415 0,0311 0,0249 1,159 1,206 1,404 1,244 0,9732 0,8117 0,2825 0,1791
+m 0,33 0,30 0,33 0,22
+x 0,46 0,27 0,27 0,27
+y 0,58 0,30 0,35 0,40
+q 0,31 0,09 0,09 0,09
+u 0,32 0,10 0,10 0,10
+w 0,13 0,18 0,18 0,18
+i 0,72 0,50 0,50 0,50
+Table G-5: C , y and k values for calculation of cutting speed in face milling, v= C / s y (m/s).
+0 0 1
+Workpiece material C y k
+0
+Steel Carbon steel 1,0
+R m ≤ 100 x 107 N/m2 C≤ 0,6% 0,4
+Carbon steel (136,866 x 1010 x k x D0,176) / (T0,184 x R 1,43 x a0,06 x b0,2) 0,85
+m
+C> 0,6%
+Alloy steel 0,6 ÷ 0,65
+Steel Carbon steel 1,0
+R m > 100 x 107 N/m2 C≤ 0,6% 0,4
+Carbon steel (341,493 x 1010 x k x D0,176) / (T0,27 x R m 1,43 x a0,06 x b0,2) 0,85
+C> 0,6%
+Alloy steel 0,6 ÷ 0,65
+Cast iron HB ≤ 200 ( 369,52 x VB0,25) / [T0,28 x (HB)0,7] 0,333 -
+Cast iron HB > 200 ( 73,9 x 106 x VB0,25) / [T0,28 x (HB)3] 0,333 -
+Note: The width of the wear zone VB for rough machining is 1.5 ÷ 2 mm, and for fine machining 0.4 ÷ 0.8 mm.
+Table G-6: Values of the constant C for calculating specific cutting resistance, k = C x s -0,26 (N/m2).
+v 1
+Workpiece material C
+Steel 3,125 x 106 x HB 0,545
+Cast iron 3,915 x 106 x HB0,760
+
+--- PDF PAGE 12 ---
+Manual of ENS 208 ; Prof. Ismar Alagić Ph.D.
+5) PLANING
+Table R-1: Recommended values of cutting speed and feed when planing with high-speed steel
+tools (tool life T=60 min).
+Workpiece material Ultimate tensile Feed s (mm/stroke) Cutting speed v (m/min)
+strength R (N/mm2)
+m
+or Brinell hardness
+Grey cast iron up to 200 HB 0,4 ÷1,0 (fine machining) 18÷13 (fine machining)
+1,0 ÷2,5 (rough machining) 13÷10 (rough machining)
+200 ÷ 250 HB 0,4 ÷1,0 (fine machining) 12÷9 (fine machining)
+1,0 ÷2,5 (rough machining) 9÷7 (rough machining)
+Alloyed grey cast iron 250 ÷ 450 HB 0,4 ÷1,0 (fine machining) 11÷9 (fine machining)
+1,0 ÷2,5 (rough machining) 9÷7 (rough machining)
+Structural steels, case- 500 0,4 ÷1,0 (fine machining) 18÷12 (fine machining)
+hardening steels and 1,0 ÷2,5 (rough machining) 12÷8 (rough machining)
+quenched and tempered 600 0,4 ÷1,0 (fine machining) 12÷8 (fine machining)
+steels 1,0 ÷2,5 (rough machining) 8÷6 (rough machining)
+700 0,4 ÷1,0 (fine machining) 11÷7 (fine machining)
+1,0 ÷2,5 (rough machining) 7÷5 (rough machining)
+Steel casting 700 0,4 ÷1,0 (fine machining) 11÷7 (fine machining)
+1,0 ÷2,5 (rough machining) 7÷5 (rough machining)
+Table R-2: Recommended cutting and feed speeds when planing with hard tool tools.
+Workpiece material Type of hard metal Cutting speed v (m/min) Feed s (mm/stroke)
+Steel R < 60 kN/cm2 60 2,5
+m
+Steel R = 60 ÷ 120 kN/cm2 P40, P50 40 1,5
+m
+Steel R = 120 ÷ 145 kN/cm2 30 1
+m
+High-alloy steels P40, M20 20 0,5 ÷ 1,5
+Hardened steels R ≤ 145 kN/cm2 K10 10 0,5
+m
+Steel casting R ≤ 70 kN/cm2 P40, P50 40 2,5
+m
+High alloy steel casting P40, M20 20 1
+Gray cast iron up to 220 HB P30, P40, K20 30 1,5
+P30 30 2,5
+Gray cast iron above 220 HB K10 30 1
+K20 30 1,5
+6) GRINDING
+Table BR-1: Recommended allowances /additions of material for outer circular grinding –δ (mm).
+3
+l (mm) Workpiece diameter D (mm)
+Up to 10 10÷18 18÷30 30÷50 50÷80 80÷120 120÷180 180÷260 260÷360 above 360
+Up to 100 0,2÷0,3 0,2÷0,3 0,2÷0,3 0,2÷0,3 0,3÷0,4 0,3÷0,4 0,3÷0,4 0,4 0,5 0,5
+100÷250 0,2÷0,3 0,2÷0,3 0,3 0,3÷0,4 0,3÷0,4 0,3÷0,4 0,3÷0,4 0,5 0,5 0,5÷0,6
+250÷400 0,2÷0,3 0,3 0,3÷0,4 0,3÷0,4 0,3÷0,4 0,3÷0,4 0,4÷0,5 0,5 0,5 0,6
+400÷630 0,3÷0,6 0,3÷0,4 0,3÷0,4 0,3÷0,4 0,4÷0,5 0,4÷0,5 0,4÷0,5 0,5÷0,6 0,6 0,6
+630÷1000 - 0,3÷0,4 0,3÷0,4 0,4÷0,5 0,4÷0,5 0,4÷0,5 0,4÷0,6 0,6 0,6÷0,7 0,7
+1000÷1600 - - - 0,6 0,6÷0,7 0,6÷0,7 0,7 0,7÷0,8 0,7÷0,8 0,8
+above 1600 - - - 0,7 0,7÷0,8 0,8 0,8 0,8÷0,9 0,9 0,9
+Note: For rough grinding, 80% of the specified values are taken, and for fine grinding, 20% of the specified values are taken.
+
+--- PDF PAGE 13 ---
+Manual of ENS 208 ; Prof. Ismar Alagić Ph.D.
+Table BR-2: Recommended allowances /additions of material for internal grinding –δ (mm).
+3
+Finished hole Machining length l (mm)
+diameter d (mm) up to 63 63 ÷100 100 ÷160 160 ÷ 250 250 ÷400 above 400
+up to 18 0,3 0,3 - - - -
+18 ÷ 50 0,3 0,3 0,4 0,4 - -
+50 ÷ 80 0,4 0,4 0,4 0,4 0,5 -
+80 ÷120 0,4 0,4 0,4 0,5 0,5 0,6
+120 ÷180 0,4 0,4 0,5 0,5 0,5 0,6
+180 ÷260 0,5 0,5 0,5 0,5 0,6 0,6
+260 ÷ 360 0,5 0,5 0,5 0,6 0,6 0,7
+above 360 0,6 0,6 0,6 0,7 0,7 0,8
+Note: For rough grinding, 80% of the specified values are taken, and for final grinding, 20% are taken.
+Table BR-3: Recommended allowances /additions of material for side/lateral surfaces – δ (mm).
+3
+Final length of the Workpiece diameter D (mm)
+workpiece l (mm) up to 18 18÷50 50÷120 120÷260 above 260
+up to 18 0,3 0,3 0,3 - -
+18 ÷ 50 0,3 0,3 0,4 0,4 -
+50 ÷ 120 0,4 0,4 0,4 0,5 0,6
+120 ÷260 0,5 0,5 0,5 0,5 0,6
+260 ÷500 0,6 0,6 0,6 0,7 0,7
+above 500 0,7 0,7 0,7 0,7 0,8
+Note: For rough grinding, 80% of the specified values are taken, and for final grinding, 20% are taken.
+Table BR-4: Recommended allowances /additions for grinding/lateral side surfaces- δ (mm).
+3
+Final workpiece Workpiece width B ≤ 200 mm Workpiece width B > 200 mm
+thickness H (mm) Workpiece length L (mm)
+up to 100 100÷250 250÷400 400÷630 above 630 up to 100÷250 250÷400 400÷630 above
+100 630
+up to 18 0,3 0,4 - - - 0,3 0,4 - - -
+18 ÷ 30 0,3 0,4 0,4 - - 0,4 0,4 0,5 - -
+30 ÷ 50 0,4 0,4 0,5 0,6 - 0,4 0,4 0,5 0,6 -
+above 50 0,4 0,5 0,6 0,6 0,8 0,5 0,5 0,6 0,7 0,8
+Note: For rough grinding, 80% of the specified values are taken, and for final grinding, 20% are taken.
+
+--- PDF PAGE 14 ---
+Manual of ENS 208 ; Prof. Ismar Alagić Ph.D.
+Table BR-5: Recommended cutting speeds and workpiece speeds when grinding with a corundum
+grinding wheel with a ceramic bonding agent.
+Workpiece material and type of Cutting speed vt (m/s) Workpiece speed vp (m/min)
+machining
+Steel and Cast steel
+Circular outer machining 25÷35 12÷18 (rough); 8÷14 (fine)
+Inner machining 25 18÷25
+Flat machining 20÷35 6÷35
+Cast Iron
+Circular outer machining 25 12÷15 (rough); 9÷12 (fine)
+Inner machining 25 21÷24
+Flat machining 20÷35 6÷35
+Copper alloys
+Circular outer machining 25÷35 18÷21 (rough); 15÷18 (fine)
+Inner machining 25 21÷27
+Flat machining 25 15÷45
+Aluminum and its alloys
+Circular outer machining 20 30÷40 (rough); 24÷30 (fine)
+Inner machining 20 30÷40
+Flat machining 20÷25 15÷45
+Note: For grinding wheels made of SiC, it is necessary to select the recommended values below.
+Table BR-6: The ratio of the average penetration force to the average cutting force on the circumference
+of the grinding wheel.
+Cutting depth a Fpm/Fvm ratio at axial feed sa (mm/rev.)
+(mm) sa=6 sa=7,5 sa=9,5 sa=12 sa=15
+0,01 1,5 1,68 1,65 1,84 1,42
+0,02 1,46 1,44 1,65 1,98 2,12
+0,03 1,82 2,02 2,08 2,18 -
+0,04 2,08 2,03 - - -
+0,05 1,97 - - - -
+Note: 6
+Fvm= 16,68 x 106 x √ HB x Am 0,65 (N) ; Am=(vp/vt) x sa x a (m2).
+Table BR-7: Recommended values of grinding cutting depth "a" (mm).
+Type of machining and workpiece material Cutting depth „a“ (mm)
+Rough circular grinding of Cast iron 0,08÷0,15
+Rough circular grinding of Steel 0,02÷0,05
+Fine circular grinding of Cast iron 0,02÷0,05
+Fine circular grinding of Steel 0,005÷0,01
+Rough straight grinding/sanding 0,05
+Fine straight grinding/sanding 0,01
+Note: In circular grinding, smaller values should be chosen for inner grinding and, conversely, larger values for outer
+grinding.
+Table BR-8: The value of the constant C for the calculation of the speed of the workpiece of grinding.
+Workpiece material C
+Unhardened steel 0,0053÷0,0058
+Hardened steel 0,0030÷0,0038
+Cast Iron 0,0017÷0,0025
+Bronze 0,0050÷0,0053
+Note:
+Circular outer grinding vp=C/√[ a x (D P +D T )]/( D p x D t )
+Inner grinding vp=C/√ a x (D P -D T )]/( D p x D t )
+Flat grinding vp=C/√ a/Dt
+
+--- PDF PAGE 15 ---
+Manual of ENS 208 ; Prof. Ismar Alagić Ph.D.
+Table BR-9: Recommendations for determining axial and transverse/lateral feed during grinding.
+Type of machining and workpiece material Axial feed sa (mm/rev.) Lateral feed sb(mm/rev.)
+Rough grinding of Cast iron (3/4÷4/5) x B -
+Rough grinding of Steel (2/3÷3/4) x B -
+Fine grinding (1/4÷1/3) x B -
+Supefinishing (1/10÷1/5) x B -
+Straight grinding - (1/2÷1/20) x B
+Grinding without spikes π x DP x tgα x μ -
+Note: B (mm) - width of the grinding wheel
+α=1,5÷6° - angle of inclination of the leading grinding wheel
+μ-0,88÷0,96 - coefficient of slip between the workpiece and the leading grinding wheel
+7) BROACHING
+Table P-1: Recommended cutting speeds and depths of cut of broaching.
+Cutting speed v(m/min) Cutting depth a (mm)
+Outer broaching: 6÷15 Rough machining
+Inner broaching: 2÷10 Finishing: 0,02÷0,1
+Table P-2: Recommended values of the specific cutting resistance k by broaching.
+v
+Workpiece material k (N/m2) k =f(R ) (N/m2)
+v v m
+Cast Iron (60÷100) x 107 (4,5÷6) R
+m
+Steel Cast (90÷120) x 107 (4,5÷6) R
+m
+Mild Steel (110÷170) x 107 (2,5÷3,2) R
+m
+Hard steel (160÷280) x 107 (2,5÷3,2) R
+m
+Brass (75÷120) x 107 -
+Bronze (50÷100) x 107 -
+Note: The given values of the specific cutting resistance are multiplied by the correction
+factor of the specificity of machining by broaching, k =1,1÷1,3
+p
+Smaller values of specific cutting resistance refer to larger cross-sectional areas of the
+cutting layer.

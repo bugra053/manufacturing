@@ -1,0 +1,7 @@
+1. Turning
+1.1 Universal lathes
+1.1.1 Task –Solution (4)
+Table S-7 : Values ​​for calculation C , x,y for cutting speed v=(C / ax x sy) x ζ x ζ xζ (m/s)
+V V κ m T
+The table is used only in the case when the tool material is high-speed steel.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

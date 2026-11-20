@@ -1,0 +1,21 @@
+Task 1.4.3 — statement, tutorial PDF page 36
+Original source: https://raw.githubusercontent.com/bugra053/manufacturing/main/sources/tutorial_calculations.pdf
+Read diagram/page image: https://raw.githubusercontent.com/bugra053/manufacturing/main/tutorial/pages/page_36.png
+
+1. Turning – Homework
+1.4 Exercise
+1.4.3. Task
+The finishing machining of the bore in a bushing—clamped in a chuck and having an outer diameter of Ø50
+mm, an inner diameter of Ø40+0,01 mm, and a turning (clamping) length of 150 mm—is performed on a
+universal lathe without prior rough machining.
+It is necessary to determine the appropriate machining parameters such that the deformation (deflection) of
+the workpiece during machining does not exceed the width of the tolerance zone, and the maximum
+roughness of the machined surface does not exceed 12.5 µm.
+Input data for the calculation:
+- Workpiece material: structural steel, Rm=60 x 107 N/mm2 ;
+- Tool material: High-speed steel;
+- Tool durability/life : T=60 min;
+- cutting depth: 1 mm;
+- nose radius of knive: 0.5 mm;
+- Attack angle of the tool blade: κ=90° .
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

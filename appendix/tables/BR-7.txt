@@ -1,0 +1,15 @@
+BR-7 — exact instructor appendix, PDF page 14
+Authority: sources/appendix_formulas.pdf
+Extracted text may lose superscripts, merged cells, root indices or denominator grouping; read original page image when ambiguous. Decimal commas are preserved.
+
+Table BR-7: Recommended values of grinding cutting depth "a" (mm).
+Type of machining and workpiece material Cutting depth „a“ (mm)
+Rough circular grinding of Cast iron 0,08÷0,15
+Rough circular grinding of Steel 0,02÷0,05
+Fine circular grinding of Cast iron 0,02÷0,05
+Fine circular grinding of Steel 0,005÷0,01
+Rough straight grinding/sanding 0,05
+Fine straight grinding/sanding 0,01
+Note: In circular grinding, smaller values should be chosen for inner grinding and, conversely, larger values for outer
+grinding.
+

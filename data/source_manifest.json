@@ -1,0 +1,31 @@
+{
+  "course": "ENS 208 - Introduction to Manufacturing Systems",
+  "repository": "bugra053/manufacturing",
+  "coefficient_authority": "Only the exact instructor-supplied appendix in this repository. Tutorial worked examples provide methods but do not override the appendix table cells or current question givens.",
+  "sources": [
+    {
+      "id": "tutorial",
+      "original_filename": "Tutorial Midterm 2027 fall ENS208 calculation task.pdf",
+      "pdf_path": "sources/tutorial_calculations.pdf",
+      "pdf_url": "https://raw.githubusercontent.com/bugra053/manufacturing/main/sources/tutorial_calculations.pdf",
+      "page_count": 67,
+      "sha256": "593f5a58ec39f55eb7e4a727f5e5e1727e5adcf41e560d3a113513a76820ec71",
+      "text_pattern": "tutorial/text/page_{page:02}.txt",
+      "page_image_pattern": "tutorial/pages/page_{page:02}.png"
+    },
+    {
+      "id": "appendix",
+      "original_filename": "appendix ENS 208 Formulas 1.pdf",
+      "pdf_path": "sources/appendix_formulas.pdf",
+      "pdf_url": "https://raw.githubusercontent.com/bugra053/manufacturing/main/sources/appendix_formulas.pdf",
+      "page_count": 15,
+      "sha256": "dd6065e3b922be4b8942c35db57e5b9453835394afda1a40810bdb3ac7bfaece",
+      "text_pattern": "appendix/text/page_{page:02}.txt",
+      "page_image_pattern": "appendix/pages/page_{page:02}.png"
+    }
+  ],
+  "notes": [
+    "Tutorial filename says 2027 fall, while its title slide says September/2026; filenames and source content are preserved without inferring an exam year.",
+    "The tutorial includes worked derivations, numerical placeholders and some source inconsistencies; it is not a uniformly checked final-answer key."
+  ]
+}

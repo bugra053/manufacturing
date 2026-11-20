@@ -1,0 +1,14 @@
+Task 2.4.6 — statement, tutorial PDF page 66
+Original source: https://raw.githubusercontent.com/bugra053/manufacturing/main/sources/tutorial_calculations.pdf
+Read diagram/page image: https://raw.githubusercontent.com/bugra053/manufacturing/main/tutorial/pages/page_66.png
+
+2. Drilling – Homework
+2.4 Exercise
+2.4.6 Task
+On a multi-spindle drilling machine, three Ø22 mm holes and three Ø25 mm holes are simultaneously
+drilled into a 50 mm thick structural steel plate (tensile strength R = 50 x 107 N/m2). Given that the more
+m
+heavily loaded drill bit becomes blunt after processing 30 workpieces, and aiming for the less heavily
+loaded drill bit to process the maximum possible number of workpieces, it is necessary to determine the
+appropriate machining parameters and the number of pieces the less heavily loaded drill bit can produce.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

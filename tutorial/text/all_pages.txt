@@ -1,0 +1,1250 @@
+
+--- PDF PAGE 1 ---
+Program: Mechanical Engineering
+Calculation
+ENS 208 – Introduction to Manufacturing
+Systems
+Prof. Ismar Alagić , PhD
+Date: September /202 6
+
+--- PDF PAGE 2 ---
+1. Turning
+1.1 Universal lathes
+1.1.1 Task
+The workpiece with a diameter of Ø63 mm before machining and Ø60 mm after machining is processed on
+a universal lathe.
+It is necessary to calculate:
+-cross-sectional area of ​​the cutting layer;
+-cutting speed for tool durability T=90 min;
+-main cutting resistance;
+-power of the driving electric motor of the machine;
+-the mass of the chip removed per unit of time.
+Input data for the calculation:
+-Work piece material CrNi steel , R =70 x 107 N/m2
+m
+-Tool material: High-speed steel;
+-Feed, s=0,3 mm/rev ;
+-Efficiency rate of machine transmission, η=0,8.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 3 ---
+1. Turning
+1.1 Universal lathes
+1.1.1 Task –Solution (1)
+The cross-sectional area of ​​the cutting layer is determined using a mathematical formula:
+A=a x s = 0,0015 x 0,0003=? m2.
+where Feed is given and is the amount: s=0,3 mm/rev
+While the cutting depth is calculated based on the difference in diameter before and after machining:
+a= (63-60)/2=? mm
+The cutting speed is determined based on the given stability of the tool according to the mathematical
+formula:
+v=(C / ax x sy) x ζ x ζ xζ = (0,009069 / 0,00150,24 x 0,00030,34) x 0,74 x 1 x 0,935
+V κ m T
+=? m/s.
+The constants and exponents in the previous equation are:
+C =0,009069 ; x=0,24; y=0,34} from Table S-7 for CrNi steel; Rm=70 x 107 N/m2 ;
+V
+a>1 mm; and s=0,2 – 0,4 mm/rev
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 4 ---
+1. Turning
+1.1 Universal lathes
+1.1.1 Task –Solution (2)
+Table S-7 : Values ​​for calculation C , x,y for cutting speed v=(C / ax x sy) x ζ x ζ xζ (m/s)
+V V κ m T
+The table is used only in the case when the tool material is high-speed steel.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 5 ---
+1. Turning
+1.1 Universal lathes
+1.1.1 Task –Solution (3)
+While the correction coefficients are determined as follows:
+A coefficient that takes into account the angle of attack of the tool blade κ=90⁰ from the table S-5; ζ =0,74 .
+k
+Table S-5: Correction coefficient „ζ “for the calculation of the cutting speed v for various values ​​of the attack angles
+k
+of the tool blade κ.
+A coefficient that takes into account the material of the tool, high-speed steel from the table S-6 ; ζ =1 .
+m
+Table S-6: Correction coefficient „ζ “ for calculation of cutting speed „v“ for various tool materials.
+m
+The coefficient that takes into account the durability of the tool T=90 min from the table S-7 below (z=6 for steel machining) ;
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 6 ---
+1. Turning
+1.1 Universal lathes
+1.1.1 Task –Solution (3)
+While the correction coefficients are determined as follows:
+A coefficient that takes into account the angle of attack of the tool blade κ=90⁰ from the below table; ζ =0,74 .
+k
+Table S-5: Correction coefficient „ζ “for the calculation of the cutting speed v for various values ​​of the attack angles
+k
+of the tool blade κ.
+A coefficient that takes into account the material of the tool, high-speed steel from the table below ; ζ =1 .
+m
+Table S-6: Correction coefficient „ζ “ for calculation of cutting speed „v“ for various tool materials.
+m
+The coefficient that takes into account the durability of the tool T=90 min from the table S-7 below (z=6 for steel machining) ;
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 7 ---
+1. Turning
+1.1 Universal lathes
+1.1.1 Task –Solution (4)
+Table S-7 : Values ​​for calculation C , x,y for cutting speed v=(C / ax x sy) x ζ x ζ xζ (m/s)
+V V κ m T
+The table is used only in the case when the tool material is high-speed steel.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 8 ---
+1. Turning
+1.1 Universal lathes
+1.1.1 Task –Solution (5)
+Cutting force (main cutting resistance) is:
+F =C x ax1 x sy1 = 4.356 x 108 x 0,00151 x 0,00030,78
+v k
+= ? N
+Whereby the constant and exponents in the equation are as follows:
+}
+C =4,356 x 108 ; x =1 ; y =0,78 From below Table for CrNi steel; Rm=70 x 107 N/m2
+k 1 1
+Table S-13: Values ​​of C , x , y for the calculation of the main cutting force (resistance), F =C x ax1 x sy1 (N).
+k 1 1 v k
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 9 ---
+1. Turning
+1.1 Universal lathes
+1.1.1 Task –Solution (6)
+The power of the drive motor of the machine is:
+P =(F x v) /η=(F x v) /0,8= ? kW
+M V V
+The mass of the chip removed per unit of time is:
+M = A x v x ρ =0,45 x 10-6 x v x 7850 =? kg/s.
+s
+Where is : ρ =7850 kg/m3 - density or specific mass of material taken from the table O-1 for steel.
+m
+Table O-1 : Approximate values ​​of modulus of elasticity and density or specific mass of workpiece material
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 10 ---
+1. Turning
+1.1 Universal lathes
+1.1.2 Task
+Longitudinal machining is performed on a universal lathe in either one or two passes. Determine the
+maximum cross-sectional area of ​​the cutting layer for the single-pass machining scenario, and the
+percentage reduction in the machine's drive motor power for the two-pass scenario, given the same
+specified machining conditions.
+Input data for the calculation:
+- Workpiece material: structural steel, Rm=70 x 107 N/mm2 ;
+- Tool material: hard metal / carbide tool P25;
+- Tool durability/life : T=20 min;
+- Chip slenderness coefficient: g=8;
+- Attack angle of the tool blade: κ=90° ;
+- Power of the machine's electric drive motor: P = 10 kW;
+M
+- Efficiency rate of machine transmission, η=0,8.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 11 ---
+1. Turning
+1.1 Universal lathes
+1.1.2 Task – Solution (1)
+The cross-sectional area of ​​the cutting layer, which is the product of the depth of cut „a“ and the
+feed rate „s“, is calculated as follows: A=a x s
+We use a mathematical formula for the maximum utilization of the power of the driving electric
+motor of the machine, which is determined from the following formula: P = (F x v) / η
+M v
+The main cutting resistance is calculated as follows: F =C x ax1 x sy1
+v k
+The cutting speed is calculated using the following mathematical formula: v=(C / Tm x ax x sy) x ζ x ζ xζ
+v κ mrp T
+After substituting the formulas for the main cutting force F and cutting speed v into the mathematical
+v
+formula for the power of the machine's drive motor, we obtain the following:
+P = (C x C x a(x1-x) x s(y1-y) x ζ x ζ x ζ ) / (η x Tm) ...(1)
+M k v κ mrp T
+The chip slenderness coefficient is defined by the following formula: g=a/s ...(2)
+After entering the mathematical formulas (1) and (2) into the mathematical form for calculation the power of
+the machine's drive motor, we obtain the following:
+P = (C x C x g(x1-x) x s(y1-y+x1-x) x ζ x ζ x ζ ) / (η x Tm)
+M k v κ mrp T
+Solving the equation in terms of „s“, we get the following:
+s= {[P x η x Tm ] / [C x C x g(x1-x) x ζ x ζ x ζ ]} 1 / (y1-y+x1-x)
+M k v κ mrp T
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 12 ---
+1. Turning
+1.1 Universal lathes
+1.1.2 Task – Solution (2)
+s= {[P x η x Tm ] / [C x C x g(x1-x) x ζ x ζ x ζ ]} 1 / (y1-y+x1-x)
+M k v κ mrp T
+s= {[10000 x 0,8 x (20 x 60)0,2 ] / [3,95 x 108 x 0,2713 x 8(1-0,15) x 0,74 x 1,071 x 1,732]} 1 / (0,78-0,35+1-0,15)
+s= ? [m/rev]
+The constants and exponents in the previous equation are:
+C =3,95 x108 ; x=1,0; y=0,78} from Table S-13 for Structural steel /Carbon steel; Rm=70 x 107 N/m2 ;
+k
+Table S-13: Values ​​of C , x , y for the calculation of the main cutting force (resistance), F =C x ax1 x sy1 (N).
+k 1 1 v k
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 13 ---
+1. Turning
+1.1 Universal lathes
+1.1.2 Task – Solution (3)
+C =0,2713 ; x=0,15; y=0,35; m=0,2} from Table S-8 for Structural/Carbon steel; hard metal, and we assume s≤0,75 mm/rev
+v
+Table S-8: Values ​​of C , x, y and m for calculation of cutting speed v=(C x ζ x ζ xζ ) /Tm x ax x sy (m/s)
+v v κ mrp T
+The table is used when the material of the tool is hard metal and ceramic insert, and if necessary also for high-speed steel.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 14 ---
+1. Turning
+1.1 Universal lathes
+1.1.2 Task – Solution (4)
+While the correction coefficients are determined as follows:
+A coefficient that takes into account the angle of attack of the tool blade κ=90⁰ from the below table; ζ =0,74 .
+k
+Table S-5: Correction coefficient „ζ “for the calculation of the cutting speed v for various values ​​of the attack angles of the tool blade κ.
+k
+A coefficient that takes into account the material of the workpiece, from the table S-8, according to formula:
+ζ =(75 x 107) / R – for steel → ζ = (75 x 107) / (70 x 107) =?
+mrp m mrp
+The coefficient that takes into account the durability of the tool T=20 min from the table S-8 (z=2 for steel machining) ;
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 15 ---
+1. Turning
+1.1 Universal lathes
+1.1.2 Task – Solution (5)
+Since the calculated machining feed fully satisfies the initial assumption made when determining the constant
+and exponent values ​​from Table S-8, we can proceed with the problem. It is important to note that if the result
+does not satisfy the initial assumption, a new assumption must be made and the calculation repeated with
+modified values ​​for the constant and exponents. The depth of cut can now be determined using formula (2):
+a= g x s =8 x s =? [m]
+The required maximum cross-sectional area of ​​the cutting layer is:
+A= a x s =0,00283 x s = 1 x 10-6 [m2]
+In the second part of the task, to calculate the percentage reduction in the machine's drive motor power for a
+two-pass machining operation, it is necessary to determine the new depth of cut and feed rate while
+maintaining the same machining conditions—i.e., with g = constant—as follows:
+a =a / 2=2,83/2=? mm ; s =a / g= a / 8=? mm/rev.
+1 1 1 1
+The power of the machine's drive electric motor, according to mathematical formula (1), for the given
+machining conditions is:
+P = (C x C x a (x1-x) x s (y1-y) x ζ x ζ x ζ ) / (η x Tm)
+M1 k v 1 1 κ mrp T
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 16 ---
+1. Turning
+1.1 Universal lathes
+1.1.2 Task – Solution (6)
+P = (3,95x108 x 0,9197x 0,001415(1-0,15) x 0,000177(0,78-0,2) x 0,74 x 1,071x1,732) / [0,8 x (20x60)0,2] = ? W
+M1
+whereby, given the other machining conditions, the values ​​of the constant and exponents related to the cutting speed change
+as follows:
+C =0,9197 ; x=0,15; y=0,2; m=0,2} from Table S-8 for Structural/Carbon steel; hard metal P25, and s≤0,3 mm/rev.
+v
+The required percentage reduction in the power of the machine‘s
+drive electric motor is, therefore:
+(P – P ) / P =
+M M1 M
+[(10000 – P ) / 10000] x 100
+M1
+(P – P ) / P = ? %
+M M1 M
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 17 ---
+1. Turning
+1.1 Universal lathes
+1.1.3 Task
+Determine the maximum depth of cut and the number of revolutions corresponding to it during
+longitudinal machining on the lathe.
+Input data for the calculation:
+-Work piece material: Cast Iron , HB=180 ;
+-Tool material: High-speed steel;
+-Chip slenderness coefficient: g=8;
+-Workpiece diameter before processing: D=80 mm;
+- Attack angle of the tool blade: κ= 55° ;
+- Power of the machine's electric drive motor: P = 1,8 kW;
+M
+- Efficiency rate of machine transmission, η=0,7.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 18 ---
+1. Turning
+1.1 Universal lathes
+1.1.3 Task – Solution (1):
+The maximum cutting depth is determined based on the condition of maximizing the power utilization of the
+machine's drive motor. The power of the machine's drive motor is determined using the following
+mathematical formula:
+P = (F x v) / η
+M v
+At the same time, the main resistance to tearing is given with the formula: F = C x ax1 x sy1
+v k
+while the cutting speed is given with the form: v = [C / (ax x sy)] x (ζ x ζ xζ )
+v κ m T
+Thus, by substituting the formulas given above into the formula for the power of the machine's drive electric
+motor, the following is obtained: P =[C x C x a(x1-x) x s(y1-y) x ζ x ζ xζ ] / η ...(1)
+M k v κ m T
+If the feed is now expressed from the mathematical formula defining the chip slenderness coefficient:
+g= a/s ...(2)→ s= a/g
+and substituted into equation (1), the result is:
+P = {[C x C x a(x1-x+y1-y) x ζ x ζ xζ ] / [η x g(y1-y)]}
+M k v κ m T
+Therefore, the depth of cut is calculated as follows:
+a= {[P x η x g(y1-y) ] / (C x C x ζ x ζ xζ )}1 / (x1-x+y1-y)
+M k v κ m T
+a= {[1800 x 0,7 x 8(0,73-0,3) ] / (1,67x108 x 0,014336 x 0,9 x 1x 1 )}1 / (1-0,2+0,73-0,3)
+a=4,86 x 10-3 m
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 19 ---
+1. Turning
+1.1 Universal lathes
+1.1.3 Task – Solution (2):
+The constants and exponents in the previous equation are:
+C =0,014336 ; x=0,2; y=0,3}from Table S-7 for Cast Iron; a>1 mm; and we assumed s≤0,72 mm/rev
+V
+Table S-7 : Values ​​for calculation C , x,y for cutting speed v=(C / ax x sy) x ζ x ζ xζ (m/s)
+V V κ m T
+The table is used only in the case when the tool material is high-speed steel.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 20 ---
+1. Turning
+1.1 Universal lathes
+1.1.3 Task – Solution (3):
+The constants and exponents in the previous equation are:
+C =1,67 x 107 ; x=1,0; y=0,73}from Table S-13 for Cast Iron, HB=180
+k
+Table S-13 : Values ​​of C , x , y for the calculation of the main cutting force (resistance), F =C x ax1 x sy1 (N).
+k 1 1 v k
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 21 ---
+1. Turning 1.1 Universal lathes , 1.1.3 Task – Solution (4):
+While the correction coefficients are determined as follows:
+A coefficient that takes into account the angle of attack of the tool blade κ=55⁰ from the table S-5; ζ =0,9 .
+k
+Table S-5: Correction coefficient „ζ “for the calculation of the cutting speed v for various values ​​of the
+k
+attack angles of the tool blade κ.
+A coefficient that takes into account the material of the tool, high-speed steel from the table S-6 ; ζ =1 .
+m
+Table S-6: Correction coefficient „ζ “ for calculation of cutting speed „v“ for various tool materials.
+m
+The coefficient that takes into account the durability of the tool T=60 min which is adopted as the standard
+value for high-speed steel tools from Table S-7 (z=9 for cast iron machining):
+Table S-7 : Values ​​for calculation C , x,y for cutting speed v=(C / ax x sy) x ζ x ζ xζ (m/s)
+V V κ m T
+The table is used only in the case when the tool material is high-speed steel.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 22 ---
+1. Turning
+1.1 Universal lathes
+1.1.3 Task – Solution (5):
+Given that an assumption was made for the feed rate value to determine the constant and exponents adopted
+from Table S-8, it must be verified as follows:
+According to mathematical formula (2), the feed is: s=a /g =4,86 /8=? mm/rev.
+which means that the assumption was correct, so the calculation results can be accepted.
+The cutting speed, i.e. the number of revolutions of the workpiece for the calculated cutting depth are:
+v =(C / ax x sy) x ζ x ζ xζ
+V κ m T
+= [ 0,014336 / ( 0,004860,2 x 0,0006070,3)] x 0,9 x1 x 1 =? m/s
+n= v /(D x π) = v / (0,8 x π) =? rev/s
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 23 ---
+1. Turning
+1.2 Multi-tool lathes
+1.2.1 Task
+During machining on a multi-cutting lathe, the workpiece shown in the image is obtained from bar material
+with a diameter of 70 mm. It is necessary to determine the relevant regime of machining so that the
+durability of the most endangered knife is T=30 min and after how many machining operations dulled
+knives should be replaced.
+Input data for the calculation:
+- Work piece material Structural steel, Rm=60 x 107 N/m2 ;
+-Tool material: High-speed steel;
+-Feed, s=0,35 mm/rev
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 24 ---
+1. Turning ; 1.2 Multi-tool lathes ; 1.2.1 Task – Solution (1)
+On a multi-cutting lathe, the given workpiece is processed by the simultaneous action of all the knives
+placed on the longitudinal tool support, as shown in the following machining plan:
+The relevant regime of machining is determined from the condition that the
+durability/stability of the most endangered knife is T=30 min. The knife No. 1 is
+the most vulnerable, because compared to other knives, for the same feed and
+cutting depth, it machines the largest diameter, which has the highest cutting
+speed and thus the lowest durability/stability.
+Determining the relevant machining regime starts from defining the cutting depth.
+Cutting depths are calculated based on the difference in diameter before and after
+machining for each knife separately. In this case, the cutting depth is the same for
+all knives and amounts to:a=5 mm.
+The cutting speed is determined first for knife No. 1, based on its given durability:
+v =(C / ax x sy) x ζ x ζ xζ = (0,010928 / 0,0050,26 x 0,000350,36) x 0,74 x 1 x 1,122 =? m/s.
+1 V κ m T
+The constants and exponents in the previous equation are:
+}
+C =0,010928 ; x=0,26; y=0,36 From Table S-7 for steel; Rm=60 x 107 N/m2 ; a>1 mm; and, s=0,2 ÷0,4 mm/rev
+V
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 25 ---
+1.Turning ; 1.2 Multi-tool lathes ; 1.2.2 Task – Solution (2) Table S7 : Values ​​for calculation C , x,y for cutting speed v=(C / ax x sy) x ζ x ζ xζ (m/s)
+V V κ m T
+The table is used only in the case when the tool material is high-speed steel.
+While the correction coefficients are determined as follows:
+-A coefficient that takes into account the angle of attack of the tool
+blade κ=90⁰ from the table S-5; ζ =0,74 .
+k
+Table S-5: Correction coefficient „ζ “for the calculation of the
+k
+cutting speed v for various values ​​of the attack angles of the tool
+blade κ.
+A coefficient that takes into account the material of the tool, high-speed steel
+from the table S-6 ; ζ =1 .
+m
+Table S-6: Correction coefficient „ζ “ for calculation of cutting speed „v“ for various tool materials.
+m
+The coefficient that takes into account the durabilityof the tool T=30 min from the table below (z=6 for steel machining) ;
+Table S-7 : Values ​​for calculation C , x,y for cutting speed v=(C / ax x sy) x ζ x ζ xζ (m/s)
+V V κ m T
+The table is used only in the case when the tool material is high-speed steel.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 26 ---
+1. Turning ; 1.2 Multi-tool lathes ; 1.2.1 Task – Solution (3)
+The number of revolutions of the workpiece is:
+n=(v /D x π)=0,632 /(0,07 x π)=? rev/s
+1 1
+In order to determine after how many workpieces have been made, individual blunt knives need to be replaced, first of all, their durability
+must be known.
+Based on the previously calculated number of revolutions of the workpiece, the cutting speeds of knives No. 2 and No. 3 can be
+determined
+v = n x D x π = n x 0,06 x π = ? mm/rev
+2 2
+v = n x D x π =n x 0,05 x π = ? mm/rev
+3 3
+Durability/Stability of knives no. 2 and no. 3, given that the same material is machined with the same depth of cut and the same feed, can
+now be determined from the well-known Taylor mathematical formula: vz x T = const.
+Respectively: v z x T = v z x T= v z x T
+1 2 3
+Durability/ Stability of knives no. 1 and no. 2, therefore amounts to:
+T =T x (v /v )z= 30 x 60 x (v /v )6= ? s
+2 1 1 2 1 2
+T =T x (v /v )z=30 x 60 x (v /v )6= ? s
+3 1 1 3 1 3
+The number of pieces made, after which individual dull knives need to be replaced, is calculated as follows:
+K =(T /t' ) whre is j=1,2,3.
+j j gj
+where the active machining time for individual knives is:
+t' = l /(n x s)= 0,058 / (n x 0,00035)= ? s
+g1 1
+t' = l /(n x s)= 0,048 / (n x 0,00035)=? s
+g2 2
+t' = l /(n x s)= 0,04 / (n x 0,00035)=? s
+g3 3
+so that: K =(30 x 60)/ t' =? pieces
+1 g1
+K =4525/ t' =? pieces
+2 g2
+K =13630/ t' =? pieces
+3 g3
+So the first tool will be changed after 31, the second after 94, and the third after ? manufactured pieces.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 27 ---
+1. Turning
+1.3 Turret lathes
+1.3.1 Task
+The workpiece according to the sketch given below is
+machined on a turret lathe with a horizontal working head,
+so that the longitudinal and transverse supports of the tool
+work simultaneously.
+It is necessary to calculate:
+- the relevant machining regime;
+- main machining time;
+-main cutting resistance;
+- durability/stability of the most endangered tool.
+Input data for the calculation:
+- the material of the workpiece is cast iron, HB=200;
+- the material of the drill bit is high-speed steel, and the
+material of the turning knives is hard metal K20;
+- power of the driving electric motor of the machine is
+P =15 kW;
+M
+-Efficiency rate of machine transmission, η=0,75.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 28 ---
+1. Turning 1.3 Turret lathes , 1.3.1 Task – Solution (1)
+On the revolver lathe, according to the condition of the task, the workpiece is machined by the simultaneous action of all
+the tools placed on the longitudinal and transverse support of the tool, as shown in the Machining Plan given below.
+Determining the relevant machining regime
+includes determining the depth of cut, feed rate
+and number of revolutions of the workpiece.
+The cutting depth for turning knives is determined
+based on the given sketch of the workpiece:
+- for longitudinal machining based on the
+difference in diameter before and after machining:
+a =(62÷56)/2=3 mm; a =(56÷50)/2=3 mm;
+1 2
+- for transverse machining based on the width of
+the groove that is made by machining: a =3 mm;
+3
+a =3 mm.
+4
+The feed is determined based on the ratio of the
+recommended values ​​for turning and drilling,
+namely:
+-feed for longitudinal and transverse turning is
+determined based on the recommended values ​​of
+the chip slenderness coefficients given in the table
+S-9 (next slide).
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 29 ---
+1. Turning 1.3 Turret lathes , 1.3.1 Task – Solution (2)
+Table S-9: Recommended feed values ​​„s“ for rough turning with knives made of high-speed steel and hard metal- carbide.
+s =a/g=3/(5÷10)=0,3÷0,6 mm/rev.
+tur long
+s =a/g=3/(5÷20)=0,15÷0,6 mm/rev.
+tur trans
+- the drilling feed is determined based on the
+recommendations from the table BU-1 for cast iron,
+HB=200 and D =25 mm: s =0,3 mm/rev.
+drill drill
+Table BU-1: Recommended feed values ​​for drilling.
+so that for the relevant feed, for longitudinal machining
+(based on recommendations for longitudinal turning and
+drilling) and transverse machining (only based on
+recommendations for transverse turning), the maximum
+permissible values ​​are adopted, namely: s =0,3 mm/rev. ;
+long
+s =0,6 mm/rev.
+trans
+The number of revolutions of the workpiece is calculated on
+the basis of the maximum utilization of the power of the
+driving electric motor of the machine, bearing in mind that
+all tools perform machining simultaneously:
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 30 ---
+1. Turning 1.3 Turret lathes , 1.3.1 Task – Solution (3)
+that is, after arranging the mathematical form given above:
+n=(P x η) /π x { C x a x1x [s y1 x (D +D ) + s y1 x (D +D )] + 2 x C x d x x s y}=
+M k i long 1 2 trav 3 4 M Drill long
+=(15000x0,75)/π x[1,778x108x0,0031x(0,00030,73x(0,062+0,056)+0,00060,73x(0,062+0,062))]+(15000x0,75)/π x
+[2x29,948891x106x0,0251,9x0,00030,8] =? rev/s
+The constants and exponents in the previous equation are:
+C =1,778 x 108 ; x =1 ; y =0,73 } From below Table S-13 for Cast Iron; HB=200
+k 1 1
+Table S-13: Values ​​of C , x , y for the calculation of the main cutting force (resistance), F =C x ax1 x sy1 (N).
+k 1 1 v k
+C =1,778 x 108 ; x=1,9 ; y=0,8 } From below
+M
+Table BU-4 for Cast Iron; HB=200
+Table BU-4: C and C values ​​for the
+m F
+calculation of the torque and a secondary
+movement force during drilling.
+M= C x Dx x sy (Nm) ; F =C x Dx1 x sy1 (N)
+M f F
+In order to determine the main machining time, given that the longitudinal
+and transverse feed are different, the machining times for the longitudinal
+and transverse tool holder are first determined:
+t =(l +Δl)/n x s =(0,03+0,002)/6,484 x 0,0003=? s
+glong long long
+t =(l +Δl)/n x s =(0,006+0,002)/6,484 x 0,0006=? s
+gtrans trans trans
+therefore, the longitudinal machining time is taken as the main machining
+time of the entire operation:
+t =? s
+g
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 31 ---
+1. Turning 1.3 Turret lathes , 1.3.1 Task – Solution (4)
+In order to determine the durability of the most endangered tool, with regard to various mathematical formulas, it is
+necessary to determine the durability of the most endangered turning knife and drill, and thus see which tool is the most
+endangered.
+The durability of the most endangered knife is determined for knife No. 1, which has the highest cutting speed and thus the
+lowest durability. This is because compared to knife no. 2, for the same feed and cutting depth, knife no. 1 machines a larger
+diameter, while knives no. 3 and no. 4, which although work with a higher feed, have a lower effective cutting speed due to
+the reduction of the machining diameter.
+The durability of the most vulnerable knife is determined from the form for calculating the cutting speed:
+v = (C x ζ x ζ xζ ) /T m x a x x s y =D x π x n
+1 v κ mrp T 1 1 long 1
+where the coefficient that takes into account tool durability is taken from the table S-8:
+so it is:
+T =[( C x ζ x ζ x 36001/6) / (0,062 x π x 6,484 x 0,0030,15 x 0,00030,2)](z/z x m +1) =
+1 v κ mrp
+=[( 0,9837 x 0,74 x 0,938 x 36001/6) / (0,062 x π x 6,484 x 0,0030,15 x 0,00030,2)](6/6 x 0,2 +1)
+=? s
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 32 ---
+1. Turning 1.3 Turret lathes , 1.3.1 Task – Solution (5)
+The constants and exponents in the previous equation are:C =0,9837 ; x=0,15 ; y=0,2 ; m=0,2; z=6 } From Table S-8 for Cast
+v
+Iron; HB=200, HM K20 and s≤0,4 mm/rev.
+Table S-8: Values ​​of C , x, y and m for calculation of cutting speed v=(C x ζ x ζ xζ ) /Tm x ax x sy (m/s)
+v v κ mrp T
+The table is used when the material of the tool is hard metal and ceramic insert, and if necessary also for high-speed steel.
+while the correction coefficients in the expression for the cutting speed are
+determined as follows:
+-A coefficient that takes into account the angle of attack of the tool blade κ=90⁰
+from the table S-5; ζ =0,74 .
+k
+Table S-5: Correction coefficient „ζ “for the calculation of the cutting speed v
+k
+for various values ​​of the attack angles of the tool blade κ.
+A coefficient that takes into account the material of the workpiece,
+from the table S-8 ;
+ζ =(190/HB)1,25=(190/200)1,25=?
+mrp
+The durability of the drill bit is determined from the following
+cutting speed:
+v =(C x D x0 x μ ) /(T m x sy0)= D x π x n
+b v b 0 b b
+so it is:
+T =[ (C x μ ) / (π x 6,484 x 0,00030,4 x 0,0251-0.25)]1/0,125 = ? s
+b v 0
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 33 ---
+1. Turning 1.3 Turret lathes , 1.3.1 Task – Solution (6)
+The constants and exponents in the previous equation are: C =0,11197 ; x =0,25; y =0,4; m=0,125 }-
+v 0 0
+From bellow Table BU-2 for Cast Iron; HB=200
+Table BU-2 : C ,x ,y and m values ​​for cutting speed calculation v=(C x D x0 x μ ) /(T m x sy0) (m/s)
+v 0 0 v b 0 b
+while the coefficient μ is determined
+0
+based on the data from the table BU-3:
+μ =1 for (l /D )=20/25<1.
+0 b b
+So, the most endangered tool is the drill
+and its durability is T =? s.
+b
+Table BU-3: Value of μ for l/D>2,5
+0
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 34 ---
+1. Turning – Homework
+1.4 Exercise
+1.4.1. Task
+Rough turning is performed on a universal lathe, reducing the diameter from Ø60 mm to Ø54 mm over a
+turning length of 45 mm.
+It is necessary to determine the following, assuming the tool becomes dull after 50 produced parts:
+- the appropriate machining regime;
+- the necessary power of the driving electric motor for performing this operation;
+Input data for the calculation:
+- The material of the workpiece is CrNi steel, Rm=70 x 107 N/m2;
+- Both tools material: hard metal / carbide tool P25;
+- Efficiency rate of machine transmission, η=0,8.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 35 ---
+1. Turning – Homework
+1.4 Exercise
+1.4.2. Task
+Determine the tool life required to machine 50 workpieces by turning on a universal lathe. Based on the
+calculated tool life, determine the complete machining parameters.
+Input data for the calculation:
+- Workpiece material: structural steel, Rm=60 x 107 N/mm2 ;
+- Tool material: hard metal / carbide tool P25;
+- Diameter before turning is D = 98 mm, and after machining the diameter is d = 82 mm;
+- Chip slenderness coefficient: g=8;
+- Attack angle of the tool blade: κ=90° ;
+- Turning length 50 mm.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 36 ---
+1. Turning – Homework
+1.4 Exercise
+1.4.3. Task
+The finishing machining of the bore in a bushing—clamped in a chuck and having an outer diameter of Ø50
+mm, an inner diameter of Ø40+0,01 mm, and a turning (clamping) length of 150 mm—is performed on a
+universal lathe without prior rough machining.
+It is necessary to determine the appropriate machining parameters such that the deformation (deflection) of
+the workpiece during machining does not exceed the width of the tolerance zone, and the maximum
+roughness of the machined surface does not exceed 12.5 µm.
+Input data for the calculation:
+- Workpiece material: structural steel, Rm=60 x 107 N/mm2 ;
+- Tool material: High-speed steel;
+- Tool durability/life : T=60 min;
+- cutting depth: 1 mm;
+- nose radius of knive: 0.5 mm;
+- Attack angle of the tool blade: κ=90° .
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 37 ---
+1. Turning – Homework
+1.4 Exercise
+1.4.4. Task
+The workpiece shown in the sketch is machined on a multi-tool
+lathe such that, in the final stage, all tools operate
+simultaneously.
+It is necessary to calculate:
+- the appropriate machining regime;
+- main machining time;
+- number of processed workpieces after which the most
+critically worn tool needs to be replaced.
+Input data for the calculation:
+- Workpiece material: structural steel, Rm=65 x 107 N/mm2 ;
+- Tool material: hard metal / carbide tool P25;
+- Chip slenderness coefficient: g=10, the same for all knives;
+- Power of the driving electric motor of the machine is
+P =50 kW;
+M
+- Efficiency rate of machine transmission, η=0,8.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 38 ---
+1. Turning – Homework
+1.4 Exercise
+1.4.5. Task
+Longitudinal turning is performed on a multi-cutting lathe with two knives, cutting depths a =3 mm and
+1
+a =1.5 mm, and processing lengths l =60 mm and l =50 mm.
+2 1 2
+It is necessary to calculate:
+- the appropriate machining regime;
+- main machining time;
+- the amount of chips removed in kg/hour.
+Input data for the calculation:
+- Workpiece material:CrNi steel, Rm=70 x 107 N/mm2 ;
+- Tool material: High-speed steel;
+- Raw workpiece diameter 80 mm;
+- Tool durability/life : T=90 min;
+- Attack angle of the tool , 60° .
+- Power of the driving electric motor of the machine is P =7,5 kW;
+M
+- Efficiency rate of machine transmission, η=0,8.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 39 ---
+1. Turning – Homework
+1.4 Exercise
+1.4.6. Task
+Rough longitudinal machining is performed on a turret lathe. It is necessary to determine the machining
+parameters and the material removal rate—while fully utilizing the machine's drive motor power and
+maintaining tool life—for machining operations using either one or two cutting tools.
+Input data for the calculation:
+- Workpiece material: structural steel steel, Rm=60 x 107 N/mm2 ;
+- Tool material: High-speed steel;
+- workpiece diameter before machining 120 mm, workpiece diameter after machining 108 mm.
+- Tool durability/life : T=120 min;
+- Power of the driving electric motor of the machine is P =6,5 kW;
+M
+- Efficiency rate of machine transmission, η=0,8.
+.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 40 ---
+1. Turning – Homework
+1.4 Exercise
+1.4.7. Task
+On a turret lathe with a vertical head, longitudinal turning and drilling are performed in parallel at the same
+time.
+Input data for the calculation:
+- Workpiece material: Cast Iron, HB=190 ;
+- Turning knives material: hard metal / carbide tool K20;
+- Drill bit material: high-speed steel;
+- Workpiece diameter before turning 100 mm, workpiece diameter after turning 95 mm ;
+- Drill bit diameter 20 mm;
+- Turning length 80 mm, and drilling depth 50 mm;
+- Durability of the more vulnerable tool 30 mm;
+- Efficiency rate of machine transmission, η=0,75.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 41 ---
+2. Drilling
+2.1 Single-spindle drilling machines
+2.1.1 Task
+On a radial drill, the power of the drive electric motor of the machine P =2.75 kW is required on a plate
+M
+workpiece made of structural steel R =60 x 107 N/m2 , thickness l=60 mm; drill a Φ25 mm hole.
+m
+It is necessary to calculate:
+- The most favorable machining regime/mode;
+- The number of manufactured pieces after which a worn drill should be replaced.
+Input data for the calculation:
+- Durability of the drill bit T=25 min;
+- Efficiency rate of machine transmission, η=0,78.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 42 ---
+2. Drilling ; 2.1 Single-spindle drilling machines, 2.1.1 Task – Solution (1)
+The most favorable processing regime for the required machining procedure is determined based on the
+simultaneous utilization of the power of the machine's driving electric motor and the given durability of the
+drill bit.
+First, from the mathematical formula for calculating the power of the driving electric motor of the machine:
+P =(M x ω)/η=(C x Dx x sy x 2 x π x n ) /η
+M M M
+and a mathematical formula for calculating the cutting speed:
+v=( C x Dx0 x μ ) /Tm x sy0 = D x π x n
+v 0 T
+the number of revolutions of the drill bit is obtained, taking into account the power of the machine's drive
+electric motor and the durability of the tool:
+n =(η x P ) / C x Dx x sy x 2 x π
+M M M
+n =(C x Dx0-1 x μ ) /Tm x sy0 x π
+T v 0
+The feed at which the machine's power and tool stability will be used simultaneously is obtained as follows:
+n = n
+M T
+=(η x P ) / C x Dx x sy x 2 x π =(C x Dx0-1 x μ ) /Tm x sy0 x π
+M M v 0
+so it is:
+s=[ (P x Tm x η) / (C x C x Dx+x0-1 x 2 x μ )]1/y-y0
+M M v 0
+=[ (2750 x 15000,2 x 0,8) / (72,076697 x 106 x 0,163865 x 0,0252+0,4-1 x 2 x 1)]1/0,8-0,5
+=?m/rev.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 43 ---
+2. Drilling ; 2.1 Single-spindle drilling machines, 2.1.1 Task – Solution (2)
+The constants and exponents in the previous equation are: C =0,163865 ; x =0,4; y =0,5; m=0,2 } From Table BU-2 for Steel; R =60 x 107 N/m2
+v 0 0 m
+Table BU-2 : C ,x ,y and m values ​​for cutting speed calculation v=(C x D x0 x μ ) /(T m x sy0) (m/s)
+v 0 0 v b 0 b
+C = (0,17618 + 0,15155)/2 =0,163865
+v 60
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 44 ---
+2. Drilling ; 2.1 Single-spindle drilling machines, 2.1.1 Task – Solution (3)
+The constants and exponents in the previous equation are: C =72,076697 x 106 ; x=2 ; y=0,8} From Table BU-4 for Steel; R =60 x 107 N/m2
+M m
+Table BU-4: C and C values ​​for the calculation of the torque and a secondary movement force during drilling.
+m F
+M= C x Dx x sy (Nm) ; F =C x Dx1 x sy1 (N)
+M f F
+C = [(67,764416 + 76,388978) x 106)/2 = 72,076697 x 106
+M 60
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 45 ---
+2. Drilling ; 2.1 Single-spindle drilling machines, 2.1.1 Task – Solution (4)
+while the coefficient μ is determined from the table BU-3: μ =1 for l/D=60/25=2,4
+0 0
+Table BU-3: Value of μ for l/D>2,5
+0
+The corresponding number of revolutions of the drill bit is then calculated as follows:
+n=(P x η) /(C x Dx x sy x 2 x π) = (2750 x 0,8)/( 72,076697 x 106 x 0,0252 x 0,0001430,8 x 2 x π
+M M
+=? rev/s
+The number of manufactured workpieces (drilled holes) after which the drill should be replaced is calculated as follows: K=
+T/t' =(25 x 60) / t‘
+g g
+=? pcs.
+where the active machining time is calculated as follows:
+t' =l/(n x s)
+g
+=? s
+So, until the drill is dulled, ? workpieces can be made.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 46 ---
+2. Drilling
+2.2 Multi-spindle drilling machines
+2.2.1 Task
+On a multi-spindle drilling machine, it is necessary to drill three holes with a diameter of Ø25 mm in a
+structural steel workpiece (R = 60 × 10⁷ N/m²) to a drilling depth of l = 60 mm.
+m
+It is necessary to calculate:
+- The most favorable machining regime/mode;
+-The number of manufactured pieces after which a worn drill should be replaced.
+Input data for the calculation:
+- Durability of the drill bit T=30 min;
+- Power of the driving electric motor of the machine is P =7 kW;
+M
+- Efficiency rate of machine transmission, η=0,9.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 47 ---
+2. Drilling , 2.2 Multi-spindle drilling machines, 2.2.1 Task – Solution (1)
+The most favorable processing regime is determined on the basis of the simultaneous use of the power of the machine's
+driving electric motor and the stability of the tool, bearing in mind that with a multi-spindle drill, all drill bits have the same
+feed and number of revolutions. First, from the mathematical formula for calculating the power of the driving electric
+motor of the machine:
+3
+P =(Σ P )/η=(3 x M x ω)/η=(3 x C x Dx x sy x 2 x π x n )/η
+M Ki M M
+i=1
+and a mathematical form for calculating the cutting speed:
+v=( C x Dx0 x μ ) /Tm x sy0 = D x π x n
+v 0 T
+the number of revolutions of the drill bit is obtained, taking into account the power of the machine's drive electric motor
+and the durability of the tool:
+n =(η x P ) / 3 x C x Dx x sy x 2 x π
+M M M
+n =(C x Dx0-1 x μ ) /Tm x sy0 x π
+T v 0
+The feed at which the machine's power and tool stability will be used simultaneously is obtained as follows:
+n = n
+M T
+(η x P ) / 3 x C x Dx x sy x 2 x π = (C x Dx0-1 x μ ) /Tm x sy0 x π
+M M v 0
+so it is:
+s=[ (P x Tm x η) / (C x C x Dx+x0-1 x 6 x μ )]1/y-y0
+M M v 0
+=[ (7000 x 18000,2 x 0,9) / (72,076697 x 106 x 0,163865 x 0,0252+0,4-1 x 6 x 1)]1/0,8-0,5
+=? m/rev.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 48 ---
+2. Drilling , 2.2 Multi-spindle drilling machines, 2.2.1 Task – Solution (2)
+The constants and exponents in the previous equation are: C =0,163865; x =0,4; y =0,5; m=0,2 } From Table BU-2 for Steel; R =60 x 107 N/m2
+v 0 0 m
+Table BU-2 : C ,x ,y and m values ​​for cutting speed calculation v=(C x D x0 x μ ) /(T m x sy0) (m/s)
+v 0 0 v b 0 b
+C = (0,17618 + 0,15155)/2 =0,163865
+v 60
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 49 ---
+2. Drilling , 2.2 Multi-spindle drilling machines, 2.2.1 Task – Solution (3)
+The constants and exponents in the previous equation are: C =72,076697 x 106 ; x=2 ; y=0,8} From Table BU-4 for Steel; R =60 x 107 N/m2
+M m
+Table BU-4: C and C values ​​for the calculation of the torque and a secondary movement force during drilling.
+m F
+M= C x Dx x sy (Nm) ; F =C x Dx1 x sy1 (N)
+M f F
+C = [(67,764416 + 76,388978) x 106)/2 = 72,076697 x 106
+M 60
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 50 ---
+2. Drilling , 2.2 Multi-spindle drilling machines, 2.2.1 Task – Solution (4)
+while the coefficient μ is determined from the table BU-3: μ =1 for l/D=60/25=2,4
+0 0
+Table BU-3: Value of μ for l/D>2,5
+0
+The corresponding number of revolutions of the drill bit is then calculated as follows:
+n=(P x η) /(C x Dx x sy x 2 x π = (7000 x 0,9)/( 72,076697 x 106 x 0,0252 x 0,0001390,8 x 6 x π
+M M
+=? rev/s
+The number of manufactured workpieces (drilled holes) after which the drill should be replaced is calculated
+as follows: K= T/t' =(30 x 60) /47,80
+g
+=? pcs.
+where the active machining time is calculated as follows:
+t' =l/(n x s)=0,06 /(n x s)= ?
+g
+So, until the drill is dulled, ? workpieces can be made.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 51 ---
+2. Drilling
+2.3 Drills with multi-spindle head
+2.3.1 Task
+During machining on a multi-spindle drilling machine, six holes are processed simultaneously: two Ø6 mm
+(2 x Ø6 mm), two Ø9 mm (2 x Ø9 mm), and two Ø14 mm (2 x Ø14 mm).
+Input data for the calculation:
+- Workpiece material: structural steel, Rm=60 kN/cm2 ;
+- Durability of the most vulnerable drill bit L=2 m;
+- Efficiency rate of machine transmission, η=0,8 .
+It is necessary to calculate:
+- Machining parameters;
+- Tool life/ durability for all tools;
+- Required axial force to be overcome by the unit;
+- Power of the unit's electric drive motor.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 52 ---
+2. Drilling , 2.3 Drills with multi-spindle head, 2.3.1 Task – Solution (1)
+It starts from the feed, which is determined for individual drills based on the recommendations from the table BU-1:
+Table BU-1: Recommended feed values ​​for drilling.
+s =s +x Δs ; Δs =(s -s )/(D -D ); x=D -D
+(Dx) min (D=1 mm) max min max min x min
+s =0,05+x Δs=0,05 + 5 x 0,01444=0,122 mm/rev. ;
+(D6)
+Δs =(0,18-0,05)/(10-1) =0,0144;
+(D=6 mm)
+x=6-1=5
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 53 ---
+2. Drilling , 2.3 Drills with multi-spindle head, 2.3.1 Task – Solution (2)
+Based on the mathematical formula for cutting speed when drilling:
+v =[(C x Dx0-m x μ ) /(L x π)m x sy0-m]1/1-m
+L v o
+it is possible to calculate cutting speeds for individual drills:
+v =[(0,16386 x 0,0060,4-0,2 x 1) /(2 x π)0,2 x 0,0001220,5-0,2]1/1-0,2
+L1
+=? m/s
+v =[(0,16386 x 0,0090,4-0,2 x 1) /(2 x π)0,2 x 0,0001650,5-0,2]1/1-0,2
+L2
+=? m/s
+v =[(0,16386 x 0,00140,4-0,2 x 1) /(2 x π)0,2 x 0,0001980,5-0,2]1/1-0,2
+L3
+=? m/s
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 54 ---
+2. Drilling , 2.3 Drills with multi-spindle head, 2.3.1 Task – Solution (3)
+The constants and exponents in the previous equation are:C =0,163865; x =0,4; y =0,5; m=0,2} From Table BU-2 for Steel; R =60 x 107 N/m2
+v 0 0 m
+Table BU-2: C ,x ,y and m values ​​for cutting speed calculation :v=(C x D x0 x μ ) /(T m x sy0) (m/s)
+v 0 0 v b 0 b
+C = (0,17618 + 0,15155)/2 =0,163865
+v 60
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 55 ---
+2. Drilling , 2.3 Drills with multi-spindle head, 2.3.1 Task – Solution (4)
+while the coefficient μ is determined from the Table BU-3: μ =1 for l/D≤2,5 (assumption).
+0 0
+Table BU-3: Value of μ for l/D>2,5
+0
+The corresponding number of revolutions for individual drill bits is then calculated as follows:
+n =v /(D x π)=0,537/(0,006 x π)
+1 L1 1
+=? rev/s
+n = v /(D x π)=0,531/(0,009 x π)
+2 L2 2
+=? rev/s
+n = v /(D x π)=0,554/(0,014 x π)
+3 L3 3
+=? rev/s
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 56 ---
+2. Drilling , 2.3 Drills with multi-spindle head, 2.3.1 Task – Solution (5)
+Now, based on the speed of the secondary/auxiliary movement of the tool holder, it is necessary to
+determine the most endangered drill bit. The most vulnerable drill bit is the one that requires a lower speed
+of auxiliary movement, so this is also the relevant speed of the multi-spindle head.
+From certain speeds of secondary/auxiliary movement, we get the following:
+n x s =28,49 x 0,122 x 10-3
+1 1
+= ? m/s
+n x s =18,78 x 0,165 x 10-3
+2 2
+= ? m/s
+n x s =12,6 x 0,198 x 10-3
+3 3
+=? m/s
+it can be seen that the most endangered drill bit is No. 3, that is, the relevant speed n x s
+3 3
+=? m/s.
+In order to satisfy the necessary condition of the multi-spindle head n x s =const,, but also the condition of
+i i
+the task that the stability of the most threatened tool should ensure a drilling depth of 2 mm, the processing
+regimes of drill bits No. 1 and No. 2 must be corrected by changing the value of the number of revolutions of
+the drill bits. In the task, it was chosen to correct the numbers of revolutions, while the previously calculated
+values ​​are taken over for the feed. It was also possible to change the feed while keeping the number of
+revolutions unchanged.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 57 ---
+2. Drilling , 2.3 Drills with multi-spindle head, 2.3.1 Task – Solution (6)
+If n ' and n ' indicate the corrected numbers of revolutions of drill bits No. 1 and No. 2, based on the
+1 2
+conditions of the multi-spindle head, the following mathematical relation can be written:
+n '=(n x s )/s =2,495/0,122
+1 3 3 1
+=? rev/s ;
+n '=(n x s )/s =2,495/0,165
+2 3 3 2
+=? rev/s ;
+The adopted processing regimes are as follows:
+s =0,122 mm/rev. ; n =20,45 rev/s ;
+1 1
+s =0,122 mm/rev. ; n =20,45 rev/s ;
+2 2
+s =0,122 mm/rev. ; n =20,45 rev/s .
+3 3
+Based on mathematical expressions for tool durability, it is calculated as follows:
+L=[(C x Dx0-1 x μ x nm-1)/(π x sy0-m)]1/m
+v 0
+It is possible to calculate the durability of individual tools, as follows:
+L =[(0,16386 x 0,0060,4-1 x 1 x 20,450,2-1)/(π x 0,0001220,5-2)]1/0,2
+1
+=? m
+L =[(0,16386 x 0,0090,4-1 x 1 x 15,120,2-1)/(π x 0,0001650,5-0,2)]1/0,2
+2
+=4,78 m
+L =[(0,16386 x 0,0140,4-1 x 1 x 12,60,2-1)/(π x 0,0001980,5-0,2)]1/0,2
+3
+=? m
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 58 ---
+2. Drilling , 2.3 Drills with multi-spindle head, 2.3.1 Task – Solution (7)
+The necessary axial force that the unit needs to overcome is calculated as follows:
+F =F =C x Dx1 x sy1
+ai fi F
+F =90,185 x 106 x 0,0061 x 0,0001220,7
+a1
+=? N
+F =90,185 x 106 x 0,0091 x 0,0001650,7
+a2
+=? N
+F =90,185 x 106 x 0,0141 x 0,0001980,7
+a1
+=? N
+F =ΣF =2 x F + 2 x F + 2 x F
+a ai a1 a2 a3
+F =2 x 985,7 + 2 x 1826,5 + 2 x 3228
+a
+=? N
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 59 ---
+2. Drilling , 2.3 Drills with multi-spindle head, 2.3.1 Task – Solution (8)
+The constants and exponents in the previous equation are:C =90,185 x 106; x =1; y =0,7} From BU-4 Table for Steel; R =60 x 107 N/m2
+F 1 1 m
+Table BU-4: C and C values for the calculation of the torque and a secondary movement force during drilling.
+m F
+M= C x Dx x sy (Nm) ; F =C x Dx1 x sy1 (N)
+M f F
+C = [(81,510385 + 98,860443) x 106 ] / 2 = 90,185 x 106
+F 60
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 60 ---
+2. Drilling , 2.3 Drills with multi-spindle head, 2.3.1 Task – Solution (9)
+Finally, the power of the driving electric motor of the machine will be:
+P =P/η=(M x ω)/η=(M x 2 π x n )/η=(C x D x x s y x 2 x π x n )/η
+M i M 1 1 i
+The constant and exponents from the mathematical formula for calculating the drilling torque are as follows:
+The constants and exponents in the previous equation are: } From BU-4 Table for Steel; R =60 x 107 N/m2
+C =72,076697 x 106; x=2; y=0,8
+M m
+Table BU-4: C and C values for the calculation of the torque and a secondary movement force during drilling.
+m F
+M= C x Dx x sy (Nm) ; F =C x Dx1 x sy1 (N)
+M f F
+P =
+M1
+=(72,076697 x 106 x 0,0062 x 0,0001220,8 x 2 x π x
+20,45)/0,8
+=? W
+P =
+M2
+=(72,076697 x 106 x 0,0092 x 0,0001650,8 x 2 x π x 15,12)/0,8
+=? W
+P =
+M3
+=(72,076697 x 106 x 0,0142 x 0,0001980,8 x 2 x π x 12,6)/0,8
+=? W
+P =∑ P =2 x P +2 x P +2 x P
+M Mi M1 M2 M3
+P = 2 x (308,3+659,2+1523,5)=
+M
+C = [(67,764416 + 76,388978) x 106)/2 = 72,076697 x 106
+=? W
+M 60
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 61 ---
+2. Drilling – Homework
+2.4 Exercise
+2.4.1 Task
+When drilling on a tower drill, it is necessary to determine the appropriate machining parameters and the
+required power of the machine's drive motor such that the drill bit becomes blunt after 50 consecutively
+drilled holes.
+Input data for the calculation:
+- Workpiece material: structural steel / carbon steel, Rm=60 x 107 N/mm2 ;
+- Drill bit diameter: 20 mm;
+- Drilling depth: 60 mm;
+- Efficiency rate of machine transmission, η=0,8 .
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 62 ---
+2. Drilling – Homework
+2.4 Exercise
+2.4.2 Task
+When drilling on a radial drilling machine, it is necessary to determine the appropriate machining
+parameters and the number of holes to be drilled before replacing a dull drill bit, subject to the condition of
+fully utilizing the machine's drive motor power and the requirement that the primary machining time per
+hole be 42 seconds.
+Input data for the calculation:
+- Workpiece material: structural steel / carbon steel, Rm=60 x 107 N/mm2 ;
+- Drill bit diameter: 20 mm;
+- Drilling depth: 60 mm;
+- Power of the driving electric motor of the machine is P = 2 kW;
+M
+- Efficiency rate of machine transmission, η=0,8 .
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 63 ---
+2. Drilling – Homework
+2.4 Exercise
+2.4.3 Task
+Determine the tool life of a drill bit required to machine 50 workpieces—performing a simultaneous drilling
+operation of three Ø20 mm holes (3 x Ø20 mm) on a multi-spindle drilling machine—before becoming
+blunt. Based on the calculated tool life, determine the complete machining parameters and the absorbed
+drilling power.
+Input data for the calculation:
+- Workpiece material: CrNi steel, Rm=70 x 107 N/mm2 ;
+- Panel thickness 65 mm
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 64 ---
+2. Drilling – Homework
+2.4 Exercise
+2.4.4 Task
+After how many machined workpieces should individual dull drill bits be replaced if three Ø14 mm holes
+and three Ø20 mm holes are being drilled simultaneously on a multi-spindle drilling machine, assuming the
+machine's drive motor is operating at full power capacity?
+Input data for the calculation:
+- Workpiece material: structural steel / carbon steel, Rm=70 x 107 N/mm2 ;
+- Drilling depth is 33 mm, the same for all drill bits ;
+- Power of the driving electric motor of the machine is P = 13,5 kW;
+M
+- Efficiency rate of machine transmission, η=0,8 .
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 65 ---
+2. Drilling – Homework
+2.4 Exercise
+2.4.5 Task
+A multi-spindle drilling machine is used to simultaneously drill eight holes—two Ø10 mm (2 x Ø10 mm),
+four Ø10 mm (4 x Ø15 mm), and two Ø25 mm (2 x Ø25 mm) in diameter—into a 50 mm thick carbon steel
+plate with a tensile strength R = 60 x 107 N/m2. The appropriate machining parameters must be determined
+m
+such that all drill bits become dull simultaneously and the primary machining time is 30 seconds per
+workpiece.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 66 ---
+2. Drilling – Homework
+2.4 Exercise
+2.4.6 Task
+On a multi-spindle drilling machine, three Ø22 mm holes and three Ø25 mm holes are simultaneously
+drilled into a 50 mm thick structural steel plate (tensile strength R = 50 x 107 N/m2). Given that the more
+m
+heavily loaded drill bit becomes blunt after processing 30 workpieces, and aiming for the less heavily
+loaded drill bit to process the maximum possible number of workpieces, it is necessary to determine the
+appropriate machining parameters and the number of pieces the less heavily loaded drill bit can produce.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 67 ---
+2. Drilling – Homework
+2.4 Exercise
+2.4.7 Task
+On a drill with a multi-spindle head, 8 holes are processed simultaneously, namely: 3 x Ø12 mm with a
+depth of 45 mm, 2 x Ø15 mm with a depth of 35 mm and 3 x Ø18 mm with a depth of 40 mm.
+It is necessary to determine the following, assuming that all drill bits become dull after 50 workpieces
+have been produced:
+-the applicable machining parameters;
+-the power of the machine's drive motor;
+-the main machining time.
+Input data for the calculation:
+- Workpiece material: CrNi steel, Rm=70 x 107 N/mm2 ;
+- Efficiency rate of machine transmission, η=0,75 .
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

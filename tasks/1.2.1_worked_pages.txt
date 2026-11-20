@@ -1,0 +1,88 @@
+Task 1.2.1 — instructor worked pages, PDF pages 24–26
+Source may contain typos/placeholders. Appendix coefficients and current question givens take priority.
+
+--- PDF PAGE 24 ---
+1. Turning ; 1.2 Multi-tool lathes ; 1.2.1 Task – Solution (1)
+On a multi-cutting lathe, the given workpiece is processed by the simultaneous action of all the knives
+placed on the longitudinal tool support, as shown in the following machining plan:
+The relevant regime of machining is determined from the condition that the
+durability/stability of the most endangered knife is T=30 min. The knife No. 1 is
+the most vulnerable, because compared to other knives, for the same feed and
+cutting depth, it machines the largest diameter, which has the highest cutting
+speed and thus the lowest durability/stability.
+Determining the relevant machining regime starts from defining the cutting depth.
+Cutting depths are calculated based on the difference in diameter before and after
+machining for each knife separately. In this case, the cutting depth is the same for
+all knives and amounts to:a=5 mm.
+The cutting speed is determined first for knife No. 1, based on its given durability:
+v =(C / ax x sy) x ζ x ζ xζ = (0,010928 / 0,0050,26 x 0,000350,36) x 0,74 x 1 x 1,122 =? m/s.
+1 V κ m T
+The constants and exponents in the previous equation are:
+}
+C =0,010928 ; x=0,26; y=0,36 From Table S-7 for steel; Rm=60 x 107 N/m2 ; a>1 mm; and, s=0,2 ÷0,4 mm/rev
+V
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 25 ---
+1.Turning ; 1.2 Multi-tool lathes ; 1.2.2 Task – Solution (2) Table S7 : Values ​​for calculation C , x,y for cutting speed v=(C / ax x sy) x ζ x ζ xζ (m/s)
+V V κ m T
+The table is used only in the case when the tool material is high-speed steel.
+While the correction coefficients are determined as follows:
+-A coefficient that takes into account the angle of attack of the tool
+blade κ=90⁰ from the table S-5; ζ =0,74 .
+k
+Table S-5: Correction coefficient „ζ “for the calculation of the
+k
+cutting speed v for various values ​​of the attack angles of the tool
+blade κ.
+A coefficient that takes into account the material of the tool, high-speed steel
+from the table S-6 ; ζ =1 .
+m
+Table S-6: Correction coefficient „ζ “ for calculation of cutting speed „v“ for various tool materials.
+m
+The coefficient that takes into account the durabilityof the tool T=30 min from the table below (z=6 for steel machining) ;
+Table S-7 : Values ​​for calculation C , x,y for cutting speed v=(C / ax x sy) x ζ x ζ xζ (m/s)
+V V κ m T
+The table is used only in the case when the tool material is high-speed steel.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 26 ---
+1. Turning ; 1.2 Multi-tool lathes ; 1.2.1 Task – Solution (3)
+The number of revolutions of the workpiece is:
+n=(v /D x π)=0,632 /(0,07 x π)=? rev/s
+1 1
+In order to determine after how many workpieces have been made, individual blunt knives need to be replaced, first of all, their durability
+must be known.
+Based on the previously calculated number of revolutions of the workpiece, the cutting speeds of knives No. 2 and No. 3 can be
+determined
+v = n x D x π = n x 0,06 x π = ? mm/rev
+2 2
+v = n x D x π =n x 0,05 x π = ? mm/rev
+3 3
+Durability/Stability of knives no. 2 and no. 3, given that the same material is machined with the same depth of cut and the same feed, can
+now be determined from the well-known Taylor mathematical formula: vz x T = const.
+Respectively: v z x T = v z x T= v z x T
+1 2 3
+Durability/ Stability of knives no. 1 and no. 2, therefore amounts to:
+T =T x (v /v )z= 30 x 60 x (v /v )6= ? s
+2 1 1 2 1 2
+T =T x (v /v )z=30 x 60 x (v /v )6= ? s
+3 1 1 3 1 3
+The number of pieces made, after which individual dull knives need to be replaced, is calculated as follows:
+K =(T /t' ) whre is j=1,2,3.
+j j gj
+where the active machining time for individual knives is:
+t' = l /(n x s)= 0,058 / (n x 0,00035)= ? s
+g1 1
+t' = l /(n x s)= 0,048 / (n x 0,00035)=? s
+g2 2
+t' = l /(n x s)= 0,04 / (n x 0,00035)=? s
+g3 3
+so that: K =(30 x 60)/ t' =? pieces
+1 g1
+K =4525/ t' =? pieces
+2 g2
+K =13630/ t' =? pieces
+3 g3
+So the first tool will be changed after 31, the second after 94, and the third after ? manufactured pieces.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

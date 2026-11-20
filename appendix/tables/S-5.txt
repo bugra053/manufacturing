@@ -1,0 +1,10 @@
+S-5 — exact instructor appendix, PDF page 2
+Authority: sources/appendix_formulas.pdf
+Extracted text may lose superscripts, merged cells, root indices or denominator grouping; read original page image when ambiguous. Decimal commas are preserved.
+
+Table S-5: Correction coefficient „ζ “for the calculation of the cutting speed v for
+k
+various values of the attack angles of the tool blade κ.
+The angle of attack of the tool blade κ
+20 25 30 35 40 45 50 55 60 65 70 75 80 85 90
+1,27 1,22 1,17 1,11 1,05 1,00 0,95 0,90 0,86 0,82 0,79 0,77 0,75 0,74 0,74

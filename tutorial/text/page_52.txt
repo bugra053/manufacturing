@@ -1,0 +1,11 @@
+2. Drilling , 2.3 Drills with multi-spindle head, 2.3.1 Task – Solution (1)
+It starts from the feed, which is determined for individual drills based on the recommendations from the table BU-1:
+Table BU-1: Recommended feed values ​​for drilling.
+s =s +x Δs ; Δs =(s -s )/(D -D ); x=D -D
+(Dx) min (D=1 mm) max min max min x min
+s =0,05+x Δs=0,05 + 5 x 0,01444=0,122 mm/rev. ;
+(D6)
+Δs =(0,18-0,05)/(10-1) =0,0144;
+(D=6 mm)
+x=6-1=5
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

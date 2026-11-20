@@ -1,0 +1,26 @@
+Manual of ENS 208 ; Prof. Ismar Alagić Ph.D.
+Table S-16: Overview of cutting layer elements b and h for the most important cutting machining processes.
+Machining Process Width of cutting layer b Thickness of the cutting layer h Note
+Turning and Planing b = a / sin κ h = s x sin κ a – cutting depth
+s – feed
+κ - lead angle
+Drilling b = D / [2 x sin (φ/2)] h= (s/2) x sin (φ/2) s – feed
+D – drill bit diameter
+φ - drill point angle / drill bit angle
+Face Milling b = a / sin κ hm =s1 x sin κ x cos φm a – cutting depth
+cos φm = (sin φs +sinφi) / (φs+ φi) s1 – feed per tooth
+κ – lead angle
+φi – tool engagement angle during climb
+milling /down milling
+φs - angle of contact during up-cut milling
+/ conventional milling
+Peripheral/Slab milling b = B hm = s1 x ( a/D)1/2 a – cutting depth
+(values from the table are s1 – feed per tooth
+valid for milling cutters with B – milling cutter width
+straight and helical teeth) D – milling cutter diameter
+Grinding - Circular b = sa hm = (vp / vt) x a vp – feed rate
+vt – Grinding wheel speed
+a - cutting depth
+sa - Axial feed rate
+Broaching B = O h=a O – Contour perimeter / Profile perimeter
+a - cutting depth

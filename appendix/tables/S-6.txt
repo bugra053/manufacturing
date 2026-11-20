@@ -1,0 +1,13 @@
+S-6 — exact instructor appendix, PDF page 3
+Authority: sources/appendix_formulas.pdf
+Extracted text may lose superscripts, merged cells, root indices or denominator grouping; read original page image when ambiguous. Decimal commas are preserved.
+
+Table S-6: Correction coefficient „ζ “ for calculation of cutting speed „v“ for various
+m
+tool materials.
+Work Material - Tool material
+Workpiece Unalloyed tool High speed steel Hard metal
+steel
+Steel 0,25 1 4-8
+Cast Iron 0,30 1 5 and more
+

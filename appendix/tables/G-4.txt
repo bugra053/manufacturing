@@ -1,0 +1,20 @@
+G-4 — exact instructor appendix, PDF page 11
+Authority: sources/appendix_formulas.pdf
+Extracted text may lose superscripts, merged cells, root indices or denominator grouping; read original page image when ambiguous. Decimal commas are preserved.
+
+Table G-4: Values C ,m,y,q,u,w and for calculation of cutting speed during circumferential milling
+v
+v=C /s y=(C x Di)/(Tm x ax x bq x zu x ωw x s y) (m/s) ; C =(C x Di)/(Tm x ax x bq x zu x ωw)
+0 1 v 1 0 v
+Work Cast Iron Carbon Stel Chrome steel Chrome-Nickel steel
+material - HB Rm x 107 (N/m2) Rm x 107 (N/m2) Rm x 107 (N/m2)
+Workpiece 150 200 230 40 50 60 70 55 75 55 80
+Cv 0,0415 0,0311 0,0249 1,159 1,206 1,404 1,244 0,9732 0,8117 0,2825 0,1791
+m 0,33 0,30 0,33 0,22
+x 0,46 0,27 0,27 0,27
+y 0,58 0,30 0,35 0,40
+q 0,31 0,09 0,09 0,09
+u 0,32 0,10 0,10 0,10
+w 0,13 0,18 0,18 0,18
+i 0,72 0,50 0,50 0,50
+

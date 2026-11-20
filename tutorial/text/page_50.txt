@@ -1,0 +1,18 @@
+2. Drilling , 2.2 Multi-spindle drilling machines, 2.2.1 Task – Solution (4)
+while the coefficient μ is determined from the table BU-3: μ =1 for l/D=60/25=2,4
+0 0
+Table BU-3: Value of μ for l/D>2,5
+0
+The corresponding number of revolutions of the drill bit is then calculated as follows:
+n=(P x η) /(C x Dx x sy x 2 x π = (7000 x 0,9)/( 72,076697 x 106 x 0,0252 x 0,0001390,8 x 6 x π
+M M
+=? rev/s
+The number of manufactured workpieces (drilled holes) after which the drill should be replaced is calculated
+as follows: K= T/t' =(30 x 60) /47,80
+g
+=? pcs.
+where the active machining time is calculated as follows:
+t' =l/(n x s)=0,06 /(n x s)= ?
+g
+So, until the drill is dulled, ? workpieces can be made.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

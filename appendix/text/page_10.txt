@@ -1,0 +1,58 @@
+Manual of ENS 208 ; Prof. Ismar Alagić Ph.D.
+Table BU-4: C and C values for the calculation of the torque and a secondary movement
+m F
+force during drilling.
+M= C x Dx x sy (Nm) ; F =C x Dx1 x sy1 (N)
+M f F
+Work Material-Workpiece CM CF
+Carbon Steel
+Rm=45 x 107 N/m2 59,139854 x 106 70,395332 x 106
+Rm=55 x 107 N/m2 67,764416 x 106 81,510385x 106
+Rm=65 x 107 N/m2 76,388978 x 106 98,860443 x 106
+Rm=75 x 107 N/m2 85,013540 x 106 103,740489 x 106
+Chrome-nickel steel
+Rm=65 x 107 N/m2 85,013540 x 106 103,740489 x 106
+Rm=75 x 107 N/m2 93,638102 x 106 116,090548 x 106
+Rm=85 x 107 N/m2 103,494748x 106 127,205600 x 106
+Chrome steel
+Rm=65 x 107 N/m2 103,740489 x 106
+Rm=85 x 107 N/m2 127,205600 x 106
+Cast Iron
+HB=170 26,552625 x 106 142,921314 x 106
+HB=190 29,022637 x 106 154,010037 x 106
+HB=210 30,875145 x 106 163,866679 x 106
+Note : for all kind of Steels, x=2; y=0.8; x1=1 and y1=0.7; while for Cast iron x=1.9; y=0.8; x1=1 and y1=0.8.
+4) MILLING
+Table G-1: Allowances of material for rough and fine machining by milling - δ and δ
+1 2.
+Final workpiece Width of the workpiece B≤200 mm Width of the workpiece B>200 mm
+thickness The length of the workpiece L (mm)
+H (mm) up to 100 100÷250 250÷400 400÷630 above 630 up to 100 100÷250 250÷400 400÷630 above 630
+δ1 - rough milling
+up to 18 1,9 2,4 - - - 2,2 2,7 - - -
+18÷30 1,9 2,5 3,0 - - 2,2 2,7 3,2 - -
+30÷50 2,0 2,5 3,1 3,9 - 2,2 2,8 3,3 4,1 -
+above 50 2,1 2,6 3,2 4,0 5,3 2,4 2,9 3,4 4,2 5,6
+δ2 - fine milling
+up to 18 1,0 1,1 - - - 1,2 1,3 - - -
+18÷30 1,0 1,1 1,2 - - 1,2 1,3 1,4 - -
+30÷50 1,1 1,2 1,3 1,4 - 1,3 1,4 1,5 1,6 -
+above 50 1,1 1,2 1,3 1,4 1,8 1,3 1,4 1,5 1,6 1,9
+Table G-2: Recommended feed values per tooth for rough milling
+Workpiece material Feed per tooth s (mm/tooth)
+1
+Plain milling Slitting cutters / End milling Form-relieved Indexable
+cutter and shell side milling cutter milling cutters / milling cutters
+end mill cutters backed-off form
+cutters
+Steel R ≤ 60 x 107 N/m2 0,1 ÷ 0,2 0,06 ÷ 0,08 0,016 ÷ 0,08 0,04 ÷0,06 0,1 ÷ 0,28
+m
+Steel R ≤ 80 x 107 N/m2 0,08 ÷ 0,16 0,05 ÷ 0,06 0,012 ÷ 0,04 0,03 ÷0,05 0,1 ÷ 0,25
+m
+Steel R ≤ 110 x 107 N/m2 0,05 ÷ 0,1 0,04 ÷ 0,05 0,01 ÷ 0,04 0,02 ÷0,04 0,1 ÷ 0,2
+m
+Cast iron HB ≤ 180 0,16 ÷ 0,25 0,07 ÷ 0,1 0,02 ÷ 0,1 0,05 ÷0,08 0,16 ÷ 0,36
+Cast iron HB > 180 0,1 ÷ 0,2 0,04 ÷ 0,06 0,012 ÷ 0,06 0,03 ÷0,08 0,1 ÷ 0,25
+Copper 0,2 ÷ 0,25 0,08 ÷ 0,1 0,016 ÷ 0,07 0,05 ÷0,08 0,1 ÷ 0,2
+Aluminum 0,1 ÷ 0,2 0,05 ÷ 0,08 0,01 ÷ 0,09 0,03 ÷0,07 0,08 ÷ 0,25
+Note: The upper limit of feed per tooth should be used for rough machining, and the lower limit for fine machining.

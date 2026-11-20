@@ -1,0 +1,24 @@
+Task 1.4.4 — statement, tutorial PDF page 37
+Original source: https://raw.githubusercontent.com/bugra053/manufacturing/main/sources/tutorial_calculations.pdf
+Read diagram/page image: https://raw.githubusercontent.com/bugra053/manufacturing/main/tutorial/pages/page_37.png
+
+1. Turning – Homework
+1.4 Exercise
+1.4.4. Task
+The workpiece shown in the sketch is machined on a multi-tool
+lathe such that, in the final stage, all tools operate
+simultaneously.
+It is necessary to calculate:
+- the appropriate machining regime;
+- main machining time;
+- number of processed workpieces after which the most
+critically worn tool needs to be replaced.
+Input data for the calculation:
+- Workpiece material: structural steel, Rm=65 x 107 N/mm2 ;
+- Tool material: hard metal / carbide tool P25;
+- Chip slenderness coefficient: g=10, the same for all knives;
+- Power of the driving electric motor of the machine is
+P =50 kW;
+M
+- Efficiency rate of machine transmission, η=0,8.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

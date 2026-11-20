@@ -1,0 +1,21 @@
+1.Turning ; 1.2 Multi-tool lathes ; 1.2.2 Task – Solution (2) Table S7 : Values ​​for calculation C , x,y for cutting speed v=(C / ax x sy) x ζ x ζ xζ (m/s)
+V V κ m T
+The table is used only in the case when the tool material is high-speed steel.
+While the correction coefficients are determined as follows:
+-A coefficient that takes into account the angle of attack of the tool
+blade κ=90⁰ from the table S-5; ζ =0,74 .
+k
+Table S-5: Correction coefficient „ζ “for the calculation of the
+k
+cutting speed v for various values ​​of the attack angles of the tool
+blade κ.
+A coefficient that takes into account the material of the tool, high-speed steel
+from the table S-6 ; ζ =1 .
+m
+Table S-6: Correction coefficient „ζ “ for calculation of cutting speed „v“ for various tool materials.
+m
+The coefficient that takes into account the durabilityof the tool T=30 min from the table below (z=6 for steel machining) ;
+Table S-7 : Values ​​for calculation C , x,y for cutting speed v=(C / ax x sy) x ζ x ζ xζ (m/s)
+V V κ m T
+The table is used only in the case when the tool material is high-speed steel.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

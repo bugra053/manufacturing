@@ -1,0 +1,13 @@
+BU-3 — exact instructor appendix, PDF page 9
+Authority: sources/appendix_formulas.pdf
+Extracted text may lose superscripts, merged cells, root indices or denominator grouping; read original page image when ambiguous. Decimal commas are preserved.
+
+Table BU-3: Value of μ for l/D>2,5
+0
+l/D μO
+up to 2,5 1,0
+3÷4 0,9÷0,8
+4÷5 0,8÷0,7
+5÷6 0,7÷0,65
+6÷8 0,65÷0,6
+8÷10 0,6÷0,5

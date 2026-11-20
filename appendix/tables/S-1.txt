@@ -1,0 +1,17 @@
+S-1 — exact instructor appendix, PDF page 1
+Authority: sources/appendix_formulas.pdf
+Extracted text may lose superscripts, merged cells, root indices or denominator grouping; read original page image when ambiguous. Decimal commas are preserved.
+
+Table S-1 : Recommended allowance for rough longitudinal machining on a lathe – d (mm).
+1
+Machining Workpiece diameter D (mm)
+length l (mm) up to 10 10÷18 18÷30 30÷50 50÷80 80÷120 120÷180 180÷260 260÷360 above
+360
+up to 100 1,0 1,0 1,2 1,2 1,4 1,6 1,8 2,0 2,2 2,4
+100÷250 1,2 1,2 1,4 1,4 1,6 1,8 2,0 2,2 2,4 2,6
+250÷400 1,4 1,6 1,6 1,8 2,0 2,2 2,4 2,6 2,8 3,0
+400÷630 1,6 1,8 1,8 2,0 2,2 2,4 2,6 2,8 3,0 3,2
+630÷1000 - 2,2 2,4 2,6 2,8 3,0 3,0 3,2 3,4 3,8
+1000÷1600 - - 3,0 3,0 3,2 3,4 3,6 3,8 4,0 4,2
+above 1600 - - - 3,8 4,0 4,2 4,4 4,6 4,8 5
+

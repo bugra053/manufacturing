@@ -1,0 +1,105 @@
+Task 1.1.1 — instructor worked pages, PDF pages 3–9
+Source may contain typos/placeholders. Appendix coefficients and current question givens take priority.
+
+--- PDF PAGE 3 ---
+1. Turning
+1.1 Universal lathes
+1.1.1 Task –Solution (1)
+The cross-sectional area of ​​the cutting layer is determined using a mathematical formula:
+A=a x s = 0,0015 x 0,0003=? m2.
+where Feed is given and is the amount: s=0,3 mm/rev
+While the cutting depth is calculated based on the difference in diameter before and after machining:
+a= (63-60)/2=? mm
+The cutting speed is determined based on the given stability of the tool according to the mathematical
+formula:
+v=(C / ax x sy) x ζ x ζ xζ = (0,009069 / 0,00150,24 x 0,00030,34) x 0,74 x 1 x 0,935
+V κ m T
+=? m/s.
+The constants and exponents in the previous equation are:
+C =0,009069 ; x=0,24; y=0,34} from Table S-7 for CrNi steel; Rm=70 x 107 N/m2 ;
+V
+a>1 mm; and s=0,2 – 0,4 mm/rev
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 4 ---
+1. Turning
+1.1 Universal lathes
+1.1.1 Task –Solution (2)
+Table S-7 : Values ​​for calculation C , x,y for cutting speed v=(C / ax x sy) x ζ x ζ xζ (m/s)
+V V κ m T
+The table is used only in the case when the tool material is high-speed steel.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 5 ---
+1. Turning
+1.1 Universal lathes
+1.1.1 Task –Solution (3)
+While the correction coefficients are determined as follows:
+A coefficient that takes into account the angle of attack of the tool blade κ=90⁰ from the table S-5; ζ =0,74 .
+k
+Table S-5: Correction coefficient „ζ “for the calculation of the cutting speed v for various values ​​of the attack angles
+k
+of the tool blade κ.
+A coefficient that takes into account the material of the tool, high-speed steel from the table S-6 ; ζ =1 .
+m
+Table S-6: Correction coefficient „ζ “ for calculation of cutting speed „v“ for various tool materials.
+m
+The coefficient that takes into account the durability of the tool T=90 min from the table S-7 below (z=6 for steel machining) ;
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 6 ---
+1. Turning
+1.1 Universal lathes
+1.1.1 Task –Solution (3)
+While the correction coefficients are determined as follows:
+A coefficient that takes into account the angle of attack of the tool blade κ=90⁰ from the below table; ζ =0,74 .
+k
+Table S-5: Correction coefficient „ζ “for the calculation of the cutting speed v for various values ​​of the attack angles
+k
+of the tool blade κ.
+A coefficient that takes into account the material of the tool, high-speed steel from the table below ; ζ =1 .
+m
+Table S-6: Correction coefficient „ζ “ for calculation of cutting speed „v“ for various tool materials.
+m
+The coefficient that takes into account the durability of the tool T=90 min from the table S-7 below (z=6 for steel machining) ;
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 7 ---
+1. Turning
+1.1 Universal lathes
+1.1.1 Task –Solution (4)
+Table S-7 : Values ​​for calculation C , x,y for cutting speed v=(C / ax x sy) x ζ x ζ xζ (m/s)
+V V κ m T
+The table is used only in the case when the tool material is high-speed steel.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 8 ---
+1. Turning
+1.1 Universal lathes
+1.1.1 Task –Solution (5)
+Cutting force (main cutting resistance) is:
+F =C x ax1 x sy1 = 4.356 x 108 x 0,00151 x 0,00030,78
+v k
+= ? N
+Whereby the constant and exponents in the equation are as follows:
+}
+C =4,356 x 108 ; x =1 ; y =0,78 From below Table for CrNi steel; Rm=70 x 107 N/m2
+k 1 1
+Table S-13: Values ​​of C , x , y for the calculation of the main cutting force (resistance), F =C x ax1 x sy1 (N).
+k 1 1 v k
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 9 ---
+1. Turning
+1.1 Universal lathes
+1.1.1 Task –Solution (6)
+The power of the drive motor of the machine is:
+P =(F x v) /η=(F x v) /0,8= ? kW
+M V V
+The mass of the chip removed per unit of time is:
+M = A x v x ρ =0,45 x 10-6 x v x 7850 =? kg/s.
+s
+Where is : ρ =7850 kg/m3 - density or specific mass of material taken from the table O-1 for steel.
+m
+Table O-1 : Approximate values ​​of modulus of elasticity and density or specific mass of workpiece material
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

@@ -1,0 +1,27 @@
+1. Turning 1.3 Turret lathes , 1.3.1 Task – Solution (5)
+The constants and exponents in the previous equation are:C =0,9837 ; x=0,15 ; y=0,2 ; m=0,2; z=6 } From Table S-8 for Cast
+v
+Iron; HB=200, HM K20 and s≤0,4 mm/rev.
+Table S-8: Values ​​of C , x, y and m for calculation of cutting speed v=(C x ζ x ζ xζ ) /Tm x ax x sy (m/s)
+v v κ mrp T
+The table is used when the material of the tool is hard metal and ceramic insert, and if necessary also for high-speed steel.
+while the correction coefficients in the expression for the cutting speed are
+determined as follows:
+-A coefficient that takes into account the angle of attack of the tool blade κ=90⁰
+from the table S-5; ζ =0,74 .
+k
+Table S-5: Correction coefficient „ζ “for the calculation of the cutting speed v
+k
+for various values ​​of the attack angles of the tool blade κ.
+A coefficient that takes into account the material of the workpiece,
+from the table S-8 ;
+ζ =(190/HB)1,25=(190/200)1,25=?
+mrp
+The durability of the drill bit is determined from the following
+cutting speed:
+v =(C x D x0 x μ ) /(T m x sy0)= D x π x n
+b v b 0 b b
+so it is:
+T =[ (C x μ ) / (π x 6,484 x 0,00030,4 x 0,0251-0.25)]1/0,125 = ? s
+b v 0
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

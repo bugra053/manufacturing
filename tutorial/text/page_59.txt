@@ -1,0 +1,10 @@
+2. Drilling , 2.3 Drills with multi-spindle head, 2.3.1 Task – Solution (8)
+The constants and exponents in the previous equation are:C =90,185 x 106; x =1; y =0,7} From BU-4 Table for Steel; R =60 x 107 N/m2
+F 1 1 m
+Table BU-4: C and C values for the calculation of the torque and a secondary movement force during drilling.
+m F
+M= C x Dx x sy (Nm) ; F =C x Dx1 x sy1 (N)
+M f F
+C = [(81,510385 + 98,860443) x 106 ] / 2 = 90,185 x 106
+F 60
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

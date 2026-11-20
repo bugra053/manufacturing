@@ -1,0 +1,160 @@
+{
+  "role": "Independent numerical checks, not a promise of an instructor marking scheme. Conditions/assumptions and source issues remain explicit.",
+  "examples": [
+    {
+      "task": "1.1.1",
+      "kind": "independent calculation using appendix coefficients and instructor-adopted kappa90/z6",
+      "results": {
+        "a_m": 0.0015000000000000013,
+        "A_m2": 4.5000000000000035e-07,
+        "zeta_T": 0.9346552651840672,
+        "v_m_s": 0.4709333530260677,
+        "F_N": 1167.7065298984128,
+        "motor_power_kW": 0.687389939344367,
+        "chip_mass_kg_s": 0.0016635720695645853
+      },
+      "tables": [
+        "S-5",
+        "S-6",
+        "S-7",
+        "S-13",
+        "O-1"
+      ]
+    },
+    {
+      "task": "1.1.3",
+      "kind": "independent check using the explicit instructor reference-row mapping and corrected Ck/D",
+      "results": {
+        "a_m": 0.004866825167423135,
+        "s_m_rev": 0.0006083531459278919,
+        "v_m_s": 0.34512357402832244,
+        "n_rev_s_using_D_0_080m": 1.3732030696037296
+      },
+      "tables": [
+        "S-5",
+        "S-6",
+        "S-7",
+        "S-13"
+      ]
+    },
+    {
+      "task": "2.1.1",
+      "kind": "independent check using original statement eta and simultaneous drill multiplicity",
+      "results": {
+        "eta": 0.78,
+        "drill_count": 1,
+        "s_m_rev": 0.00013204689884073484,
+        "n_rev_s": 9.615900692650923,
+        "v_m_s": 0.7552310743420286,
+        "active_time_per_piece_s": 47.253401323703955,
+        "tool_life_s": 1500,
+        "pieces_before_tool_change_continuous": 31.743746650625713,
+        "complete_pieces_floor": 31
+      },
+      "tables": [
+        "BU-2",
+        "BU-3",
+        "BU-4"
+      ]
+    },
+    {
+      "task": "2.2.1",
+      "kind": "independent check using original statement eta and simultaneous drill multiplicity",
+      "results": {
+        "eta": 0.9,
+        "drill_count": 3,
+        "s_m_rev": 0.00013893842269188965,
+        "n_rev_s": 9.038713926933292,
+        "v_m_s": 0.7098989317688346,
+        "active_time_per_piece_s": 47.7773705948121,
+        "tool_life_s": 1800,
+        "pieces_before_tool_change_continuous": 37.674739685139826,
+        "complete_pieces_floor": 37
+      },
+      "tables": [
+        "BU-2",
+        "BU-3",
+        "BU-4"
+      ]
+    },
+    {
+      "task": "2.3.1",
+      "kind": "independent calculation; full-precision BU1 interpolations, L2m, same axial head speed and two drills of each size",
+      "results": {
+        "tools": [
+          {
+            "D_mm": 6,
+            "s_mm_rev": 0.12222222222222223,
+            "v_initial_m_s": 0.537550515296703,
+            "n_initial_rev_s": 28.517940557021923,
+            "head_feed_initial_m_s": 0.003485526068080458,
+            "n_corrected_rev_s": 20.46420316597717,
+            "head_feed_final_m_s": 0.002501180386952766,
+            "tool_life_travel_m": 7.542638234949498,
+            "axial_force_per_drill_N": 986.9443761151985,
+            "motor_power_per_drill_W": 308.959986779964
+          },
+          {
+            "D_mm": 9,
+            "s_mm_rev": 0.16555555555555557,
+            "v_initial_m_s": 0.5309082860403135,
+            "n_initial_rev_s": 18.77703956705818,
+            "head_feed_initial_m_s": 0.0031086432172129654,
+            "n_corrected_rev_s": 15.107800995016706,
+            "head_feed_final_m_s": 0.002501180386952766,
+            "tool_life_travel_m": 4.772362882291118,
+            "axial_force_per_drill_N": 1830.793846255161,
+            "motor_power_per_drill_W": 654.2233481426474
+          },
+          {
+            "D_mm": 14,
+            "s_mm_rev": 0.19866666666666666,
+            "v_initial_m_s": 0.5537298272081457,
+            "n_initial_rev_s": 12.589834162513924,
+            "head_feed_initial_m_s": 0.002501180386952766,
+            "n_corrected_rev_s": 12.589834162513922,
+            "head_feed_final_m_s": 0.002501180386952766,
+            "tool_life_travel_m": 2.000000000000001,
+            "axial_force_per_drill_N": 3235.5777664314273,
+            "motor_power_per_drill_W": 1526.3735882918247
+          }
+        ],
+        "common_head_feed_m_s": 0.002501180386952766,
+        "axial_force_total_N": 12106.631977603574,
+        "motor_power_total_W": 4979.113846428872
+      },
+      "tables": [
+        "BU-1",
+        "BU-2",
+        "BU-3",
+        "BU-4"
+      ],
+      "assumption": "mu0=1 follows the worked solution assumption; the statement alone does not specify individual-hole l/D."
+    },
+    {
+      "task": "1.1.2",
+      "kind": "independent piecewise branch check using instructor course correction convention, P25 and g8",
+      "assumptions": {
+        "life_root_z": 2,
+        "reference_life_min": 60,
+        "requested_life_min": 20,
+        "material_correction": 1.0714285714285714
+      },
+      "results": {
+        "single_pass_feed_m_rev": 0.000354492666953646,
+        "single_pass_depth_m": 0.002835941335629168,
+        "single_pass_branch": "middle",
+        "two_pass_feed_m_rev": 0.000177246333476823,
+        "two_pass_depth_m": 0.001417970667814584,
+        "two_pass_branch": "low",
+        "motor_power_two_pass_W": 3820.8904607636027,
+        "power_reduction_percent": 61.79109539236397
+      },
+      "tables": [
+        "S-5",
+        "S-8",
+        "S-13"
+      ]
+    }
+  ]
+}

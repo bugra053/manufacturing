@@ -1,0 +1,15 @@
+2. Drilling , 2.3 Drills with multi-spindle head, 2.3.1 Task – Solution (2)
+Based on the mathematical formula for cutting speed when drilling:
+v =[(C x Dx0-m x μ ) /(L x π)m x sy0-m]1/1-m
+L v o
+it is possible to calculate cutting speeds for individual drills:
+v =[(0,16386 x 0,0060,4-0,2 x 1) /(2 x π)0,2 x 0,0001220,5-0,2]1/1-0,2
+L1
+=? m/s
+v =[(0,16386 x 0,0090,4-0,2 x 1) /(2 x π)0,2 x 0,0001650,5-0,2]1/1-0,2
+L2
+=? m/s
+v =[(0,16386 x 0,00140,4-0,2 x 1) /(2 x π)0,2 x 0,0001980,5-0,2]1/1-0,2
+L3
+=? m/s
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

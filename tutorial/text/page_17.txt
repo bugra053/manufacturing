@@ -1,0 +1,15 @@
+1. Turning
+1.1 Universal lathes
+1.1.3 Task
+Determine the maximum depth of cut and the number of revolutions corresponding to it during
+longitudinal machining on the lathe.
+Input data for the calculation:
+-Work piece material: Cast Iron , HB=180 ;
+-Tool material: High-speed steel;
+-Chip slenderness coefficient: g=8;
+-Workpiece diameter before processing: D=80 mm;
+- Attack angle of the tool blade: κ= 55° ;
+- Power of the machine's electric drive motor: P = 1,8 kW;
+M
+- Efficiency rate of machine transmission, η=0,7.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

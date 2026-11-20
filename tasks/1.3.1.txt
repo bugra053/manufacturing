@@ -1,0 +1,25 @@
+Task 1.3.1 — statement, tutorial PDF page 27
+Original source: https://raw.githubusercontent.com/bugra053/manufacturing/main/sources/tutorial_calculations.pdf
+Read diagram/page image: https://raw.githubusercontent.com/bugra053/manufacturing/main/tutorial/pages/page_27.png
+
+1. Turning
+1.3 Turret lathes
+1.3.1 Task
+The workpiece according to the sketch given below is
+machined on a turret lathe with a horizontal working head,
+so that the longitudinal and transverse supports of the tool
+work simultaneously.
+It is necessary to calculate:
+- the relevant machining regime;
+- main machining time;
+-main cutting resistance;
+- durability/stability of the most endangered tool.
+Input data for the calculation:
+- the material of the workpiece is cast iron, HB=200;
+- the material of the drill bit is high-speed steel, and the
+material of the turning knives is hard metal K20;
+- power of the driving electric motor of the machine is
+P =15 kW;
+M
+-Efficiency rate of machine transmission, η=0,75.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

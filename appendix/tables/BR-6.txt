@@ -1,0 +1,16 @@
+BR-6 — exact instructor appendix, PDF page 14
+Authority: sources/appendix_formulas.pdf
+Extracted text may lose superscripts, merged cells, root indices or denominator grouping; read original page image when ambiguous. Decimal commas are preserved.
+
+Table BR-6: The ratio of the average penetration force to the average cutting force on the circumference
+of the grinding wheel.
+Cutting depth a Fpm/Fvm ratio at axial feed sa (mm/rev.)
+(mm) sa=6 sa=7,5 sa=9,5 sa=12 sa=15
+0,01 1,5 1,68 1,65 1,84 1,42
+0,02 1,46 1,44 1,65 1,98 2,12
+0,03 1,82 2,02 2,08 2,18 -
+0,04 2,08 2,03 - - -
+0,05 1,97 - - - -
+Note: 6
+Fvm= 16,68 x 106 x √ HB x Am 0,65 (N) ; Am=(vp/vt) x sa x a (m2).
+

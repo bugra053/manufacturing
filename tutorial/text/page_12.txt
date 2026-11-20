@@ -1,0 +1,13 @@
+1. Turning
+1.1 Universal lathes
+1.1.2 Task – Solution (2)
+s= {[P x η x Tm ] / [C x C x g(x1-x) x ζ x ζ x ζ ]} 1 / (y1-y+x1-x)
+M k v κ mrp T
+s= {[10000 x 0,8 x (20 x 60)0,2 ] / [3,95 x 108 x 0,2713 x 8(1-0,15) x 0,74 x 1,071 x 1,732]} 1 / (0,78-0,35+1-0,15)
+s= ? [m/rev]
+The constants and exponents in the previous equation are:
+C =3,95 x108 ; x=1,0; y=0,78} from Table S-13 for Structural steel /Carbon steel; Rm=70 x 107 N/m2 ;
+k
+Table S-13: Values ​​of C , x , y for the calculation of the main cutting force (resistance), F =C x ax1 x sy1 (N).
+k 1 1 v k
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

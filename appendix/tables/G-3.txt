@@ -1,0 +1,14 @@
+G-3 — exact instructor appendix, PDF page 11
+Authority: sources/appendix_formulas.pdf
+Extracted text may lose superscripts, merged cells, root indices or denominator grouping; read original page image when ambiguous. Decimal commas are preserved.
+
+Table G-3:Standard milling cutter dimensions (cutter diameter D,cutter length l and shaft hole diameter d).
+g
+D (mm) 40 50 63 80 100 125 160
+20 25 32 36 40 50 63
+l (mm) 32 40 50 63 70 80 100
+g
+50 63 70 80 90 110 125
+70 80 90 100 110 140 160
+d (mm) 16 22 27 32 40 50 63
+

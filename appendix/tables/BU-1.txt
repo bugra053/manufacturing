@@ -1,0 +1,18 @@
+BU-1 — exact instructor appendix, PDF page 9
+Authority: sources/appendix_formulas.pdf
+Extracted text may lose superscripts, merged cells, root indices or denominator grouping; read original page image when ambiguous. Decimal commas are preserved.
+
+Table BU-1: Recommended feed values for drilling.
+Work material - Workpiece Drill bit diameter Feed s (mm/rev)
+Steel up to Rm=70 x 107 N/m2 1÷10 0,05÷0,18
+Steel up to Rm=50 x 107 N/m2 10÷25 0,18÷0,25
+Steel up to Rm=(60÷70 )x 107 N/m2 1÷10 0,05÷0,18
+Steel up to Rm=(60÷70 )x 107 N/m2 10÷25 0,18÷0,25
+Steel up to Rm=(80÷90 )x 107 N/m2 1÷10 0,03÷0,12
+Steel up to Rm=(80÷90 )x 107 N/m2 10÷25 0,12÷0,25
+Cast Iron, HB≤180 1÷10 0,025÷0,27
+Cast Iron, HB≤180 10÷25 0,27÷0,45
+Cast Iron, HB>180 1÷10 0,01÷0,17
+Cast Iron, HB>180 10÷25 0,17÷0,30
+Note: s(Dx)=smin+x Δs ; Δs(D=1 mm)=(smax-smin)/(Dmax-Dmin); x=Dx-Dmin
+

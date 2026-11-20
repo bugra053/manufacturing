@@ -1,0 +1,53 @@
+Manual of ENS 208 ; Prof. Ismar Alagić Ph.D.
+5) PLANING
+Table R-1: Recommended values of cutting speed and feed when planing with high-speed steel
+tools (tool life T=60 min).
+Workpiece material Ultimate tensile Feed s (mm/stroke) Cutting speed v (m/min)
+strength R (N/mm2)
+m
+or Brinell hardness
+Grey cast iron up to 200 HB 0,4 ÷1,0 (fine machining) 18÷13 (fine machining)
+1,0 ÷2,5 (rough machining) 13÷10 (rough machining)
+200 ÷ 250 HB 0,4 ÷1,0 (fine machining) 12÷9 (fine machining)
+1,0 ÷2,5 (rough machining) 9÷7 (rough machining)
+Alloyed grey cast iron 250 ÷ 450 HB 0,4 ÷1,0 (fine machining) 11÷9 (fine machining)
+1,0 ÷2,5 (rough machining) 9÷7 (rough machining)
+Structural steels, case- 500 0,4 ÷1,0 (fine machining) 18÷12 (fine machining)
+hardening steels and 1,0 ÷2,5 (rough machining) 12÷8 (rough machining)
+quenched and tempered 600 0,4 ÷1,0 (fine machining) 12÷8 (fine machining)
+steels 1,0 ÷2,5 (rough machining) 8÷6 (rough machining)
+700 0,4 ÷1,0 (fine machining) 11÷7 (fine machining)
+1,0 ÷2,5 (rough machining) 7÷5 (rough machining)
+Steel casting 700 0,4 ÷1,0 (fine machining) 11÷7 (fine machining)
+1,0 ÷2,5 (rough machining) 7÷5 (rough machining)
+Table R-2: Recommended cutting and feed speeds when planing with hard tool tools.
+Workpiece material Type of hard metal Cutting speed v (m/min) Feed s (mm/stroke)
+Steel R < 60 kN/cm2 60 2,5
+m
+Steel R = 60 ÷ 120 kN/cm2 P40, P50 40 1,5
+m
+Steel R = 120 ÷ 145 kN/cm2 30 1
+m
+High-alloy steels P40, M20 20 0,5 ÷ 1,5
+Hardened steels R ≤ 145 kN/cm2 K10 10 0,5
+m
+Steel casting R ≤ 70 kN/cm2 P40, P50 40 2,5
+m
+High alloy steel casting P40, M20 20 1
+Gray cast iron up to 220 HB P30, P40, K20 30 1,5
+P30 30 2,5
+Gray cast iron above 220 HB K10 30 1
+K20 30 1,5
+6) GRINDING
+Table BR-1: Recommended allowances /additions of material for outer circular grinding –δ (mm).
+3
+l (mm) Workpiece diameter D (mm)
+Up to 10 10÷18 18÷30 30÷50 50÷80 80÷120 120÷180 180÷260 260÷360 above 360
+Up to 100 0,2÷0,3 0,2÷0,3 0,2÷0,3 0,2÷0,3 0,3÷0,4 0,3÷0,4 0,3÷0,4 0,4 0,5 0,5
+100÷250 0,2÷0,3 0,2÷0,3 0,3 0,3÷0,4 0,3÷0,4 0,3÷0,4 0,3÷0,4 0,5 0,5 0,5÷0,6
+250÷400 0,2÷0,3 0,3 0,3÷0,4 0,3÷0,4 0,3÷0,4 0,3÷0,4 0,4÷0,5 0,5 0,5 0,6
+400÷630 0,3÷0,6 0,3÷0,4 0,3÷0,4 0,3÷0,4 0,4÷0,5 0,4÷0,5 0,4÷0,5 0,5÷0,6 0,6 0,6
+630÷1000 - 0,3÷0,4 0,3÷0,4 0,4÷0,5 0,4÷0,5 0,4÷0,5 0,4÷0,6 0,6 0,6÷0,7 0,7
+1000÷1600 - - - 0,6 0,6÷0,7 0,6÷0,7 0,7 0,7÷0,8 0,7÷0,8 0,8
+above 1600 - - - 0,7 0,7÷0,8 0,8 0,8 0,8÷0,9 0,9 0,9
+Note: For rough grinding, 80% of the specified values are taken, and for fine grinding, 20% of the specified values are taken.

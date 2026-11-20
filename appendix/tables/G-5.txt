@@ -1,0 +1,23 @@
+G-5 — exact instructor appendix, PDF page 11
+Authority: sources/appendix_formulas.pdf
+Extracted text may lose superscripts, merged cells, root indices or denominator grouping; read original page image when ambiguous. Decimal commas are preserved.
+
+Table G-5: C , y and k values for calculation of cutting speed in face milling, v= C / s y (m/s).
+0 0 1
+Workpiece material C y k
+0
+Steel Carbon steel 1,0
+R m ≤ 100 x 107 N/m2 C≤ 0,6% 0,4
+Carbon steel (136,866 x 1010 x k x D0,176) / (T0,184 x R 1,43 x a0,06 x b0,2) 0,85
+m
+C> 0,6%
+Alloy steel 0,6 ÷ 0,65
+Steel Carbon steel 1,0
+R m > 100 x 107 N/m2 C≤ 0,6% 0,4
+Carbon steel (341,493 x 1010 x k x D0,176) / (T0,27 x R m 1,43 x a0,06 x b0,2) 0,85
+C> 0,6%
+Alloy steel 0,6 ÷ 0,65
+Cast iron HB ≤ 200 ( 369,52 x VB0,25) / [T0,28 x (HB)0,7] 0,333 -
+Cast iron HB > 200 ( 73,9 x 106 x VB0,25) / [T0,28 x (HB)3] 0,333 -
+Note: The width of the wear zone VB for rough machining is 1.5 ÷ 2 mm, and for fine machining 0.4 ÷ 0.8 mm.
+

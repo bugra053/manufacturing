@@ -1,0 +1,53 @@
+Manual of ENS 208 ; Prof. Ismar Alagić Ph.D.
+Table BR-5: Recommended cutting speeds and workpiece speeds when grinding with a corundum
+grinding wheel with a ceramic bonding agent.
+Workpiece material and type of Cutting speed vt (m/s) Workpiece speed vp (m/min)
+machining
+Steel and Cast steel
+Circular outer machining 25÷35 12÷18 (rough); 8÷14 (fine)
+Inner machining 25 18÷25
+Flat machining 20÷35 6÷35
+Cast Iron
+Circular outer machining 25 12÷15 (rough); 9÷12 (fine)
+Inner machining 25 21÷24
+Flat machining 20÷35 6÷35
+Copper alloys
+Circular outer machining 25÷35 18÷21 (rough); 15÷18 (fine)
+Inner machining 25 21÷27
+Flat machining 25 15÷45
+Aluminum and its alloys
+Circular outer machining 20 30÷40 (rough); 24÷30 (fine)
+Inner machining 20 30÷40
+Flat machining 20÷25 15÷45
+Note: For grinding wheels made of SiC, it is necessary to select the recommended values below.
+Table BR-6: The ratio of the average penetration force to the average cutting force on the circumference
+of the grinding wheel.
+Cutting depth a Fpm/Fvm ratio at axial feed sa (mm/rev.)
+(mm) sa=6 sa=7,5 sa=9,5 sa=12 sa=15
+0,01 1,5 1,68 1,65 1,84 1,42
+0,02 1,46 1,44 1,65 1,98 2,12
+0,03 1,82 2,02 2,08 2,18 -
+0,04 2,08 2,03 - - -
+0,05 1,97 - - - -
+Note: 6
+Fvm= 16,68 x 106 x √ HB x Am 0,65 (N) ; Am=(vp/vt) x sa x a (m2).
+Table BR-7: Recommended values of grinding cutting depth "a" (mm).
+Type of machining and workpiece material Cutting depth „a“ (mm)
+Rough circular grinding of Cast iron 0,08÷0,15
+Rough circular grinding of Steel 0,02÷0,05
+Fine circular grinding of Cast iron 0,02÷0,05
+Fine circular grinding of Steel 0,005÷0,01
+Rough straight grinding/sanding 0,05
+Fine straight grinding/sanding 0,01
+Note: In circular grinding, smaller values should be chosen for inner grinding and, conversely, larger values for outer
+grinding.
+Table BR-8: The value of the constant C for the calculation of the speed of the workpiece of grinding.
+Workpiece material C
+Unhardened steel 0,0053÷0,0058
+Hardened steel 0,0030÷0,0038
+Cast Iron 0,0017÷0,0025
+Bronze 0,0050÷0,0053
+Note:
+Circular outer grinding vp=C/√[ a x (D P +D T )]/( D p x D t )
+Inner grinding vp=C/√ a x (D P -D T )]/( D p x D t )
+Flat grinding vp=C/√ a/Dt

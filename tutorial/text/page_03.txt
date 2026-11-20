@@ -1,0 +1,18 @@
+1. Turning
+1.1 Universal lathes
+1.1.1 Task –Solution (1)
+The cross-sectional area of ​​the cutting layer is determined using a mathematical formula:
+A=a x s = 0,0015 x 0,0003=? m2.
+where Feed is given and is the amount: s=0,3 mm/rev
+While the cutting depth is calculated based on the difference in diameter before and after machining:
+a= (63-60)/2=? mm
+The cutting speed is determined based on the given stability of the tool according to the mathematical
+formula:
+v=(C / ax x sy) x ζ x ζ xζ = (0,009069 / 0,00150,24 x 0,00030,34) x 0,74 x 1 x 0,935
+V κ m T
+=? m/s.
+The constants and exponents in the previous equation are:
+C =0,009069 ; x=0,24; y=0,34} from Table S-7 for CrNi steel; Rm=70 x 107 N/m2 ;
+V
+a>1 mm; and s=0,2 – 0,4 mm/rev
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

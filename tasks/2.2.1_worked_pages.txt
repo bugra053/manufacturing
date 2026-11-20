@@ -1,0 +1,75 @@
+Task 2.2.1 — instructor worked pages, PDF pages 47–50
+Source may contain typos/placeholders. Appendix coefficients and current question givens take priority.
+
+--- PDF PAGE 47 ---
+2. Drilling , 2.2 Multi-spindle drilling machines, 2.2.1 Task – Solution (1)
+The most favorable processing regime is determined on the basis of the simultaneous use of the power of the machine's
+driving electric motor and the stability of the tool, bearing in mind that with a multi-spindle drill, all drill bits have the same
+feed and number of revolutions. First, from the mathematical formula for calculating the power of the driving electric
+motor of the machine:
+3
+P =(Σ P )/η=(3 x M x ω)/η=(3 x C x Dx x sy x 2 x π x n )/η
+M Ki M M
+i=1
+and a mathematical form for calculating the cutting speed:
+v=( C x Dx0 x μ ) /Tm x sy0 = D x π x n
+v 0 T
+the number of revolutions of the drill bit is obtained, taking into account the power of the machine's drive electric motor
+and the durability of the tool:
+n =(η x P ) / 3 x C x Dx x sy x 2 x π
+M M M
+n =(C x Dx0-1 x μ ) /Tm x sy0 x π
+T v 0
+The feed at which the machine's power and tool stability will be used simultaneously is obtained as follows:
+n = n
+M T
+(η x P ) / 3 x C x Dx x sy x 2 x π = (C x Dx0-1 x μ ) /Tm x sy0 x π
+M M v 0
+so it is:
+s=[ (P x Tm x η) / (C x C x Dx+x0-1 x 6 x μ )]1/y-y0
+M M v 0
+=[ (7000 x 18000,2 x 0,9) / (72,076697 x 106 x 0,163865 x 0,0252+0,4-1 x 6 x 1)]1/0,8-0,5
+=? m/rev.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 48 ---
+2. Drilling , 2.2 Multi-spindle drilling machines, 2.2.1 Task – Solution (2)
+The constants and exponents in the previous equation are: C =0,163865; x =0,4; y =0,5; m=0,2 } From Table BU-2 for Steel; R =60 x 107 N/m2
+v 0 0 m
+Table BU-2 : C ,x ,y and m values ​​for cutting speed calculation v=(C x D x0 x μ ) /(T m x sy0) (m/s)
+v 0 0 v b 0 b
+C = (0,17618 + 0,15155)/2 =0,163865
+v 60
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 49 ---
+2. Drilling , 2.2 Multi-spindle drilling machines, 2.2.1 Task – Solution (3)
+The constants and exponents in the previous equation are: C =72,076697 x 106 ; x=2 ; y=0,8} From Table BU-4 for Steel; R =60 x 107 N/m2
+M m
+Table BU-4: C and C values ​​for the calculation of the torque and a secondary movement force during drilling.
+m F
+M= C x Dx x sy (Nm) ; F =C x Dx1 x sy1 (N)
+M f F
+C = [(67,764416 + 76,388978) x 106)/2 = 72,076697 x 106
+M 60
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 50 ---
+2. Drilling , 2.2 Multi-spindle drilling machines, 2.2.1 Task – Solution (4)
+while the coefficient μ is determined from the table BU-3: μ =1 for l/D=60/25=2,4
+0 0
+Table BU-3: Value of μ for l/D>2,5
+0
+The corresponding number of revolutions of the drill bit is then calculated as follows:
+n=(P x η) /(C x Dx x sy x 2 x π = (7000 x 0,9)/( 72,076697 x 106 x 0,0252 x 0,0001390,8 x 6 x π
+M M
+=? rev/s
+The number of manufactured workpieces (drilled holes) after which the drill should be replaced is calculated
+as follows: K= T/t' =(30 x 60) /47,80
+g
+=? pcs.
+where the active machining time is calculated as follows:
+t' =l/(n x s)=0,06 /(n x s)= ?
+g
+So, until the drill is dulled, ? workpieces can be made.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

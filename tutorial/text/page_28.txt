@@ -1,0 +1,25 @@
+1. Turning 1.3 Turret lathes , 1.3.1 Task – Solution (1)
+On the revolver lathe, according to the condition of the task, the workpiece is machined by the simultaneous action of all
+the tools placed on the longitudinal and transverse support of the tool, as shown in the Machining Plan given below.
+Determining the relevant machining regime
+includes determining the depth of cut, feed rate
+and number of revolutions of the workpiece.
+The cutting depth for turning knives is determined
+based on the given sketch of the workpiece:
+- for longitudinal machining based on the
+difference in diameter before and after machining:
+a =(62÷56)/2=3 mm; a =(56÷50)/2=3 mm;
+1 2
+- for transverse machining based on the width of
+the groove that is made by machining: a =3 mm;
+3
+a =3 mm.
+4
+The feed is determined based on the ratio of the
+recommended values ​​for turning and drilling,
+namely:
+-feed for longitudinal and transverse turning is
+determined based on the recommended values ​​of
+the chip slenderness coefficients given in the table
+S-9 (next slide).
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

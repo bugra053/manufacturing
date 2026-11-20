@@ -1,0 +1,22 @@
+G-2 — exact instructor appendix, PDF page 10
+Authority: sources/appendix_formulas.pdf
+Extracted text may lose superscripts, merged cells, root indices or denominator grouping; read original page image when ambiguous. Decimal commas are preserved.
+
+Table G-2: Recommended feed values per tooth for rough milling
+Workpiece material Feed per tooth s (mm/tooth)
+1
+Plain milling Slitting cutters / End milling Form-relieved Indexable
+cutter and shell side milling cutter milling cutters / milling cutters
+end mill cutters backed-off form
+cutters
+Steel R ≤ 60 x 107 N/m2 0,1 ÷ 0,2 0,06 ÷ 0,08 0,016 ÷ 0,08 0,04 ÷0,06 0,1 ÷ 0,28
+m
+Steel R ≤ 80 x 107 N/m2 0,08 ÷ 0,16 0,05 ÷ 0,06 0,012 ÷ 0,04 0,03 ÷0,05 0,1 ÷ 0,25
+m
+Steel R ≤ 110 x 107 N/m2 0,05 ÷ 0,1 0,04 ÷ 0,05 0,01 ÷ 0,04 0,02 ÷0,04 0,1 ÷ 0,2
+m
+Cast iron HB ≤ 180 0,16 ÷ 0,25 0,07 ÷ 0,1 0,02 ÷ 0,1 0,05 ÷0,08 0,16 ÷ 0,36
+Cast iron HB > 180 0,1 ÷ 0,2 0,04 ÷ 0,06 0,012 ÷ 0,06 0,03 ÷0,08 0,1 ÷ 0,25
+Copper 0,2 ÷ 0,25 0,08 ÷ 0,1 0,016 ÷ 0,07 0,05 ÷0,08 0,1 ÷ 0,2
+Aluminum 0,1 ÷ 0,2 0,05 ÷ 0,08 0,01 ÷ 0,09 0,03 ÷0,07 0,08 ÷ 0,25
+Note: The upper limit of feed per tooth should be used for rough machining, and the lower limit for fine machining.

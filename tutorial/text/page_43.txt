@@ -1,0 +1,8 @@
+2. Drilling ; 2.1 Single-spindle drilling machines, 2.1.1 Task – Solution (2)
+The constants and exponents in the previous equation are: C =0,163865 ; x =0,4; y =0,5; m=0,2 } From Table BU-2 for Steel; R =60 x 107 N/m2
+v 0 0 m
+Table BU-2 : C ,x ,y and m values ​​for cutting speed calculation v=(C x D x0 x μ ) /(T m x sy0) (m/s)
+v 0 0 v b 0 b
+C = (0,17618 + 0,15155)/2 =0,163865
+v 60
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

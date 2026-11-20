@@ -1,0 +1,19 @@
+2. Drilling , 2.3 Drills with multi-spindle head, 2.3.1 Task – Solution (7)
+The necessary axial force that the unit needs to overcome is calculated as follows:
+F =F =C x Dx1 x sy1
+ai fi F
+F =90,185 x 106 x 0,0061 x 0,0001220,7
+a1
+=? N
+F =90,185 x 106 x 0,0091 x 0,0001650,7
+a2
+=? N
+F =90,185 x 106 x 0,0141 x 0,0001980,7
+a1
+=? N
+F =ΣF =2 x F + 2 x F + 2 x F
+a ai a1 a2 a3
+F =2 x 985,7 + 2 x 1826,5 + 2 x 3228
+a
+=? N
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

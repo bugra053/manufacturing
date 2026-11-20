@@ -1,0 +1,21 @@
+Task 1.1.2 — statement, tutorial PDF page 10
+Original source: https://raw.githubusercontent.com/bugra053/manufacturing/main/sources/tutorial_calculations.pdf
+Read diagram/page image: https://raw.githubusercontent.com/bugra053/manufacturing/main/tutorial/pages/page_10.png
+
+1. Turning
+1.1 Universal lathes
+1.1.2 Task
+Longitudinal machining is performed on a universal lathe in either one or two passes. Determine the
+maximum cross-sectional area of ​​the cutting layer for the single-pass machining scenario, and the
+percentage reduction in the machine's drive motor power for the two-pass scenario, given the same
+specified machining conditions.
+Input data for the calculation:
+- Workpiece material: structural steel, Rm=70 x 107 N/mm2 ;
+- Tool material: hard metal / carbide tool P25;
+- Tool durability/life : T=20 min;
+- Chip slenderness coefficient: g=8;
+- Attack angle of the tool blade: κ=90° ;
+- Power of the machine's electric drive motor: P = 10 kW;
+M
+- Efficiency rate of machine transmission, η=0,8.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

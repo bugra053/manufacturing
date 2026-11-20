@@ -1,0 +1,15 @@
+2. Drilling – Homework
+2.4 Exercise
+2.4.2 Task
+When drilling on a radial drilling machine, it is necessary to determine the appropriate machining
+parameters and the number of holes to be drilled before replacing a dull drill bit, subject to the condition of
+fully utilizing the machine's drive motor power and the requirement that the primary machining time per
+hole be 42 seconds.
+Input data for the calculation:
+- Workpiece material: structural steel / carbon steel, Rm=60 x 107 N/mm2 ;
+- Drill bit diameter: 20 mm;
+- Drilling depth: 60 mm;
+- Power of the driving electric motor of the machine is P = 2 kW;
+M
+- Efficiency rate of machine transmission, η=0,8 .
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

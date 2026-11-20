@@ -1,0 +1,15 @@
+S-11 — exact instructor appendix, PDF page 5
+Authority: sources/appendix_formulas.pdf
+Extracted text may lose superscripts, merged cells, root indices or denominator grouping; read original page image when ambiguous. Decimal commas are preserved.
+
+Table S-11: Standard cross-sections of lathe knife handles.
+Square section (mm x mm) Rectangular section (mm x mm)
+6 x 6 -
+8 x 8 -
+10 x 10 10 x 16
+12 x 12 12 x 20
+16 x 16 16 x 25
+20 x 20 20 x 32
+25 x 25 25 x 40
+32 x 32 32 x 50
+40 x 40 -

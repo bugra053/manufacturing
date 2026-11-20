@@ -1,0 +1,36 @@
+Manual of ENS 208 ; Prof. Ismar Alagić Ph.D.
+Table BR-2: Recommended allowances /additions of material for internal grinding –δ (mm).
+3
+Finished hole Machining length l (mm)
+diameter d (mm) up to 63 63 ÷100 100 ÷160 160 ÷ 250 250 ÷400 above 400
+up to 18 0,3 0,3 - - - -
+18 ÷ 50 0,3 0,3 0,4 0,4 - -
+50 ÷ 80 0,4 0,4 0,4 0,4 0,5 -
+80 ÷120 0,4 0,4 0,4 0,5 0,5 0,6
+120 ÷180 0,4 0,4 0,5 0,5 0,5 0,6
+180 ÷260 0,5 0,5 0,5 0,5 0,6 0,6
+260 ÷ 360 0,5 0,5 0,5 0,6 0,6 0,7
+above 360 0,6 0,6 0,6 0,7 0,7 0,8
+Note: For rough grinding, 80% of the specified values are taken, and for final grinding, 20% are taken.
+Table BR-3: Recommended allowances /additions of material for side/lateral surfaces – δ (mm).
+3
+Final length of the Workpiece diameter D (mm)
+workpiece l (mm) up to 18 18÷50 50÷120 120÷260 above 260
+up to 18 0,3 0,3 0,3 - -
+18 ÷ 50 0,3 0,3 0,4 0,4 -
+50 ÷ 120 0,4 0,4 0,4 0,5 0,6
+120 ÷260 0,5 0,5 0,5 0,5 0,6
+260 ÷500 0,6 0,6 0,6 0,7 0,7
+above 500 0,7 0,7 0,7 0,7 0,8
+Note: For rough grinding, 80% of the specified values are taken, and for final grinding, 20% are taken.
+Table BR-4: Recommended allowances /additions for grinding/lateral side surfaces- δ (mm).
+3
+Final workpiece Workpiece width B ≤ 200 mm Workpiece width B > 200 mm
+thickness H (mm) Workpiece length L (mm)
+up to 100 100÷250 250÷400 400÷630 above 630 up to 100÷250 250÷400 400÷630 above
+100 630
+up to 18 0,3 0,4 - - - 0,3 0,4 - - -
+18 ÷ 30 0,3 0,4 0,4 - - 0,4 0,4 0,5 - -
+30 ÷ 50 0,4 0,4 0,5 0,6 - 0,4 0,4 0,5 0,6 -
+above 50 0,4 0,5 0,6 0,6 0,8 0,5 0,5 0,6 0,7 0,8
+Note: For rough grinding, 80% of the specified values are taken, and for final grinding, 20% are taken.

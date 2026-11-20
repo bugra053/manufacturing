@@ -1,0 +1,16 @@
+2. Drilling , 2.3 Drills with multi-spindle head, 2.3.1 Task – Solution (4)
+while the coefficient μ is determined from the Table BU-3: μ =1 for l/D≤2,5 (assumption).
+0 0
+Table BU-3: Value of μ for l/D>2,5
+0
+The corresponding number of revolutions for individual drill bits is then calculated as follows:
+n =v /(D x π)=0,537/(0,006 x π)
+1 L1 1
+=? rev/s
+n = v /(D x π)=0,531/(0,009 x π)
+2 L2 2
+=? rev/s
+n = v /(D x π)=0,554/(0,014 x π)
+3 L3 3
+=? rev/s
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

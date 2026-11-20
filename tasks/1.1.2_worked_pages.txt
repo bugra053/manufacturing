@@ -1,0 +1,113 @@
+Task 1.1.2 — instructor worked pages, PDF pages 11–16
+Source may contain typos/placeholders. Appendix coefficients and current question givens take priority.
+
+--- PDF PAGE 11 ---
+1. Turning
+1.1 Universal lathes
+1.1.2 Task – Solution (1)
+The cross-sectional area of ​​the cutting layer, which is the product of the depth of cut „a“ and the
+feed rate „s“, is calculated as follows: A=a x s
+We use a mathematical formula for the maximum utilization of the power of the driving electric
+motor of the machine, which is determined from the following formula: P = (F x v) / η
+M v
+The main cutting resistance is calculated as follows: F =C x ax1 x sy1
+v k
+The cutting speed is calculated using the following mathematical formula: v=(C / Tm x ax x sy) x ζ x ζ xζ
+v κ mrp T
+After substituting the formulas for the main cutting force F and cutting speed v into the mathematical
+v
+formula for the power of the machine's drive motor, we obtain the following:
+P = (C x C x a(x1-x) x s(y1-y) x ζ x ζ x ζ ) / (η x Tm) ...(1)
+M k v κ mrp T
+The chip slenderness coefficient is defined by the following formula: g=a/s ...(2)
+After entering the mathematical formulas (1) and (2) into the mathematical form for calculation the power of
+the machine's drive motor, we obtain the following:
+P = (C x C x g(x1-x) x s(y1-y+x1-x) x ζ x ζ x ζ ) / (η x Tm)
+M k v κ mrp T
+Solving the equation in terms of „s“, we get the following:
+s= {[P x η x Tm ] / [C x C x g(x1-x) x ζ x ζ x ζ ]} 1 / (y1-y+x1-x)
+M k v κ mrp T
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 12 ---
+1. Turning
+1.1 Universal lathes
+1.1.2 Task – Solution (2)
+s= {[P x η x Tm ] / [C x C x g(x1-x) x ζ x ζ x ζ ]} 1 / (y1-y+x1-x)
+M k v κ mrp T
+s= {[10000 x 0,8 x (20 x 60)0,2 ] / [3,95 x 108 x 0,2713 x 8(1-0,15) x 0,74 x 1,071 x 1,732]} 1 / (0,78-0,35+1-0,15)
+s= ? [m/rev]
+The constants and exponents in the previous equation are:
+C =3,95 x108 ; x=1,0; y=0,78} from Table S-13 for Structural steel /Carbon steel; Rm=70 x 107 N/m2 ;
+k
+Table S-13: Values ​​of C , x , y for the calculation of the main cutting force (resistance), F =C x ax1 x sy1 (N).
+k 1 1 v k
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 13 ---
+1. Turning
+1.1 Universal lathes
+1.1.2 Task – Solution (3)
+C =0,2713 ; x=0,15; y=0,35; m=0,2} from Table S-8 for Structural/Carbon steel; hard metal, and we assume s≤0,75 mm/rev
+v
+Table S-8: Values ​​of C , x, y and m for calculation of cutting speed v=(C x ζ x ζ xζ ) /Tm x ax x sy (m/s)
+v v κ mrp T
+The table is used when the material of the tool is hard metal and ceramic insert, and if necessary also for high-speed steel.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 14 ---
+1. Turning
+1.1 Universal lathes
+1.1.2 Task – Solution (4)
+While the correction coefficients are determined as follows:
+A coefficient that takes into account the angle of attack of the tool blade κ=90⁰ from the below table; ζ =0,74 .
+k
+Table S-5: Correction coefficient „ζ “for the calculation of the cutting speed v for various values ​​of the attack angles of the tool blade κ.
+k
+A coefficient that takes into account the material of the workpiece, from the table S-8, according to formula:
+ζ =(75 x 107) / R – for steel → ζ = (75 x 107) / (70 x 107) =?
+mrp m mrp
+The coefficient that takes into account the durability of the tool T=20 min from the table S-8 (z=2 for steel machining) ;
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 15 ---
+1. Turning
+1.1 Universal lathes
+1.1.2 Task – Solution (5)
+Since the calculated machining feed fully satisfies the initial assumption made when determining the constant
+and exponent values ​​from Table S-8, we can proceed with the problem. It is important to note that if the result
+does not satisfy the initial assumption, a new assumption must be made and the calculation repeated with
+modified values ​​for the constant and exponents. The depth of cut can now be determined using formula (2):
+a= g x s =8 x s =? [m]
+The required maximum cross-sectional area of ​​the cutting layer is:
+A= a x s =0,00283 x s = 1 x 10-6 [m2]
+In the second part of the task, to calculate the percentage reduction in the machine's drive motor power for a
+two-pass machining operation, it is necessary to determine the new depth of cut and feed rate while
+maintaining the same machining conditions—i.e., with g = constant—as follows:
+a =a / 2=2,83/2=? mm ; s =a / g= a / 8=? mm/rev.
+1 1 1 1
+The power of the machine's drive electric motor, according to mathematical formula (1), for the given
+machining conditions is:
+P = (C x C x a (x1-x) x s (y1-y) x ζ x ζ x ζ ) / (η x Tm)
+M1 k v 1 1 κ mrp T
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 16 ---
+1. Turning
+1.1 Universal lathes
+1.1.2 Task – Solution (6)
+P = (3,95x108 x 0,9197x 0,001415(1-0,15) x 0,000177(0,78-0,2) x 0,74 x 1,071x1,732) / [0,8 x (20x60)0,2] = ? W
+M1
+whereby, given the other machining conditions, the values ​​of the constant and exponents related to the cutting speed change
+as follows:
+C =0,9197 ; x=0,15; y=0,2; m=0,2} from Table S-8 for Structural/Carbon steel; hard metal P25, and s≤0,3 mm/rev.
+v
+The required percentage reduction in the power of the machine‘s
+drive electric motor is, therefore:
+(P – P ) / P =
+M M1 M
+[(10000 – P ) / 10000] x 100
+M1
+(P – P ) / P = ? %
+M M1 M
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

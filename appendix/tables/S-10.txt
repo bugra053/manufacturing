@@ -1,0 +1,17 @@
+S-10 — exact instructor appendix, PDF page 5
+Authority: sources/appendix_formulas.pdf
+Extracted text may lose superscripts, merged cells, root indices or denominator grouping; read original page image when ambiguous. Decimal commas are preserved.
+
+Table S-10: Recommended feed values „s" for fine turning with knives made of high-speed steel
+and hard metal (carbide).
+Surface Workpiece material Feed s (mm/rev) at knife tip radius r (mm)
+quality class r = 0,5 r = 1,0 r = 1,5 r = 2,0
+N9 Steel 0,4÷0,55 0,55÷0,65 0,65÷0,70 0,65÷0,70
+Cast Iron & Non-Ferrous Metal 0,25÷0,40 0,40÷0,50 0,50 0,50
+N8 Steel 0,20÷0,30 0,30÷0,45 0,35÷0,50 0,35÷0,50
+Cast Iron & Non-Ferrous Metal 0,15÷0,25 0,20÷0,40 0,30÷0,50 0,35÷0,50
+N7 Steel 0,11÷0,18 0,14÷0,24 0,16÷0,28 0,18÷0,32
+Cast Iron & Non-Ferrous Metal 0,10÷0,15 0,12÷0,20 0,15÷0,30 0,20÷0,35
+Note: Check the recommended feed rate with regard to the geometric roughness s≤ (32 x R x r)1/2
+a
+

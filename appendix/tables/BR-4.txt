@@ -1,0 +1,15 @@
+BR-4 — exact instructor appendix, PDF page 13
+Authority: sources/appendix_formulas.pdf
+Extracted text may lose superscripts, merged cells, root indices or denominator grouping; read original page image when ambiguous. Decimal commas are preserved.
+
+Table BR-4: Recommended allowances /additions for grinding/lateral side surfaces- δ (mm).
+3
+Final workpiece Workpiece width B ≤ 200 mm Workpiece width B > 200 mm
+thickness H (mm) Workpiece length L (mm)
+up to 100 100÷250 250÷400 400÷630 above 630 up to 100÷250 250÷400 400÷630 above
+100 630
+up to 18 0,3 0,4 - - - 0,3 0,4 - - -
+18 ÷ 30 0,3 0,4 0,4 - - 0,4 0,4 0,5 - -
+30 ÷ 50 0,4 0,4 0,5 0,6 - 0,4 0,4 0,5 0,6 -
+above 50 0,4 0,5 0,6 0,6 0,8 0,5 0,5 0,6 0,7 0,8
+Note: For rough grinding, 80% of the specified values are taken, and for final grinding, 20% are taken.

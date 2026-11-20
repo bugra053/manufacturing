@@ -1,0 +1,45 @@
+S-17 — exact instructor appendix, PDF page 8
+Authority: sources/appendix_formulas.pdf
+Extracted text may lose superscripts, merged cells, root indices or denominator grouping; read original page image when ambiguous. Decimal commas are preserved.
+
+Table S-17: Values of k and 1-m for calculation of main cutting force F , Passive / Radial force F and Feed force
+v1.1 i v P
+F based on Kienzie's equation , F =b x h1-m x k , (i=v,p,s)
+S i 1 i1.1
+No. Workpiece material Rnx106 HV 10 Specific cutting forces (N/mm2)
+(N/m2) kv1.1 1-mv kp1.1 1-mp ks1.1 1-ms
+1. C15G 373 108 1481 0,7184 266 0,2029 333 0,0005
+2. C35N 550 160 1516 0,7349 259 0,4648 321 0,1993
+3. St50-2 559 168 1499 0,7078 274 0,5089 351 0,2987
+4. St70-2 824 239 1595 0,6781 152 0,0994 228 0,0714
+5. Ck45N 713 199 1427 0,7715 198 0,5426 232 0,2319
+6. Ck60N 775 221 1686 0,7842 259 0,5870 285 0,2775
+7. 40Mn4G 618 183 1602 0,7399 290 0,6161 343 0,2909
+8. 37MnSi5G 676 196 1581 0,7532 259 0,5870 317 0,3113
+9. 15NiCr6 G 589 180 1482 0,7403 274 0,5089 340 0,2997
+10. 18CrNi8 G 578 181 1446 0,7328 257 0,5273 351 0,3437
+11. 30CrNiMo8 G 707 210 1493 0,7477 255 0,5657 355 0,3844
+12. 34CrNiMo6 G 834 250 1571 0,7800 233 0,5371 300 0,3233
+13. 34CrMo6 G 559 150 1569 0,7939 317 0,6925 366 0,4165
+14. 41Cr4 G 618 173 1588 0,7763 231 0,4797 334 0,2828
+15. 16MnCr5N 500 150 1411 0,6995 312 0,5004 406 0,3652
+16. 20MnCr5N 588 183 1464 0,7413 300 0,5833 356 0,2433
+17. 34CrMo4G 628 193 1552 0,7192 237 0,3715 337 0,3190
+18. 42CrMo4 G 568 170 1563 0,7442 271 0,5239 374 0,3295
+19. 15CrMo5 G 500 150 1437 0,7161 300 0,5833 391 0,3748
+20. 20MoCr4BG 530 162 1566 07683 290 0,4770 394 0,2864
+21. 30CrMoV9 G 657 214 1526 0,7614 229 0,4599 357 0,3609
+22. 50CrV4 G 667 197 1584 0,7310 315 0,6106 317 0,2345
+23. 31CrMoV9 G 687 208 1490 0,7470 248 0,4953 321 0,2946
+24. Ck35 V 622 185 1527 0,7150 291 0,4644 344 0,2535
+25. Ck53 705 204 1584 0,7619 362 0,5947 355 0,3586
+26. 55NiCrMoVV 1141 340 1595 0,7087 198 0,3422 269 0,2135
+27. 100Cr6 G 624 202 1726 0,7162 362 0,4702 318 0,1368
+28. GG 30 - 206 899 0,5862 164 0,2989 170 0,0867
+Note: These data were obtained during turning and the following test conditions:
+-Tool material hard metal - P 10 (for gray cast iron GG 30 K10)
+-Cutting speed v=100 m/min;
+-Cutting geometry of the tool: α=5°; γ =6°; ε=90; κ =70°; λ=0°; r=0.8 mm;
+-Cut layer thickness range h=0.1÷1.6 mm
+Abbreviations: N-normally annealed; G-soft annealed; V-improved; BG-heat treated to a ferrite-pearlite structure.
+

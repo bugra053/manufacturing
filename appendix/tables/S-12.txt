@@ -1,0 +1,20 @@
+S-12 — exact instructor appendix, PDF page 6
+Authority: sources/appendix_formulas.pdf
+Extracted text may lose superscripts, merged cells, root indices or denominator grouping; read original page image when ambiguous. Decimal commas are preserved.
+
+Table S-12 : Recommended values of σ , e and f for determining the feed with respect to the resistance
+allow
+of the handle of a lathe tool of a given cross section s≤ [σ /(C x C x ax )]1/y (mm/rev.)
+allow k 0 1 1
+Tool Permissible/Allowed stress of the knife handle material when
+bending σ (N/mm2)
+allow
+Integral knives made of high-speed steel (22 ÷ 25) x 107
+Knife with a insert/blade made of high-speed steel or (20 ÷ 22) x 107
+hard metal with a cemented steel handle
+Note: For longitudinal external turning is: C =[(6 x f +2,4 x e x f -0,4) / (b2 x e)]; e= h/b; f=l /h
+0 n .
+For other types of turning, expressions for C can be found in the relevant literature.
+o
+The values of „e“ and „f“ are usually between 1 ÷ 1.6.
+

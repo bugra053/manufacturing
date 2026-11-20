@@ -1,0 +1,15 @@
+O-1 — exact instructor appendix, PDF page 1
+Authority: sources/appendix_formulas.pdf
+Extracted text may lose superscripts, merged cells, root indices or denominator grouping; read original page image when ambiguous. Decimal commas are preserved.
+
+Table O-1 : Approximate values of modulus of elasticity and density or specific mass of workpiece material.
+Work material - Workpiece Modulus of elasticity E (N/m2) Density or specific mass of material
+ρ (kg/m3)
+m
+Steel 210 x 109 7,85 x 103
+Cast Iron 100 x 109 7,4 x 103
+Bronze 120 x 109 8,2 x 103
+Brass 110 x 109 8,85 x 103
+Aluminium 70 x 109 2,65 x 103
+2) TURNING AND PLANING
+

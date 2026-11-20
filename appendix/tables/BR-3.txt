@@ -1,0 +1,16 @@
+BR-3 — exact instructor appendix, PDF page 13
+Authority: sources/appendix_formulas.pdf
+Extracted text may lose superscripts, merged cells, root indices or denominator grouping; read original page image when ambiguous. Decimal commas are preserved.
+
+Table BR-3: Recommended allowances /additions of material for side/lateral surfaces – δ (mm).
+3
+Final length of the Workpiece diameter D (mm)
+workpiece l (mm) up to 18 18÷50 50÷120 120÷260 above 260
+up to 18 0,3 0,3 0,3 - -
+18 ÷ 50 0,3 0,3 0,4 0,4 -
+50 ÷ 120 0,4 0,4 0,4 0,5 0,6
+120 ÷260 0,5 0,5 0,5 0,5 0,6
+260 ÷500 0,6 0,6 0,6 0,7 0,7
+above 500 0,7 0,7 0,7 0,7 0,8
+Note: For rough grinding, 80% of the specified values are taken, and for final grinding, 20% are taken.
+

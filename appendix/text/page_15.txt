@@ -1,0 +1,36 @@
+Manual of ENS 208 ; Prof. Ismar Alagić Ph.D.
+Table BR-9: Recommendations for determining axial and transverse/lateral feed during grinding.
+Type of machining and workpiece material Axial feed sa (mm/rev.) Lateral feed sb(mm/rev.)
+Rough grinding of Cast iron (3/4÷4/5) x B -
+Rough grinding of Steel (2/3÷3/4) x B -
+Fine grinding (1/4÷1/3) x B -
+Supefinishing (1/10÷1/5) x B -
+Straight grinding - (1/2÷1/20) x B
+Grinding without spikes π x DP x tgα x μ -
+Note: B (mm) - width of the grinding wheel
+α=1,5÷6° - angle of inclination of the leading grinding wheel
+μ-0,88÷0,96 - coefficient of slip between the workpiece and the leading grinding wheel
+7) BROACHING
+Table P-1: Recommended cutting speeds and depths of cut of broaching.
+Cutting speed v(m/min) Cutting depth a (mm)
+Outer broaching: 6÷15 Rough machining
+Inner broaching: 2÷10 Finishing: 0,02÷0,1
+Table P-2: Recommended values of the specific cutting resistance k by broaching.
+v
+Workpiece material k (N/m2) k =f(R ) (N/m2)
+v v m
+Cast Iron (60÷100) x 107 (4,5÷6) R
+m
+Steel Cast (90÷120) x 107 (4,5÷6) R
+m
+Mild Steel (110÷170) x 107 (2,5÷3,2) R
+m
+Hard steel (160÷280) x 107 (2,5÷3,2) R
+m
+Brass (75÷120) x 107 -
+Bronze (50÷100) x 107 -
+Note: The given values of the specific cutting resistance are multiplied by the correction
+factor of the specificity of machining by broaching, k =1,1÷1,3
+p
+Smaller values of specific cutting resistance refer to larger cross-sectional areas of the
+cutting layer.

@@ -1,0 +1,10 @@
+1. Turning
+1.1 Universal lathes
+1.1.3 Task – Solution (2):
+The constants and exponents in the previous equation are:
+C =0,014336 ; x=0,2; y=0,3}from Table S-7 for Cast Iron; a>1 mm; and we assumed s≤0,72 mm/rev
+V
+Table S-7 : Values ​​for calculation C , x,y for cutting speed v=(C / ax x sy) x ζ x ζ xζ (m/s)
+V V κ m T
+The table is used only in the case when the tool material is high-speed steel.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

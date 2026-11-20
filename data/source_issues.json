@@ -1,0 +1,151 @@
+{
+  "role": "Read-only source-quality notes. Apply only if the issue affects the current task; do not print a long checklist.",
+  "issues": [
+    {
+      "id": "strength_unit_typo",
+      "tutorial_pages": [
+        10,
+        35,
+        36,
+        37,
+        38,
+        39,
+        61,
+        62,
+        63,
+        64,
+        67
+      ],
+      "problem": "Several statements print Rm as (50–70)*10^7 N/mm^2, while corresponding appendix rows and worked substitutions use N/m^2. This is a factor-10^6 unit conflict, not a harmless conversion.",
+      "handling": "Keep the printed statement separate from a proposed correction. Where same-task appendix/working unambiguously establishes N/m^2, mark the correction briefly. Otherwise request clarification; never silently use 7e8 N/mm^2 as ordinary steel strength."
+    },
+    {
+      "id": "cast_Ck_scale",
+      "tutorial_pages": [
+        18,
+        20
+      ],
+      "appendix_pages": [
+        6
+      ],
+      "problem": "Worked p20 says Ck=1.67*10^7 for HB180 cast iron; appendix S-13 and worked p18 calculation use 1.67*10^8.",
+      "handling": "Use appendix S-13 value 1.67*10^8."
+    },
+    {
+      "id": "diameter_80mm",
+      "tutorial_pages": [
+        17,
+        22
+      ],
+      "problem": "Statement gives D=80 mm; p22 denominator prints 0.8 m instead of 0.08 m.",
+      "handling": "Use 80 mm=0.080 m; derive n=v/(pi D) consistently."
+    },
+    {
+      "id": "drilling_eta",
+      "tutorial_pages": [
+        41,
+        42,
+        45
+      ],
+      "problem": "Task 2.1.1 statement gives eta=0.78, but worked numerical substitutions use 0.8.",
+      "handling": "Use current problem eta=0.78 for this exact stated task; do not copy eta=0.8 from the working."
+    },
+    {
+      "id": "turret_power_parentheses_and_CM",
+      "tutorial_pages": [
+        30
+      ],
+      "appendix_pages": [
+        10
+      ],
+      "problem": "Power-derived n is printed with ambiguous denominator grouping/split fractions; one caption incorrectly repeats turning Ck=1.778e8 as drilling CM. The BU-4 HB200 interpolation instead yields CM=29.948891e6.",
+      "handling": "Derive from eta P_M = sum(F_vi*pi*D_i*n)+sum(M_j*2*pi*n), with ONE denominator for total simultaneous demand. Use actual BU-4 coefficients."
+    },
+    {
+      "id": "drill_14mm_decimal",
+      "tutorial_pages": [
+        51,
+        53,
+        55
+      ],
+      "problem": "One numeric substitution uses D=0.0014 for the stated 14 mm tool; other pages use 0.014.",
+      "handling": "Use 14 mm=0.014 m."
+    },
+    {
+      "id": "head_feed_repeated_regimes",
+      "tutorial_pages": [
+        56,
+        57
+      ],
+      "problem": "p57 repeats the first drill feed/speed in all three adopted-regime rows; the surrounding derivation gives different feeds and corrected speeds with n_i*s_i constant.",
+      "handling": "Compute each pair separately and verify a common axial head feed. Do not copy duplicated rows."
+    },
+    {
+      "id": "head_length_and_exponent_typos",
+      "tutorial_pages": [
+        51,
+        56,
+        57
+      ],
+      "problem": "Statement specifies tool-life travel L=2 m; p56 mentions 2 mm. In p57 one exponent is printed 0.5-2 instead of 0.5-0.2.",
+      "handling": "Use original L=2 m and derive exponent y0-m from the verified formula; do not apply the copied exponent typo."
+    },
+    {
+      "id": "work_title_1_2_2",
+      "tutorial_pages": [
+        25
+      ],
+      "problem": "One worked-slide heading says 1.2.2 although it continues task 1.2.1 from pp23–26.",
+      "handling": "Indexed as the same task 1.2.1, not a separate extra question."
+    },
+    {
+      "id": "homework_tool_life_unit",
+      "task": "1.4.7",
+      "tutorial_pages": [
+        40
+      ],
+      "problem": "Tool durability is written as 30 mm; this could be a time-unit typo or a travel-length requirement.",
+      "handling": "Do not silently turn 30 mm into 30 min. Ask for the intended tool-life definition if needed."
+    },
+    {
+      "id": "homework_hole_diameter_conflict",
+      "task": "2.4.5",
+      "tutorial_pages": [
+        65
+      ],
+      "problem": "Middle group says four diameter-10 mm holes in prose but (4 x diameter-15 mm) in parentheses.",
+      "handling": "Clarify whether that group is 4x10 or 4x15 before a unique numerical solution."
+    },
+    {
+      "id": "S12_stress_unit",
+      "appendix_pages": [
+        6
+      ],
+      "table": "S-12",
+      "problem": "Permissible stress heading says N/mm^2 while values are written as (20–25)*10^7; usual SI-sized values suggest a unit-label inconsistency, but this is not resolved by the file alone.",
+      "handling": "Verify the convention before using the bending constraint; do not silently invent a scale."
+    },
+    {
+      "id": "S15_root_notation",
+      "appendix_pages": [
+        6
+      ],
+      "table": "S-15",
+      "problem": "The displayed root form Ck/(epsilon_k-th root of A) is accompanied by a conflicting plain power rendering Ck/A^epsilon. These imply different exponents.",
+      "handling": "Read the original root index; do not flatten it into A^epsilon. If a task depends on a contradictory rendering, flag the ambiguity briefly."
+    },
+    {
+      "id": "S7_cast_reference_HB",
+      "appendix_pages": [
+        3
+      ],
+      "tutorial_pages": [
+        17,
+        19
+      ],
+      "table": "S-7",
+      "problem": "The appendix cast-iron speed row is labeled HB160, while the worked HB180 task adopts its Cv=0.014336 reference row.",
+      "handling": "Do not relabel the table row HB180. Use the instructor-explicit reference-row mapping only for a matching context; otherwise require a valid row/correction, not invented interpolation."
+    }
+  ]
+}

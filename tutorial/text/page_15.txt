@@ -1,0 +1,20 @@
+1. Turning
+1.1 Universal lathes
+1.1.2 Task – Solution (5)
+Since the calculated machining feed fully satisfies the initial assumption made when determining the constant
+and exponent values ​​from Table S-8, we can proceed with the problem. It is important to note that if the result
+does not satisfy the initial assumption, a new assumption must be made and the calculation repeated with
+modified values ​​for the constant and exponents. The depth of cut can now be determined using formula (2):
+a= g x s =8 x s =? [m]
+The required maximum cross-sectional area of ​​the cutting layer is:
+A= a x s =0,00283 x s = 1 x 10-6 [m2]
+In the second part of the task, to calculate the percentage reduction in the machine's drive motor power for a
+two-pass machining operation, it is necessary to determine the new depth of cut and feed rate while
+maintaining the same machining conditions—i.e., with g = constant—as follows:
+a =a / 2=2,83/2=? mm ; s =a / g= a / 8=? mm/rev.
+1 1 1 1
+The power of the machine's drive electric motor, according to mathematical formula (1), for the given
+machining conditions is:
+P = (C x C x a (x1-x) x s (y1-y) x ζ x ζ x ζ ) / (η x Tm)
+M1 k v 1 1 κ mrp T
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

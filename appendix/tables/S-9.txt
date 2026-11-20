@@ -1,0 +1,46 @@
+S-9 — exact instructor appendix, PDF page 5
+Authority: sources/appendix_formulas.pdf
+Extracted text may lose superscripts, merged cells, root indices or denominator grouping; read original page image when ambiguous. Decimal commas are preserved.
+
+Table S-9: Recommended feed values „s“ for rough turning with knives made of high-speed
+steel and hard metal- carbide.
+Cross- Work material – workpiece material
+section of
+Workpiece Steel and Cast steel Cast iron and Non-ferrous metals
+the handle of
+diameter D
+(mm)
+the turning
+knife (mm x
+up to 3 3÷5 5÷8 8÷12 above 12 up to 3 3÷5 5÷8 8÷12 above 12
+mm)
+up to 20 16x25
+0,3÷0,4 - - - - - - - - -
+25x25
+20-40 16x25
+0,4÷0,5 0,3÷0,4 - - - 0,4÷0,5 - - - -
+25x25
+40-60 16x25
+0,5÷0,9 0,4÷0,8 0,3÷0,7 - - 0,6÷0,9 0,5÷0,8 0,4÷0,7 - -
+25x40
+60-100 16x25
+0,6÷1,2 0,5÷1,1 0,5÷0,9 0,4÷0,8 - 0,8÷1,4 0,7÷1,2 0,6÷1,00 0,5÷0,9 -
+25x40
+100-200 16x25
+0,8÷1,3 0,7÷1,2 0,6÷1,0 0,5÷0,9 - 1,0÷1,5 0,9÷1,4 0,8÷1,1 0,6÷0,8 -
+25x40
+200-400 20x30
+1,1÷1,4 1,0÷1,3 0,7÷1,2 0,6÷1,2 0,4÷1,1 1,3÷1,6 1,2÷1,5 1,0÷1,3 0,8÷1,0 0,7÷0,9
+40x60
+400-600 20x30
+1,2÷1,5 1,0÷1,4 0,8÷1,3 0,6÷1,3 0,4÷1,2 1,5÷1,8 1,2÷1,6 1,0÷1,4 0,9÷1,2 0,8÷1,0
+40x60
+600-1000 25x40
+1,2÷1,8 1,1÷1,5 0,9÷1,4 0,8÷1,4 0,7÷1,3 1,5÷2,0 1,3÷1,8 1,0÷1,4 1,0÷1,3 0,9÷1,2
+40x60
+above 1000 30x45
+1,3÷2,0 1,3÷1,8 1,2÷1,6 1,1÷1,5 1,0÷1,5 1,6÷2,4 1,6÷2,0 1,4÷1,8 1,3÷1,7 1,2÷1,7
+40x60
+Note: Table feed values should be checked with regard to the chip slenderness coefficient g=a/s. The recommended values of the chip
+slenderness coefficient are g=5-10 for longitudinal turning and g=5-20 for transverse turning.
+

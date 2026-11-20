@@ -1,0 +1,17 @@
+1. Turning 1.3 Turret lathes , 1.3.1 Task – Solution (6)
+The constants and exponents in the previous equation are: C =0,11197 ; x =0,25; y =0,4; m=0,125 }-
+v 0 0
+From bellow Table BU-2 for Cast Iron; HB=200
+Table BU-2 : C ,x ,y and m values ​​for cutting speed calculation v=(C x D x0 x μ ) /(T m x sy0) (m/s)
+v 0 0 v b 0 b
+while the coefficient μ is determined
+0
+based on the data from the table BU-3:
+μ =1 for (l /D )=20/25<1.
+0 b b
+So, the most endangered tool is the drill
+and its durability is T =? s.
+b
+Table BU-3: Value of μ for l/D>2,5
+0
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

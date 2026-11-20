@@ -1,0 +1,17 @@
+Task 1.4.1 — statement, tutorial PDF page 34
+Original source: https://raw.githubusercontent.com/bugra053/manufacturing/main/sources/tutorial_calculations.pdf
+Read diagram/page image: https://raw.githubusercontent.com/bugra053/manufacturing/main/tutorial/pages/page_34.png
+
+1. Turning – Homework
+1.4 Exercise
+1.4.1. Task
+Rough turning is performed on a universal lathe, reducing the diameter from Ø60 mm to Ø54 mm over a
+turning length of 45 mm.
+It is necessary to determine the following, assuming the tool becomes dull after 50 produced parts:
+- the appropriate machining regime;
+- the necessary power of the driving electric motor for performing this operation;
+Input data for the calculation:
+- The material of the workpiece is CrNi steel, Rm=70 x 107 N/m2;
+- Both tools material: hard metal / carbide tool P25;
+- Efficiency rate of machine transmission, η=0,8.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

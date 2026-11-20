@@ -1,0 +1,188 @@
+Task 2.3.1 — instructor worked pages, PDF pages 52–60
+Source may contain typos/placeholders. Appendix coefficients and current question givens take priority.
+
+--- PDF PAGE 52 ---
+2. Drilling , 2.3 Drills with multi-spindle head, 2.3.1 Task – Solution (1)
+It starts from the feed, which is determined for individual drills based on the recommendations from the table BU-1:
+Table BU-1: Recommended feed values ​​for drilling.
+s =s +x Δs ; Δs =(s -s )/(D -D ); x=D -D
+(Dx) min (D=1 mm) max min max min x min
+s =0,05+x Δs=0,05 + 5 x 0,01444=0,122 mm/rev. ;
+(D6)
+Δs =(0,18-0,05)/(10-1) =0,0144;
+(D=6 mm)
+x=6-1=5
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 53 ---
+2. Drilling , 2.3 Drills with multi-spindle head, 2.3.1 Task – Solution (2)
+Based on the mathematical formula for cutting speed when drilling:
+v =[(C x Dx0-m x μ ) /(L x π)m x sy0-m]1/1-m
+L v o
+it is possible to calculate cutting speeds for individual drills:
+v =[(0,16386 x 0,0060,4-0,2 x 1) /(2 x π)0,2 x 0,0001220,5-0,2]1/1-0,2
+L1
+=? m/s
+v =[(0,16386 x 0,0090,4-0,2 x 1) /(2 x π)0,2 x 0,0001650,5-0,2]1/1-0,2
+L2
+=? m/s
+v =[(0,16386 x 0,00140,4-0,2 x 1) /(2 x π)0,2 x 0,0001980,5-0,2]1/1-0,2
+L3
+=? m/s
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 54 ---
+2. Drilling , 2.3 Drills with multi-spindle head, 2.3.1 Task – Solution (3)
+The constants and exponents in the previous equation are:C =0,163865; x =0,4; y =0,5; m=0,2} From Table BU-2 for Steel; R =60 x 107 N/m2
+v 0 0 m
+Table BU-2: C ,x ,y and m values ​​for cutting speed calculation :v=(C x D x0 x μ ) /(T m x sy0) (m/s)
+v 0 0 v b 0 b
+C = (0,17618 + 0,15155)/2 =0,163865
+v 60
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 55 ---
+2. Drilling , 2.3 Drills with multi-spindle head, 2.3.1 Task – Solution (4)
+while the coefficient μ is determined from the Table BU-3: μ =1 for l/D≤2,5 (assumption).
+0 0
+Table BU-3: Value of μ for l/D>2,5
+0
+The corresponding number of revolutions for individual drill bits is then calculated as follows:
+n =v /(D x π)=0,537/(0,006 x π)
+1 L1 1
+=? rev/s
+n = v /(D x π)=0,531/(0,009 x π)
+2 L2 2
+=? rev/s
+n = v /(D x π)=0,554/(0,014 x π)
+3 L3 3
+=? rev/s
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 56 ---
+2. Drilling , 2.3 Drills with multi-spindle head, 2.3.1 Task – Solution (5)
+Now, based on the speed of the secondary/auxiliary movement of the tool holder, it is necessary to
+determine the most endangered drill bit. The most vulnerable drill bit is the one that requires a lower speed
+of auxiliary movement, so this is also the relevant speed of the multi-spindle head.
+From certain speeds of secondary/auxiliary movement, we get the following:
+n x s =28,49 x 0,122 x 10-3
+1 1
+= ? m/s
+n x s =18,78 x 0,165 x 10-3
+2 2
+= ? m/s
+n x s =12,6 x 0,198 x 10-3
+3 3
+=? m/s
+it can be seen that the most endangered drill bit is No. 3, that is, the relevant speed n x s
+3 3
+=? m/s.
+In order to satisfy the necessary condition of the multi-spindle head n x s =const,, but also the condition of
+i i
+the task that the stability of the most threatened tool should ensure a drilling depth of 2 mm, the processing
+regimes of drill bits No. 1 and No. 2 must be corrected by changing the value of the number of revolutions of
+the drill bits. In the task, it was chosen to correct the numbers of revolutions, while the previously calculated
+values ​​are taken over for the feed. It was also possible to change the feed while keeping the number of
+revolutions unchanged.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 57 ---
+2. Drilling , 2.3 Drills with multi-spindle head, 2.3.1 Task – Solution (6)
+If n ' and n ' indicate the corrected numbers of revolutions of drill bits No. 1 and No. 2, based on the
+1 2
+conditions of the multi-spindle head, the following mathematical relation can be written:
+n '=(n x s )/s =2,495/0,122
+1 3 3 1
+=? rev/s ;
+n '=(n x s )/s =2,495/0,165
+2 3 3 2
+=? rev/s ;
+The adopted processing regimes are as follows:
+s =0,122 mm/rev. ; n =20,45 rev/s ;
+1 1
+s =0,122 mm/rev. ; n =20,45 rev/s ;
+2 2
+s =0,122 mm/rev. ; n =20,45 rev/s .
+3 3
+Based on mathematical expressions for tool durability, it is calculated as follows:
+L=[(C x Dx0-1 x μ x nm-1)/(π x sy0-m)]1/m
+v 0
+It is possible to calculate the durability of individual tools, as follows:
+L =[(0,16386 x 0,0060,4-1 x 1 x 20,450,2-1)/(π x 0,0001220,5-2)]1/0,2
+1
+=? m
+L =[(0,16386 x 0,0090,4-1 x 1 x 15,120,2-1)/(π x 0,0001650,5-0,2)]1/0,2
+2
+=4,78 m
+L =[(0,16386 x 0,0140,4-1 x 1 x 12,60,2-1)/(π x 0,0001980,5-0,2)]1/0,2
+3
+=? m
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 58 ---
+2. Drilling , 2.3 Drills with multi-spindle head, 2.3.1 Task – Solution (7)
+The necessary axial force that the unit needs to overcome is calculated as follows:
+F =F =C x Dx1 x sy1
+ai fi F
+F =90,185 x 106 x 0,0061 x 0,0001220,7
+a1
+=? N
+F =90,185 x 106 x 0,0091 x 0,0001650,7
+a2
+=? N
+F =90,185 x 106 x 0,0141 x 0,0001980,7
+a1
+=? N
+F =ΣF =2 x F + 2 x F + 2 x F
+a ai a1 a2 a3
+F =2 x 985,7 + 2 x 1826,5 + 2 x 3228
+a
+=? N
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 59 ---
+2. Drilling , 2.3 Drills with multi-spindle head, 2.3.1 Task – Solution (8)
+The constants and exponents in the previous equation are:C =90,185 x 106; x =1; y =0,7} From BU-4 Table for Steel; R =60 x 107 N/m2
+F 1 1 m
+Table BU-4: C and C values for the calculation of the torque and a secondary movement force during drilling.
+m F
+M= C x Dx x sy (Nm) ; F =C x Dx1 x sy1 (N)
+M f F
+C = [(81,510385 + 98,860443) x 106 ] / 2 = 90,185 x 106
+F 60
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 60 ---
+2. Drilling , 2.3 Drills with multi-spindle head, 2.3.1 Task – Solution (9)
+Finally, the power of the driving electric motor of the machine will be:
+P =P/η=(M x ω)/η=(M x 2 π x n )/η=(C x D x x s y x 2 x π x n )/η
+M i M 1 1 i
+The constant and exponents from the mathematical formula for calculating the drilling torque are as follows:
+The constants and exponents in the previous equation are: } From BU-4 Table for Steel; R =60 x 107 N/m2
+C =72,076697 x 106; x=2; y=0,8
+M m
+Table BU-4: C and C values for the calculation of the torque and a secondary movement force during drilling.
+m F
+M= C x Dx x sy (Nm) ; F =C x Dx1 x sy1 (N)
+M f F
+P =
+M1
+=(72,076697 x 106 x 0,0062 x 0,0001220,8 x 2 x π x
+20,45)/0,8
+=? W
+P =
+M2
+=(72,076697 x 106 x 0,0092 x 0,0001650,8 x 2 x π x 15,12)/0,8
+=? W
+P =
+M3
+=(72,076697 x 106 x 0,0142 x 0,0001980,8 x 2 x π x 12,6)/0,8
+=? W
+P =∑ P =2 x P +2 x P +2 x P
+M Mi M1 M2 M3
+P = 2 x (308,3+659,2+1523,5)=
+M
+C = [(67,764416 + 76,388978) x 106)/2 = 72,076697 x 106
+=? W
+M 60
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

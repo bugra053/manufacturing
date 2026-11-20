@@ -1,0 +1,33 @@
+2. Drilling , 2.3 Drills with multi-spindle head, 2.3.1 Task – Solution (9)
+Finally, the power of the driving electric motor of the machine will be:
+P =P/η=(M x ω)/η=(M x 2 π x n )/η=(C x D x x s y x 2 x π x n )/η
+M i M 1 1 i
+The constant and exponents from the mathematical formula for calculating the drilling torque are as follows:
+The constants and exponents in the previous equation are: } From BU-4 Table for Steel; R =60 x 107 N/m2
+C =72,076697 x 106; x=2; y=0,8
+M m
+Table BU-4: C and C values for the calculation of the torque and a secondary movement force during drilling.
+m F
+M= C x Dx x sy (Nm) ; F =C x Dx1 x sy1 (N)
+M f F
+P =
+M1
+=(72,076697 x 106 x 0,0062 x 0,0001220,8 x 2 x π x
+20,45)/0,8
+=? W
+P =
+M2
+=(72,076697 x 106 x 0,0092 x 0,0001650,8 x 2 x π x 15,12)/0,8
+=? W
+P =
+M3
+=(72,076697 x 106 x 0,0142 x 0,0001980,8 x 2 x π x 12,6)/0,8
+=? W
+P =∑ P =2 x P +2 x P +2 x P
+M Mi M1 M2 M3
+P = 2 x (308,3+659,2+1523,5)=
+M
+C = [(67,764416 + 76,388978) x 106)/2 = 72,076697 x 106
+=? W
+M 60
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

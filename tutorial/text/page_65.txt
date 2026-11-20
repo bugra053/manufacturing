@@ -1,0 +1,10 @@
+2. Drilling – Homework
+2.4 Exercise
+2.4.5 Task
+A multi-spindle drilling machine is used to simultaneously drill eight holes—two Ø10 mm (2 x Ø10 mm),
+four Ø10 mm (4 x Ø15 mm), and two Ø25 mm (2 x Ø25 mm) in diameter—into a 50 mm thick carbon steel
+plate with a tensile strength R = 60 x 107 N/m2. The appropriate machining parameters must be determined
+m
+such that all drill bits become dull simultaneously and the primary machining time is 30 seconds per
+workpiece.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

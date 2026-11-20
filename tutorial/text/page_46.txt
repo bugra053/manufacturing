@@ -1,0 +1,15 @@
+2. Drilling
+2.2 Multi-spindle drilling machines
+2.2.1 Task
+On a multi-spindle drilling machine, it is necessary to drill three holes with a diameter of Ø25 mm in a
+structural steel workpiece (R = 60 × 10⁷ N/m²) to a drilling depth of l = 60 mm.
+m
+It is necessary to calculate:
+- The most favorable machining regime/mode;
+-The number of manufactured pieces after which a worn drill should be replaced.
+Input data for the calculation:
+- Durability of the drill bit T=30 min;
+- Power of the driving electric motor of the machine is P =7 kW;
+M
+- Efficiency rate of machine transmission, η=0,9.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

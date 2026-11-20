@@ -1,0 +1,9 @@
+G-6 — exact instructor appendix, PDF page 11
+Authority: sources/appendix_formulas.pdf
+Extracted text may lose superscripts, merged cells, root indices or denominator grouping; read original page image when ambiguous. Decimal commas are preserved.
+
+Table G-6: Values of the constant C for calculating specific cutting resistance, k = C x s -0,26 (N/m2).
+v 1
+Workpiece material C
+Steel 3,125 x 106 x HB 0,545
+Cast iron 3,915 x 106 x HB0,760

@@ -1,0 +1,20 @@
+G-1 — exact instructor appendix, PDF page 10
+Authority: sources/appendix_formulas.pdf
+Extracted text may lose superscripts, merged cells, root indices or denominator grouping; read original page image when ambiguous. Decimal commas are preserved.
+
+Table G-1: Allowances of material for rough and fine machining by milling - δ and δ
+1 2.
+Final workpiece Width of the workpiece B≤200 mm Width of the workpiece B>200 mm
+thickness The length of the workpiece L (mm)
+H (mm) up to 100 100÷250 250÷400 400÷630 above 630 up to 100 100÷250 250÷400 400÷630 above 630
+δ1 - rough milling
+up to 18 1,9 2,4 - - - 2,2 2,7 - - -
+18÷30 1,9 2,5 3,0 - - 2,2 2,7 3,2 - -
+30÷50 2,0 2,5 3,1 3,9 - 2,2 2,8 3,3 4,1 -
+above 50 2,1 2,6 3,2 4,0 5,3 2,4 2,9 3,4 4,2 5,6
+δ2 - fine milling
+up to 18 1,0 1,1 - - - 1,2 1,3 - - -
+18÷30 1,0 1,1 1,2 - - 1,2 1,3 1,4 - -
+30÷50 1,1 1,2 1,3 1,4 - 1,3 1,4 1,5 1,6 -
+above 50 1,1 1,2 1,3 1,4 1,8 1,3 1,4 1,5 1,6 1,9
+

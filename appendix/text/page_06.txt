@@ -1,0 +1,74 @@
+Manual of ENS 208 ; Prof. Ismar Alagić Ph.D.
+Table S-12 : Recommended values of σ , e and f for determining the feed with respect to the resistance
+allow
+of the handle of a lathe tool of a given cross section s≤ [σ /(C x C x ax )]1/y (mm/rev.)
+allow k 0 1 1
+Tool Permissible/Allowed stress of the knife handle material when
+bending σ (N/mm2)
+allow
+Integral knives made of high-speed steel (22 ÷ 25) x 107
+Knife with a insert/blade made of high-speed steel or (20 ÷ 22) x 107
+hard metal with a cemented steel handle
+Note: For longitudinal external turning is: C =[(6 x f +2,4 x e x f -0,4) / (b2 x e)]; e= h/b; f=l /h
+0 n .
+For other types of turning, expressions for C can be found in the relevant literature.
+o
+The values of „e“ and „f“ are usually between 1 ÷ 1.6.
+Table S-13: Values of C , x , y for the calculation of the main cutting force (resistance),
+k 1 1
+F =C x ax1 x sy1 (N).
+v k
+Work material - Workpiece
+Cast Iron Structural steel Chrome- Chrome steel Bronze Brass Al-alloys
+nickel steel
+C
+k
+HB Rm x 107 N/m2 HB
+140 180 200 45 60 70 50 70 45 70 20÷30 30÷38 22÷36 36÷48 60÷80 80÷100
+1,459 1,67 1,778 3,37 3,669 3,95 3,82 4,356 3,69 4,356 1,22 1,52 1,50 1,82 0,98 1,48
+x
+1
+1,0 1,0 1,0 1,0 1,0 1,0 1,0
+y
+1
+0,73 0,78 0,78 0,78 0,73 0,78 0,80
+Note: Value of C are multiplied by 108
+k
+Table S-14: Values of C , x , y for the calculation of penetration force and auxiliary movement
+k 1 1
+force F =C x ax x sy (N).
+p/S k 1 1
+Workpiece material
+Cast iron Structural steel Chrome-nickel Chrome steel
+steel
+HB R x 107 (N/mm2)
+a
+140 180 200 45 60 70 50 70 45 70
+C 0,8918 1,1191 1,2327 0,6295 0,7950 0,9005 0,7519 0,9880 0,6907 0,9880
+k
+F x 0,9 0,9 0,9 0,9
+P 1
+y 0,75 0,75 0,75 0,75
+1
+C 0,7675 0,9595 1,0467 0,3847 0,481 0,5508 0,4634 0,6030 0,4197 0,6030
+k
+F x 1,10 1,10 1,10 1,10
+s 1
+y 0,65 0,55 0,55 0,55
+1
+Note: Value of C are multiplied by 108
+k
+Table S-15: Ck and ε values for the calculation of the specific milling/cutting resistance;
+k
+εk
+k =C /√ A (N/m2), kv= C / (A)ε
+v k k k
+Work material-Workpiece C ε
+k k
+Cast Iron 1,448 x 108 7,4
+Carbon Steel 1,936 x 108 6,1
+Chrome-nickel steel 6,263 x 108 10,4
+Steel Cast 2,196 x 108 6,7
+Bronze 0,248 x 108 4
+Brass 0,900 x 108 6,8
+Aluminium 1,920 x 108 8

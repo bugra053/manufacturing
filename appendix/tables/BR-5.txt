@@ -1,0 +1,26 @@
+BR-5 — exact instructor appendix, PDF page 14
+Authority: sources/appendix_formulas.pdf
+Extracted text may lose superscripts, merged cells, root indices or denominator grouping; read original page image when ambiguous. Decimal commas are preserved.
+
+Table BR-5: Recommended cutting speeds and workpiece speeds when grinding with a corundum
+grinding wheel with a ceramic bonding agent.
+Workpiece material and type of Cutting speed vt (m/s) Workpiece speed vp (m/min)
+machining
+Steel and Cast steel
+Circular outer machining 25÷35 12÷18 (rough); 8÷14 (fine)
+Inner machining 25 18÷25
+Flat machining 20÷35 6÷35
+Cast Iron
+Circular outer machining 25 12÷15 (rough); 9÷12 (fine)
+Inner machining 25 21÷24
+Flat machining 20÷35 6÷35
+Copper alloys
+Circular outer machining 25÷35 18÷21 (rough); 15÷18 (fine)
+Inner machining 25 21÷27
+Flat machining 25 15÷45
+Aluminum and its alloys
+Circular outer machining 20 30÷40 (rough); 24÷30 (fine)
+Inner machining 20 30÷40
+Flat machining 20÷25 15÷45
+Note: For grinding wheels made of SiC, it is necessary to select the recommended values below.
+

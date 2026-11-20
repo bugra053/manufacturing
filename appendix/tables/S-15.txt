@@ -1,0 +1,18 @@
+S-15 — exact instructor appendix, PDF page 6
+Authority: sources/appendix_formulas.pdf
+Extracted text may lose superscripts, merged cells, root indices or denominator grouping; read original page image when ambiguous. Decimal commas are preserved.
+
+Table S-15: Ck and ε values for the calculation of the specific milling/cutting resistance;
+k
+εk
+k =C /√ A (N/m2), kv= C / (A)ε
+v k k k
+Work material-Workpiece C ε
+k k
+Cast Iron 1,448 x 108 7,4
+Carbon Steel 1,936 x 108 6,1
+Chrome-nickel steel 6,263 x 108 10,4
+Steel Cast 2,196 x 108 6,7
+Bronze 0,248 x 108 4
+Brass 0,900 x 108 6,8
+Aluminium 1,920 x 108 8

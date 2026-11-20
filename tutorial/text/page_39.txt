@@ -1,0 +1,16 @@
+1. Turning – Homework
+1.4 Exercise
+1.4.6. Task
+Rough longitudinal machining is performed on a turret lathe. It is necessary to determine the machining
+parameters and the material removal rate—while fully utilizing the machine's drive motor power and
+maintaining tool life—for machining operations using either one or two cutting tools.
+Input data for the calculation:
+- Workpiece material: structural steel steel, Rm=60 x 107 N/mm2 ;
+- Tool material: High-speed steel;
+- workpiece diameter before machining 120 mm, workpiece diameter after machining 108 mm.
+- Tool durability/life : T=120 min;
+- Power of the driving electric motor of the machine is P =6,5 kW;
+M
+- Efficiency rate of machine transmission, η=0,8.
+.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

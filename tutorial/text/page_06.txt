@@ -1,0 +1,15 @@
+1. Turning
+1.1 Universal lathes
+1.1.1 Task –Solution (3)
+While the correction coefficients are determined as follows:
+A coefficient that takes into account the angle of attack of the tool blade κ=90⁰ from the below table; ζ =0,74 .
+k
+Table S-5: Correction coefficient „ζ “for the calculation of the cutting speed v for various values ​​of the attack angles
+k
+of the tool blade κ.
+A coefficient that takes into account the material of the tool, high-speed steel from the table below ; ζ =1 .
+m
+Table S-6: Correction coefficient „ζ “ for calculation of cutting speed „v“ for various tool materials.
+m
+The coefficient that takes into account the durability of the tool T=90 min from the table S-7 below (z=6 for steel machining) ;
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

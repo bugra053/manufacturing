@@ -1,0 +1,14 @@
+1. Turning
+1.1 Universal lathes
+1.1.1 Task –Solution (5)
+Cutting force (main cutting resistance) is:
+F =C x ax1 x sy1 = 4.356 x 108 x 0,00151 x 0,00030,78
+v k
+= ? N
+Whereby the constant and exponents in the equation are as follows:
+}
+C =4,356 x 108 ; x =1 ; y =0,78 From below Table for CrNi steel; Rm=70 x 107 N/m2
+k 1 1
+Table S-13: Values ​​of C , x , y for the calculation of the main cutting force (resistance), F =C x ax1 x sy1 (N).
+k 1 1 v k
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

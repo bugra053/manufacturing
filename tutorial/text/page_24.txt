@@ -1,0 +1,20 @@
+1. Turning ; 1.2 Multi-tool lathes ; 1.2.1 Task – Solution (1)
+On a multi-cutting lathe, the given workpiece is processed by the simultaneous action of all the knives
+placed on the longitudinal tool support, as shown in the following machining plan:
+The relevant regime of machining is determined from the condition that the
+durability/stability of the most endangered knife is T=30 min. The knife No. 1 is
+the most vulnerable, because compared to other knives, for the same feed and
+cutting depth, it machines the largest diameter, which has the highest cutting
+speed and thus the lowest durability/stability.
+Determining the relevant machining regime starts from defining the cutting depth.
+Cutting depths are calculated based on the difference in diameter before and after
+machining for each knife separately. In this case, the cutting depth is the same for
+all knives and amounts to:a=5 mm.
+The cutting speed is determined first for knife No. 1, based on its given durability:
+v =(C / ax x sy) x ζ x ζ xζ = (0,010928 / 0,0050,26 x 0,000350,36) x 0,74 x 1 x 1,122 =? m/s.
+1 V κ m T
+The constants and exponents in the previous equation are:
+}
+C =0,010928 ; x=0,26; y=0,36 From Table S-7 for steel; Rm=60 x 107 N/m2 ; a>1 mm; and, s=0,2 ÷0,4 mm/rev
+V
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

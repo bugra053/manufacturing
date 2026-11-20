@@ -1,0 +1,472 @@
+{
+  "source_pdf_url": "https://raw.githubusercontent.com/bugra053/manufacturing/main/sources/appendix_formulas.pdf",
+  "source_sha256": "dd6065e3b922be4b8942c35db57e5b9453835394afda1a40810bdb3ac7bfaece",
+  "page_count": 15,
+  "table_count": 42,
+  "authority": "EXACT PROVIDED APPENDIX ONLY. No replacement handbook, tool-vendor calculator, remembered coefficient or different edition.",
+  "tables": {
+    "O-1": {
+      "table": "O-1",
+      "pdf_pages": [
+        1
+      ],
+      "title_line": "Table O-1 : Approximate values of modulus of elasticity and density or specific mass of workpiece material.",
+      "text_url": "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/tables/O-1.txt",
+      "image_urls": [
+        "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/pages/page_01.png"
+      ]
+    },
+    "S-1": {
+      "table": "S-1",
+      "pdf_pages": [
+        1
+      ],
+      "title_line": "Table S-1 : Recommended allowance for rough longitudinal machining on a lathe – d (mm).",
+      "text_url": "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/tables/S-1.txt",
+      "image_urls": [
+        "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/pages/page_01.png"
+      ]
+    },
+    "S-2": {
+      "table": "S-2",
+      "pdf_pages": [
+        1
+      ],
+      "title_line": "Table S-2 : Recommended allowance for fine longitudinal machining on a lathe – d (mm).",
+      "text_url": "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/tables/S-2.txt",
+      "image_urls": [
+        "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/pages/page_01.png"
+      ]
+    },
+    "S-3": {
+      "table": "S-3",
+      "pdf_pages": [
+        2
+      ],
+      "title_line": "Table S-3 : Recommended allowance for rough and fine internal machining on a lathe",
+      "text_url": "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/tables/S-3.txt",
+      "image_urls": [
+        "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/pages/page_02.png"
+      ]
+    },
+    "S-4": {
+      "table": "S-4",
+      "pdf_pages": [
+        2
+      ],
+      "title_line": "Table S-4 : Recommended allowance for rough and fine transverse machining on a lathe",
+      "text_url": "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/tables/S-4.txt",
+      "image_urls": [
+        "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/pages/page_02.png"
+      ]
+    },
+    "S-5": {
+      "table": "S-5",
+      "pdf_pages": [
+        2
+      ],
+      "title_line": "Table S-5: Correction coefficient „ζ “for the calculation of the cutting speed v for",
+      "text_url": "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/tables/S-5.txt",
+      "image_urls": [
+        "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/pages/page_02.png"
+      ]
+    },
+    "S-6": {
+      "table": "S-6",
+      "pdf_pages": [
+        3
+      ],
+      "title_line": "Table S-6: Correction coefficient „ζ “ for calculation of cutting speed „v“ for various",
+      "text_url": "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/tables/S-6.txt",
+      "image_urls": [
+        "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/pages/page_03.png"
+      ]
+    },
+    "S-7": {
+      "table": "S-7",
+      "pdf_pages": [
+        3
+      ],
+      "title_line": "Table S7 : Values for calculation C , x,y for cutting speed v=(C / ax x sy) x ζ x ζ xζ (m/s)",
+      "text_url": "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/tables/S-7.txt",
+      "image_urls": [
+        "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/pages/page_03.png"
+      ]
+    },
+    "S-8": {
+      "table": "S-8",
+      "pdf_pages": [
+        4
+      ],
+      "title_line": "Table S-8: Values of C , x, y and m for calculation of cutting speed v=(C x ζ x ζ xζ ) /Tm x ax",
+      "text_url": "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/tables/S-8.txt",
+      "image_urls": [
+        "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/pages/page_04.png"
+      ]
+    },
+    "S-9": {
+      "table": "S-9",
+      "pdf_pages": [
+        5
+      ],
+      "title_line": "Table S-9: Recommended feed values „s“ for rough turning with knives made of high-speed",
+      "text_url": "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/tables/S-9.txt",
+      "image_urls": [
+        "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/pages/page_05.png"
+      ]
+    },
+    "S-10": {
+      "table": "S-10",
+      "pdf_pages": [
+        5
+      ],
+      "title_line": "Table S-10: Recommended feed values „s\" for fine turning with knives made of high-speed steel",
+      "text_url": "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/tables/S-10.txt",
+      "image_urls": [
+        "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/pages/page_05.png"
+      ]
+    },
+    "S-11": {
+      "table": "S-11",
+      "pdf_pages": [
+        5
+      ],
+      "title_line": "Table S-11: Standard cross-sections of lathe knife handles.",
+      "text_url": "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/tables/S-11.txt",
+      "image_urls": [
+        "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/pages/page_05.png"
+      ]
+    },
+    "S-12": {
+      "table": "S-12",
+      "pdf_pages": [
+        6
+      ],
+      "title_line": "Table S-12 : Recommended values of σ , e and f for determining the feed with respect to the resistance",
+      "text_url": "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/tables/S-12.txt",
+      "image_urls": [
+        "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/pages/page_06.png"
+      ]
+    },
+    "S-13": {
+      "table": "S-13",
+      "pdf_pages": [
+        6
+      ],
+      "title_line": "Table S-13: Values of C , x , y for the calculation of the main cutting force (resistance),",
+      "text_url": "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/tables/S-13.txt",
+      "image_urls": [
+        "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/pages/page_06.png"
+      ]
+    },
+    "S-14": {
+      "table": "S-14",
+      "pdf_pages": [
+        6
+      ],
+      "title_line": "Table S-14: Values of C , x , y for the calculation of penetration force and auxiliary movement",
+      "text_url": "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/tables/S-14.txt",
+      "image_urls": [
+        "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/pages/page_06.png"
+      ]
+    },
+    "S-15": {
+      "table": "S-15",
+      "pdf_pages": [
+        6
+      ],
+      "title_line": "Table S-15: Ck and ε values for the calculation of the specific milling/cutting resistance;",
+      "text_url": "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/tables/S-15.txt",
+      "image_urls": [
+        "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/pages/page_06.png"
+      ]
+    },
+    "S-16": {
+      "table": "S-16",
+      "pdf_pages": [
+        7
+      ],
+      "title_line": "Table S-16: Overview of cutting layer elements b and h for the most important cutting machining processes.",
+      "text_url": "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/tables/S-16.txt",
+      "image_urls": [
+        "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/pages/page_07.png"
+      ]
+    },
+    "S-17": {
+      "table": "S-17",
+      "pdf_pages": [
+        8
+      ],
+      "title_line": "Table S-17: Values of k and 1-m for calculation of main cutting force F , Passive / Radial force F and Feed force",
+      "text_url": "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/tables/S-17.txt",
+      "image_urls": [
+        "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/pages/page_08.png"
+      ]
+    },
+    "S-18": {
+      "table": "S-18",
+      "pdf_pages": [
+        8
+      ],
+      "title_line": "Table S-18: Overview of correction factors for calculating cutting force/resistance components",
+      "text_url": "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/tables/S-18.txt",
+      "image_urls": [
+        "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/pages/page_08.png"
+      ]
+    },
+    "BU-1": {
+      "table": "BU-1",
+      "pdf_pages": [
+        9
+      ],
+      "title_line": "Table BU-1: Recommended feed values for drilling.",
+      "text_url": "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/tables/BU-1.txt",
+      "image_urls": [
+        "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/pages/page_09.png"
+      ]
+    },
+    "BU-2": {
+      "table": "BU-2",
+      "pdf_pages": [
+        9
+      ],
+      "title_line": "Table BU-2: C ,x ,y and m values for cutting speed calculation :",
+      "text_url": "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/tables/BU-2.txt",
+      "image_urls": [
+        "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/pages/page_09.png"
+      ]
+    },
+    "BU-3": {
+      "table": "BU-3",
+      "pdf_pages": [
+        9
+      ],
+      "title_line": "Table BU-3: Value of μ for l/D>2,5",
+      "text_url": "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/tables/BU-3.txt",
+      "image_urls": [
+        "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/pages/page_09.png"
+      ]
+    },
+    "BU-4": {
+      "table": "BU-4",
+      "pdf_pages": [
+        10
+      ],
+      "title_line": "Table BU-4: C and C values for the calculation of the torque and a secondary movement",
+      "text_url": "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/tables/BU-4.txt",
+      "image_urls": [
+        "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/pages/page_10.png"
+      ]
+    },
+    "G-1": {
+      "table": "G-1",
+      "pdf_pages": [
+        10
+      ],
+      "title_line": "Table G-1: Allowances of material for rough and fine machining by milling - δ and δ",
+      "text_url": "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/tables/G-1.txt",
+      "image_urls": [
+        "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/pages/page_10.png"
+      ]
+    },
+    "G-2": {
+      "table": "G-2",
+      "pdf_pages": [
+        10
+      ],
+      "title_line": "Table G-2: Recommended feed values per tooth for rough milling",
+      "text_url": "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/tables/G-2.txt",
+      "image_urls": [
+        "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/pages/page_10.png"
+      ]
+    },
+    "G-3": {
+      "table": "G-3",
+      "pdf_pages": [
+        11
+      ],
+      "title_line": "Table G-3:Standard milling cutter dimensions (cutter diameter D,cutter length l and shaft hole diameter d).",
+      "text_url": "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/tables/G-3.txt",
+      "image_urls": [
+        "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/pages/page_11.png"
+      ]
+    },
+    "G-4": {
+      "table": "G-4",
+      "pdf_pages": [
+        11
+      ],
+      "title_line": "Table G-4: Values C ,m,y,q,u,w and for calculation of cutting speed during circumferential milling",
+      "text_url": "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/tables/G-4.txt",
+      "image_urls": [
+        "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/pages/page_11.png"
+      ]
+    },
+    "G-5": {
+      "table": "G-5",
+      "pdf_pages": [
+        11
+      ],
+      "title_line": "Table G-5: C , y and k values for calculation of cutting speed in face milling, v= C / s y (m/s).",
+      "text_url": "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/tables/G-5.txt",
+      "image_urls": [
+        "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/pages/page_11.png"
+      ]
+    },
+    "G-6": {
+      "table": "G-6",
+      "pdf_pages": [
+        11
+      ],
+      "title_line": "Table G-6: Values of the constant C for calculating specific cutting resistance, k = C x s -0,26 (N/m2).",
+      "text_url": "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/tables/G-6.txt",
+      "image_urls": [
+        "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/pages/page_11.png"
+      ]
+    },
+    "R-1": {
+      "table": "R-1",
+      "pdf_pages": [
+        12
+      ],
+      "title_line": "Table R-1: Recommended values of cutting speed and feed when planing with high-speed steel",
+      "text_url": "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/tables/R-1.txt",
+      "image_urls": [
+        "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/pages/page_12.png"
+      ]
+    },
+    "R-2": {
+      "table": "R-2",
+      "pdf_pages": [
+        12
+      ],
+      "title_line": "Table R-2: Recommended cutting and feed speeds when planing with hard tool tools.",
+      "text_url": "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/tables/R-2.txt",
+      "image_urls": [
+        "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/pages/page_12.png"
+      ]
+    },
+    "BR-1": {
+      "table": "BR-1",
+      "pdf_pages": [
+        12
+      ],
+      "title_line": "Table BR-1: Recommended allowances /additions of material for outer circular grinding –δ (mm).",
+      "text_url": "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/tables/BR-1.txt",
+      "image_urls": [
+        "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/pages/page_12.png"
+      ]
+    },
+    "BR-2": {
+      "table": "BR-2",
+      "pdf_pages": [
+        13
+      ],
+      "title_line": "Table BR-2: Recommended allowances /additions of material for internal grinding –δ (mm).",
+      "text_url": "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/tables/BR-2.txt",
+      "image_urls": [
+        "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/pages/page_13.png"
+      ]
+    },
+    "BR-3": {
+      "table": "BR-3",
+      "pdf_pages": [
+        13
+      ],
+      "title_line": "Table BR-3: Recommended allowances /additions of material for side/lateral surfaces – δ (mm).",
+      "text_url": "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/tables/BR-3.txt",
+      "image_urls": [
+        "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/pages/page_13.png"
+      ]
+    },
+    "BR-4": {
+      "table": "BR-4",
+      "pdf_pages": [
+        13
+      ],
+      "title_line": "Table BR-4: Recommended allowances /additions for grinding/lateral side surfaces- δ (mm).",
+      "text_url": "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/tables/BR-4.txt",
+      "image_urls": [
+        "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/pages/page_13.png"
+      ]
+    },
+    "BR-5": {
+      "table": "BR-5",
+      "pdf_pages": [
+        14
+      ],
+      "title_line": "Table BR-5: Recommended cutting speeds and workpiece speeds when grinding with a corundum",
+      "text_url": "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/tables/BR-5.txt",
+      "image_urls": [
+        "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/pages/page_14.png"
+      ]
+    },
+    "BR-6": {
+      "table": "BR-6",
+      "pdf_pages": [
+        14
+      ],
+      "title_line": "Table BR-6: The ratio of the average penetration force to the average cutting force on the circumference",
+      "text_url": "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/tables/BR-6.txt",
+      "image_urls": [
+        "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/pages/page_14.png"
+      ]
+    },
+    "BR-7": {
+      "table": "BR-7",
+      "pdf_pages": [
+        14
+      ],
+      "title_line": "Table BR-7: Recommended values of grinding cutting depth \"a\" (mm).",
+      "text_url": "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/tables/BR-7.txt",
+      "image_urls": [
+        "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/pages/page_14.png"
+      ]
+    },
+    "BR-8": {
+      "table": "BR-8",
+      "pdf_pages": [
+        14
+      ],
+      "title_line": "Table BR-8: The value of the constant C for the calculation of the speed of the workpiece of grinding.",
+      "text_url": "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/tables/BR-8.txt",
+      "image_urls": [
+        "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/pages/page_14.png"
+      ]
+    },
+    "BR-9": {
+      "table": "BR-9",
+      "pdf_pages": [
+        15
+      ],
+      "title_line": "Table BR-9: Recommendations for determining axial and transverse/lateral feed during grinding.",
+      "text_url": "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/tables/BR-9.txt",
+      "image_urls": [
+        "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/pages/page_15.png"
+      ]
+    },
+    "P-1": {
+      "table": "P-1",
+      "pdf_pages": [
+        15
+      ],
+      "title_line": "Table P-1: Recommended cutting speeds and depths of cut of broaching.",
+      "text_url": "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/tables/P-1.txt",
+      "image_urls": [
+        "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/pages/page_15.png"
+      ]
+    },
+    "P-2": {
+      "table": "P-2",
+      "pdf_pages": [
+        15
+      ],
+      "title_line": "Table P-2: Recommended values of the specific cutting resistance k by broaching.",
+      "text_url": "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/tables/P-2.txt",
+      "image_urls": [
+        "https://raw.githubusercontent.com/bugra053/manufacturing/main/appendix/pages/page_15.png"
+      ]
+    }
+  },
+  "extraction_warning": "Text is an aid, not a substitute for visual column/exponent/root verification. Preserve printed multipliers 10^6/10^7/10^8/10^9."
+}

@@ -1,0 +1,15 @@
+1. Turning – Homework
+1.4 Exercise
+1.4.7. Task
+On a turret lathe with a vertical head, longitudinal turning and drilling are performed in parallel at the same
+time.
+Input data for the calculation:
+- Workpiece material: Cast Iron, HB=190 ;
+- Turning knives material: hard metal / carbide tool K20;
+- Drill bit material: high-speed steel;
+- Workpiece diameter before turning 100 mm, workpiece diameter after turning 95 mm ;
+- Drill bit diameter 20 mm;
+- Turning length 80 mm, and drilling depth 50 mm;
+- Durability of the more vulnerable tool 30 mm;
+- Efficiency rate of machine transmission, η=0,75.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

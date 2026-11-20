@@ -1,0 +1,26 @@
+1. Turning
+1.1 Universal lathes
+1.1.2 Task – Solution (1)
+The cross-sectional area of ​​the cutting layer, which is the product of the depth of cut „a“ and the
+feed rate „s“, is calculated as follows: A=a x s
+We use a mathematical formula for the maximum utilization of the power of the driving electric
+motor of the machine, which is determined from the following formula: P = (F x v) / η
+M v
+The main cutting resistance is calculated as follows: F =C x ax1 x sy1
+v k
+The cutting speed is calculated using the following mathematical formula: v=(C / Tm x ax x sy) x ζ x ζ xζ
+v κ mrp T
+After substituting the formulas for the main cutting force F and cutting speed v into the mathematical
+v
+formula for the power of the machine's drive motor, we obtain the following:
+P = (C x C x a(x1-x) x s(y1-y) x ζ x ζ x ζ ) / (η x Tm) ...(1)
+M k v κ mrp T
+The chip slenderness coefficient is defined by the following formula: g=a/s ...(2)
+After entering the mathematical formulas (1) and (2) into the mathematical form for calculation the power of
+the machine's drive motor, we obtain the following:
+P = (C x C x g(x1-x) x s(y1-y+x1-x) x ζ x ζ x ζ ) / (η x Tm)
+M k v κ mrp T
+Solving the equation in terms of „s“, we get the following:
+s= {[P x η x Tm ] / [C x C x g(x1-x) x ζ x ζ x ζ ]} 1 / (y1-y+x1-x)
+M k v κ mrp T
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

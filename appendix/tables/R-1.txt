@@ -1,0 +1,25 @@
+R-1 — exact instructor appendix, PDF page 12
+Authority: sources/appendix_formulas.pdf
+Extracted text may lose superscripts, merged cells, root indices or denominator grouping; read original page image when ambiguous. Decimal commas are preserved.
+
+Table R-1: Recommended values of cutting speed and feed when planing with high-speed steel
+tools (tool life T=60 min).
+Workpiece material Ultimate tensile Feed s (mm/stroke) Cutting speed v (m/min)
+strength R (N/mm2)
+m
+or Brinell hardness
+Grey cast iron up to 200 HB 0,4 ÷1,0 (fine machining) 18÷13 (fine machining)
+1,0 ÷2,5 (rough machining) 13÷10 (rough machining)
+200 ÷ 250 HB 0,4 ÷1,0 (fine machining) 12÷9 (fine machining)
+1,0 ÷2,5 (rough machining) 9÷7 (rough machining)
+Alloyed grey cast iron 250 ÷ 450 HB 0,4 ÷1,0 (fine machining) 11÷9 (fine machining)
+1,0 ÷2,5 (rough machining) 9÷7 (rough machining)
+Structural steels, case- 500 0,4 ÷1,0 (fine machining) 18÷12 (fine machining)
+hardening steels and 1,0 ÷2,5 (rough machining) 12÷8 (rough machining)
+quenched and tempered 600 0,4 ÷1,0 (fine machining) 12÷8 (fine machining)
+steels 1,0 ÷2,5 (rough machining) 8÷6 (rough machining)
+700 0,4 ÷1,0 (fine machining) 11÷7 (fine machining)
+1,0 ÷2,5 (rough machining) 7÷5 (rough machining)
+Steel casting 700 0,4 ÷1,0 (fine machining) 11÷7 (fine machining)
+1,0 ÷2,5 (rough machining) 7÷5 (rough machining)
+

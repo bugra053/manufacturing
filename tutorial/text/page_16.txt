@@ -1,0 +1,18 @@
+1. Turning
+1.1 Universal lathes
+1.1.2 Task – Solution (6)
+P = (3,95x108 x 0,9197x 0,001415(1-0,15) x 0,000177(0,78-0,2) x 0,74 x 1,071x1,732) / [0,8 x (20x60)0,2] = ? W
+M1
+whereby, given the other machining conditions, the values ​​of the constant and exponents related to the cutting speed change
+as follows:
+C =0,9197 ; x=0,15; y=0,2; m=0,2} from Table S-8 for Structural/Carbon steel; hard metal P25, and s≤0,3 mm/rev.
+v
+The required percentage reduction in the power of the machine‘s
+drive electric motor is, therefore:
+(P – P ) / P =
+M M1 M
+[(10000 – P ) / 10000] x 100
+M1
+(P – P ) / P = ? %
+M M1 M
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

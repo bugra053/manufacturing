@@ -1,0 +1,26 @@
+1. Turning
+1.1 Universal lathes
+1.1.3 Task – Solution (1):
+The maximum cutting depth is determined based on the condition of maximizing the power utilization of the
+machine's drive motor. The power of the machine's drive motor is determined using the following
+mathematical formula:
+P = (F x v) / η
+M v
+At the same time, the main resistance to tearing is given with the formula: F = C x ax1 x sy1
+v k
+while the cutting speed is given with the form: v = [C / (ax x sy)] x (ζ x ζ xζ )
+v κ m T
+Thus, by substituting the formulas given above into the formula for the power of the machine's drive electric
+motor, the following is obtained: P =[C x C x a(x1-x) x s(y1-y) x ζ x ζ xζ ] / η ...(1)
+M k v κ m T
+If the feed is now expressed from the mathematical formula defining the chip slenderness coefficient:
+g= a/s ...(2)→ s= a/g
+and substituted into equation (1), the result is:
+P = {[C x C x a(x1-x+y1-y) x ζ x ζ xζ ] / [η x g(y1-y)]}
+M k v κ m T
+Therefore, the depth of cut is calculated as follows:
+a= {[P x η x g(y1-y) ] / (C x C x ζ x ζ xζ )}1 / (x1-x+y1-y)
+M k v κ m T
+a= {[1800 x 0,7 x 8(0,73-0,3) ] / (1,67x108 x 0,014336 x 0,9 x 1x 1 )}1 / (1-0,2+0,73-0,3)
+a=4,86 x 10-3 m
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

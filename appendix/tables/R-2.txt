@@ -1,0 +1,24 @@
+R-2 — exact instructor appendix, PDF page 12
+Authority: sources/appendix_formulas.pdf
+Extracted text may lose superscripts, merged cells, root indices or denominator grouping; read original page image when ambiguous. Decimal commas are preserved.
+
+Table R-2: Recommended cutting and feed speeds when planing with hard tool tools.
+Workpiece material Type of hard metal Cutting speed v (m/min) Feed s (mm/stroke)
+Steel R < 60 kN/cm2 60 2,5
+m
+Steel R = 60 ÷ 120 kN/cm2 P40, P50 40 1,5
+m
+Steel R = 120 ÷ 145 kN/cm2 30 1
+m
+High-alloy steels P40, M20 20 0,5 ÷ 1,5
+Hardened steels R ≤ 145 kN/cm2 K10 10 0,5
+m
+Steel casting R ≤ 70 kN/cm2 P40, P50 40 2,5
+m
+High alloy steel casting P40, M20 20 1
+Gray cast iron up to 220 HB P30, P40, K20 30 1,5
+P30 30 2,5
+Gray cast iron above 220 HB K10 30 1
+K20 30 1,5
+6) GRINDING
+

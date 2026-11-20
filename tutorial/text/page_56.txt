@@ -1,0 +1,25 @@
+2. Drilling , 2.3 Drills with multi-spindle head, 2.3.1 Task – Solution (5)
+Now, based on the speed of the secondary/auxiliary movement of the tool holder, it is necessary to
+determine the most endangered drill bit. The most vulnerable drill bit is the one that requires a lower speed
+of auxiliary movement, so this is also the relevant speed of the multi-spindle head.
+From certain speeds of secondary/auxiliary movement, we get the following:
+n x s =28,49 x 0,122 x 10-3
+1 1
+= ? m/s
+n x s =18,78 x 0,165 x 10-3
+2 2
+= ? m/s
+n x s =12,6 x 0,198 x 10-3
+3 3
+=? m/s
+it can be seen that the most endangered drill bit is No. 3, that is, the relevant speed n x s
+3 3
+=? m/s.
+In order to satisfy the necessary condition of the multi-spindle head n x s =const,, but also the condition of
+i i
+the task that the stability of the most threatened tool should ensure a drilling depth of 2 mm, the processing
+regimes of drill bits No. 1 and No. 2 must be corrected by changing the value of the number of revolutions of
+the drill bits. In the task, it was chosen to correct the numbers of revolutions, while the previously calculated
+values ​​are taken over for the feed. It was also possible to change the feed while keeping the number of
+revolutions unchanged.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

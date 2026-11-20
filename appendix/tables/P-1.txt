@@ -1,0 +1,9 @@
+P-1 — exact instructor appendix, PDF page 15
+Authority: sources/appendix_formulas.pdf
+Extracted text may lose superscripts, merged cells, root indices or denominator grouping; read original page image when ambiguous. Decimal commas are preserved.
+
+Table P-1: Recommended cutting speeds and depths of cut of broaching.
+Cutting speed v(m/min) Cutting depth a (mm)
+Outer broaching: 6÷15 Rough machining
+Inner broaching: 2÷10 Finishing: 0,02÷0,1
+

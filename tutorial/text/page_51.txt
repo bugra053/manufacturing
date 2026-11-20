@@ -1,0 +1,15 @@
+2. Drilling
+2.3 Drills with multi-spindle head
+2.3.1 Task
+During machining on a multi-spindle drilling machine, six holes are processed simultaneously: two Ø6 mm
+(2 x Ø6 mm), two Ø9 mm (2 x Ø9 mm), and two Ø14 mm (2 x Ø14 mm).
+Input data for the calculation:
+- Workpiece material: structural steel, Rm=60 kN/cm2 ;
+- Durability of the most vulnerable drill bit L=2 m;
+- Efficiency rate of machine transmission, η=0,8 .
+It is necessary to calculate:
+- Machining parameters;
+- Tool life/ durability for all tools;
+- Required axial force to be overcome by the unit;
+- Power of the unit's electric drive motor.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

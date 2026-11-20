@@ -1,0 +1,9 @@
+1. Turning
+1.1 Universal lathes
+1.1.2 Task – Solution (3)
+C =0,2713 ; x=0,15; y=0,35; m=0,2} from Table S-8 for Structural/Carbon steel; hard metal, and we assume s≤0,75 mm/rev
+v
+Table S-8: Values ​​of C , x, y and m for calculation of cutting speed v=(C x ζ x ζ xζ ) /Tm x ax x sy (m/s)
+v v κ mrp T
+The table is used when the material of the tool is hard metal and ceramic insert, and if necessary also for high-speed steel.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

@@ -1,0 +1,29 @@
+BU-4 — exact instructor appendix, PDF page 10
+Authority: sources/appendix_formulas.pdf
+Extracted text may lose superscripts, merged cells, root indices or denominator grouping; read original page image when ambiguous. Decimal commas are preserved.
+
+Table BU-4: C and C values for the calculation of the torque and a secondary movement
+m F
+force during drilling.
+M= C x Dx x sy (Nm) ; F =C x Dx1 x sy1 (N)
+M f F
+Work Material-Workpiece CM CF
+Carbon Steel
+Rm=45 x 107 N/m2 59,139854 x 106 70,395332 x 106
+Rm=55 x 107 N/m2 67,764416 x 106 81,510385x 106
+Rm=65 x 107 N/m2 76,388978 x 106 98,860443 x 106
+Rm=75 x 107 N/m2 85,013540 x 106 103,740489 x 106
+Chrome-nickel steel
+Rm=65 x 107 N/m2 85,013540 x 106 103,740489 x 106
+Rm=75 x 107 N/m2 93,638102 x 106 116,090548 x 106
+Rm=85 x 107 N/m2 103,494748x 106 127,205600 x 106
+Chrome steel
+Rm=65 x 107 N/m2 103,740489 x 106
+Rm=85 x 107 N/m2 127,205600 x 106
+Cast Iron
+HB=170 26,552625 x 106 142,921314 x 106
+HB=190 29,022637 x 106 154,010037 x 106
+HB=210 30,875145 x 106 163,866679 x 106
+Note : for all kind of Steels, x=2; y=0.8; x1=1 and y1=0.7; while for Cast iron x=1.9; y=0.8; x1=1 and y1=0.8.
+4) MILLING
+

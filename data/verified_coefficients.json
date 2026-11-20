@@ -1,0 +1,341 @@
+{
+  "authority": "Exact instructor appendix only. Selected facts, not a complete table. Interpolations are explicitly labeled. Matching material, tool, operation and feed/depth branch are required.",
+  "records": [
+    {
+      "id": "density",
+      "table": "O-1",
+      "appendix_pdf_page": 1,
+      "selection": "material densities",
+      "values": {
+        "steel_kg_m3": 7850,
+        "cast_iron_kg_m3": 7400,
+        "bronze_kg_m3": 8200,
+        "brass_kg_m3": 8850,
+        "aluminium_kg_m3": 2650
+      }
+    },
+    {
+      "id": "lead_angle_correction",
+      "table": "S-5",
+      "appendix_pdf_page": 2,
+      "selection": "kappa in degrees",
+      "values": {
+        "angles_deg": [
+          20,
+          25,
+          30,
+          35,
+          40,
+          45,
+          50,
+          55,
+          60,
+          65,
+          70,
+          75,
+          80,
+          85,
+          90
+        ],
+        "zeta_k": [
+          1.27,
+          1.22,
+          1.17,
+          1.11,
+          1.05,
+          1,
+          0.95,
+          0.9,
+          0.86,
+          0.82,
+          0.79,
+          0.77,
+          0.75,
+          0.74,
+          0.74
+        ]
+      }
+    },
+    {
+      "id": "HSS_tool_correction",
+      "table": "S-6",
+      "appendix_pdf_page": 3,
+      "selection": "high-speed steel tool, steel or cast iron",
+      "values": {
+        "zeta_m": 1
+      }
+    },
+    {
+      "id": "HSS_CrNi_700",
+      "table": "S-7",
+      "appendix_pdf_page": 3,
+      "selection": "chrome-nickel steel Rm=70e7 N/m2; a>1mm; 0.2<=s<=0.4mm/rev",
+      "values": {
+        "C_v": 0.009069,
+        "x": 0.24,
+        "y": 0.34
+      }
+    },
+    {
+      "id": "HSS_carbon_600",
+      "table": "S-7",
+      "appendix_pdf_page": 3,
+      "selection": "carbon steel Rm=60e7 N/m2; a>1mm; 0.2<=s<=0.4mm/rev",
+      "values": {
+        "C_v": 0.010928,
+        "x": 0.26,
+        "y": 0.36
+      }
+    },
+    {
+      "id": "HSS_cast_reference",
+      "table": "S-7",
+      "appendix_pdf_page": 3,
+      "selection": "cast iron reference row HB160; a>1mm; s<0.72mm/rev",
+      "values": {
+        "C_v": 0.014336,
+        "x": 0.2,
+        "y": 0.3
+      },
+      "note": "The HB180 worked example uses this reference row. Do not claim the row itself is labeled HB180."
+    },
+    {
+      "id": "P25_low",
+      "table": "S-8",
+      "appendix_pdf_page": 4,
+      "selection": "structural/carbon/alloy/cast steel reference Rm=75e7; longitudinal turning; P25; s<=0.3mm/rev",
+      "values": {
+        "C_v": 0.9197,
+        "x": 0.15,
+        "y": 0.2,
+        "m": 0.2,
+        "reference_tool_life_min": 60
+      },
+      "note": "Middle interval disambiguated using nested printed bounds and the worked switch on tutorial pp13/16."
+    },
+    {
+      "id": "P25_middle",
+      "table": "S-8",
+      "appendix_pdf_page": 4,
+      "selection": "structural/carbon/alloy/cast steel reference Rm=75e7; longitudinal turning; P25; 0.3<s<=0.75mm/rev",
+      "values": {
+        "C_v": 0.2713,
+        "x": 0.15,
+        "y": 0.35,
+        "m": 0.2,
+        "reference_tool_life_min": 60
+      },
+      "note": "Middle interval disambiguated using nested printed bounds and the worked switch on tutorial pp13/16."
+    },
+    {
+      "id": "P25_high",
+      "table": "S-8",
+      "appendix_pdf_page": 4,
+      "selection": "structural/carbon/alloy/cast steel reference Rm=75e7; longitudinal turning; P25; s>0.75mm/rev",
+      "values": {
+        "C_v": 0.1324,
+        "x": 0.15,
+        "y": 0.45,
+        "m": 0.2,
+        "reference_tool_life_min": 60
+      },
+      "note": "Middle interval disambiguated using nested printed bounds and the worked switch on tutorial pp13/16."
+    },
+    {
+      "id": "K20_cast_low",
+      "table": "S-8",
+      "appendix_pdf_page": 4,
+      "selection": "cast iron reference HB190; K20; longitudinal turning; s<=0.4mm/rev",
+      "values": {
+        "C_v": 0.9837,
+        "x": 0.15,
+        "y": 0.2,
+        "m": 0.2,
+        "reference_tool_life_min": 60
+      }
+    },
+    {
+      "id": "force_CrNi_700",
+      "table": "S-13",
+      "appendix_pdf_page": 6,
+      "selection": "CrNi Rm=70e7",
+      "values": {
+        "C_k": 435600000.0,
+        "x1": 1,
+        "y1": 0.78
+      },
+      "note": "Includes the printed multiplier 10^8; coefficient is not in the same numerical unit convention as a per-mm coefficient from a different handbook."
+    },
+    {
+      "id": "force_carbon_700",
+      "table": "S-13",
+      "appendix_pdf_page": 6,
+      "selection": "structural steel Rm=70e7",
+      "values": {
+        "C_k": 395000000.0,
+        "x1": 1,
+        "y1": 0.78
+      },
+      "note": "Includes the printed multiplier 10^8; coefficient is not in the same numerical unit convention as a per-mm coefficient from a different handbook."
+    },
+    {
+      "id": "force_carbon_600",
+      "table": "S-13",
+      "appendix_pdf_page": 6,
+      "selection": "structural steel Rm=60e7",
+      "values": {
+        "C_k": 366900000.0,
+        "x1": 1,
+        "y1": 0.78
+      },
+      "note": "Includes the printed multiplier 10^8; coefficient is not in the same numerical unit convention as a per-mm coefficient from a different handbook."
+    },
+    {
+      "id": "force_cast_180",
+      "table": "S-13",
+      "appendix_pdf_page": 6,
+      "selection": "cast iron HB180",
+      "values": {
+        "C_k": 167000000.0,
+        "x1": 1,
+        "y1": 0.73
+      },
+      "note": "Includes the printed multiplier 10^8; coefficient is not in the same numerical unit convention as a per-mm coefficient from a different handbook."
+    },
+    {
+      "id": "force_cast_200",
+      "table": "S-13",
+      "appendix_pdf_page": 6,
+      "selection": "cast iron HB200",
+      "values": {
+        "C_k": 177800000.0,
+        "x1": 1,
+        "y1": 0.73
+      },
+      "note": "Includes the printed multiplier 10^8; coefficient is not in the same numerical unit convention as a per-mm coefficient from a different handbook."
+    },
+    {
+      "id": "BU1_carbon_600_700_small",
+      "table": "BU-1",
+      "appendix_pdf_page": 9,
+      "selection": "carbon steel Rm=(60–70)e7 N/m2; 1<=D<=10mm",
+      "values": {
+        "D_min_mm": 1,
+        "D_max_mm": 10,
+        "s_min_mm_rev": 0.05,
+        "s_max_mm_rev": 0.18
+      }
+    },
+    {
+      "id": "BU1_carbon_600_700_large",
+      "table": "BU-1",
+      "appendix_pdf_page": 9,
+      "selection": "carbon steel Rm=(60–70)e7 N/m2; 10<=D<=25mm",
+      "values": {
+        "D_min_mm": 10,
+        "D_max_mm": 25,
+        "s_min_mm_rev": 0.18,
+        "s_max_mm_rev": 0.25
+      }
+    },
+    {
+      "id": "BU2_carbon_brackets",
+      "table": "BU-2",
+      "appendix_pdf_page": 9,
+      "selection": "carbon steel bracketing Rm=60e7 N/m2",
+      "values": {
+        "Rm_1_N_m2": 550000000.0,
+        "Cv_1": 0.17618,
+        "Rm_2_N_m2": 650000000.0,
+        "Cv_2": 0.15155,
+        "x0": 0.4,
+        "y0": 0.5,
+        "m": 0.2
+      }
+    },
+    {
+      "id": "BU2_carbon_600_interpolated",
+      "table": "BU-2",
+      "appendix_pdf_page": 9,
+      "selection": "carbon steel Rm=60e7 N/m2",
+      "values": {
+        "C_v": 0.163865,
+        "x0": 0.4,
+        "y0": 0.5,
+        "m": 0.2
+      },
+      "derivation": "Cv60=0.17618+(60-55)/(65-55)*(0.15155-0.17618)",
+      "kind": "derived interpolation, not a separately printed row"
+    },
+    {
+      "id": "BU2_cast_200_interpolated",
+      "table": "BU-2",
+      "appendix_pdf_page": 9,
+      "selection": "cast iron HB200, bracket HB190/HB210",
+      "values": {
+        "C_v": 0.11197,
+        "x0": 0.25,
+        "y0": 0.4,
+        "m": 0.125
+      },
+      "derivation": "Cv200=(0.12035+0.10359)/2",
+      "kind": "derived interpolation"
+    },
+    {
+      "id": "BU3_shallow",
+      "table": "BU-3",
+      "appendix_pdf_page": 9,
+      "selection": "l/D<=2.5",
+      "values": {
+        "mu0": 1
+      }
+    },
+    {
+      "id": "BU4_carbon_brackets",
+      "table": "BU-4",
+      "appendix_pdf_page": 10,
+      "selection": "carbon steel brackets Rm55e7 and65e7 N/m2",
+      "values": {
+        "C_M_55": 67764416.0,
+        "C_M_65": 76388978.0,
+        "C_F_55": 81510385.0,
+        "C_F_65": 98860443.0,
+        "x": 2,
+        "y": 0.8,
+        "x1": 1,
+        "y1": 0.7
+      }
+    },
+    {
+      "id": "BU4_carbon_600_interpolated",
+      "table": "BU-4",
+      "appendix_pdf_page": 10,
+      "selection": "carbon steel Rm60e7 N/m2",
+      "values": {
+        "C_M": 72076697.0,
+        "C_F": 90185414.0,
+        "x": 2,
+        "y": 0.8,
+        "x1": 1,
+        "y1": 0.7
+      },
+      "derivation": "linear midpoint interpolation of the55/65 rows; preserve full precision",
+      "kind": "derived interpolation"
+    },
+    {
+      "id": "BU4_cast_200_interpolated",
+      "table": "BU-4",
+      "appendix_pdf_page": 10,
+      "selection": "cast iron HB200, bracket HB190/HB210",
+      "values": {
+        "C_M": 29948891.0,
+        "C_F": 158938358.0,
+        "x": 1.9,
+        "y": 0.8,
+        "x1": 1,
+        "y1": 0.8
+      },
+      "kind": "derived interpolation"
+    }
+  ]
+}

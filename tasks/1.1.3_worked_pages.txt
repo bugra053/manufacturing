@@ -1,0 +1,87 @@
+Task 1.1.3 — instructor worked pages, PDF pages 18–22
+Source may contain typos/placeholders. Appendix coefficients and current question givens take priority.
+
+--- PDF PAGE 18 ---
+1. Turning
+1.1 Universal lathes
+1.1.3 Task – Solution (1):
+The maximum cutting depth is determined based on the condition of maximizing the power utilization of the
+machine's drive motor. The power of the machine's drive motor is determined using the following
+mathematical formula:
+P = (F x v) / η
+M v
+At the same time, the main resistance to tearing is given with the formula: F = C x ax1 x sy1
+v k
+while the cutting speed is given with the form: v = [C / (ax x sy)] x (ζ x ζ xζ )
+v κ m T
+Thus, by substituting the formulas given above into the formula for the power of the machine's drive electric
+motor, the following is obtained: P =[C x C x a(x1-x) x s(y1-y) x ζ x ζ xζ ] / η ...(1)
+M k v κ m T
+If the feed is now expressed from the mathematical formula defining the chip slenderness coefficient:
+g= a/s ...(2)→ s= a/g
+and substituted into equation (1), the result is:
+P = {[C x C x a(x1-x+y1-y) x ζ x ζ xζ ] / [η x g(y1-y)]}
+M k v κ m T
+Therefore, the depth of cut is calculated as follows:
+a= {[P x η x g(y1-y) ] / (C x C x ζ x ζ xζ )}1 / (x1-x+y1-y)
+M k v κ m T
+a= {[1800 x 0,7 x 8(0,73-0,3) ] / (1,67x108 x 0,014336 x 0,9 x 1x 1 )}1 / (1-0,2+0,73-0,3)
+a=4,86 x 10-3 m
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 19 ---
+1. Turning
+1.1 Universal lathes
+1.1.3 Task – Solution (2):
+The constants and exponents in the previous equation are:
+C =0,014336 ; x=0,2; y=0,3}from Table S-7 for Cast Iron; a>1 mm; and we assumed s≤0,72 mm/rev
+V
+Table S-7 : Values ​​for calculation C , x,y for cutting speed v=(C / ax x sy) x ζ x ζ xζ (m/s)
+V V κ m T
+The table is used only in the case when the tool material is high-speed steel.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 20 ---
+1. Turning
+1.1 Universal lathes
+1.1.3 Task – Solution (3):
+The constants and exponents in the previous equation are:
+C =1,67 x 107 ; x=1,0; y=0,73}from Table S-13 for Cast Iron, HB=180
+k
+Table S-13 : Values ​​of C , x , y for the calculation of the main cutting force (resistance), F =C x ax1 x sy1 (N).
+k 1 1 v k
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 21 ---
+1. Turning 1.1 Universal lathes , 1.1.3 Task – Solution (4):
+While the correction coefficients are determined as follows:
+A coefficient that takes into account the angle of attack of the tool blade κ=55⁰ from the table S-5; ζ =0,9 .
+k
+Table S-5: Correction coefficient „ζ “for the calculation of the cutting speed v for various values ​​of the
+k
+attack angles of the tool blade κ.
+A coefficient that takes into account the material of the tool, high-speed steel from the table S-6 ; ζ =1 .
+m
+Table S-6: Correction coefficient „ζ “ for calculation of cutting speed „v“ for various tool materials.
+m
+The coefficient that takes into account the durability of the tool T=60 min which is adopted as the standard
+value for high-speed steel tools from Table S-7 (z=9 for cast iron machining):
+Table S-7 : Values ​​for calculation C , x,y for cutting speed v=(C / ax x sy) x ζ x ζ xζ (m/s)
+V V κ m T
+The table is used only in the case when the tool material is high-speed steel.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 22 ---
+1. Turning
+1.1 Universal lathes
+1.1.3 Task – Solution (5):
+Given that an assumption was made for the feed rate value to determine the constant and exponents adopted
+from Table S-8, it must be verified as follows:
+According to mathematical formula (2), the feed is: s=a /g =4,86 /8=? mm/rev.
+which means that the assumption was correct, so the calculation results can be accepted.
+The cutting speed, i.e. the number of revolutions of the workpiece for the calculated cutting depth are:
+v =(C / ax x sy) x ζ x ζ xζ
+V κ m T
+= [ 0,014336 / ( 0,004860,2 x 0,0006070,3)] x 0,9 x1 x 1 =? m/s
+n= v /(D x π) = v / (0,8 x π) =? rev/s
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

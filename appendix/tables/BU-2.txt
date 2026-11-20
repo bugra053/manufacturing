@@ -1,0 +1,37 @@
+BU-2 — exact instructor appendix, PDF page 9
+Authority: sources/appendix_formulas.pdf
+Extracted text may lose superscripts, merged cells, root indices or denominator grouping; read original page image when ambiguous. Decimal commas are preserved.
+
+Table BU-2: C ,x ,y and m values for cutting speed calculation :
+v 0 0
+v=(C x D x0 x μ ) /(T m x sy0) (m/s)
+v b 0 b
+Work material -
+C x y m
+Workpiece v 0 0
+Carbon steel
+Rm=45 x 107 N/m2 0,21028
+Rm=55 x 107 N/m2 0,17618
+0,4 0,5 0,2
+Rm=65 x 107 N/m2 0,15155
+Rm=75 x 107 N/m2 0,13450
+Chrome-nickel steel
+Rm=65 x 107 N/m2 0,11935
+Rm=75 x 107 N/m2 0,10609
+0,4 0,5 0,2
+Rm=85 x 107 N/m2 0,09472
+Rm=95 x 107 N/m2 0,08525
+Cast Iron
+HB=170 0,14206
+HB=190 0,12035 0,25 0,4 0,125
+HB=210 0,10359
+Bronze
+HB=100÷140 0,08025 0,25 0,55 0,12
+Aluminium
+Rm=30 x 107 N/m2 0,16667
+0,25 0,55 0,12
+Rm=(30÷50) x 107 N/m2 0,12551
+Note: v=[(Cv x Dx0-m x μ
+0
+) /(l x π)m x sy0-m)1/1-m , where is L- the durability of the drill given in (mm).
+

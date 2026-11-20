@@ -1,0 +1,17 @@
+Task 1.4.2 — statement, tutorial PDF page 35
+Original source: https://raw.githubusercontent.com/bugra053/manufacturing/main/sources/tutorial_calculations.pdf
+Read diagram/page image: https://raw.githubusercontent.com/bugra053/manufacturing/main/tutorial/pages/page_35.png
+
+1. Turning – Homework
+1.4 Exercise
+1.4.2. Task
+Determine the tool life required to machine 50 workpieces by turning on a universal lathe. Based on the
+calculated tool life, determine the complete machining parameters.
+Input data for the calculation:
+- Workpiece material: structural steel, Rm=60 x 107 N/mm2 ;
+- Tool material: hard metal / carbide tool P25;
+- Diameter before turning is D = 98 mm, and after machining the diameter is d = 82 mm;
+- Chip slenderness coefficient: g=8;
+- Attack angle of the tool blade: κ=90° ;
+- Turning length 50 mm.
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

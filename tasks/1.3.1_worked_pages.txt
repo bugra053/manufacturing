@@ -1,0 +1,157 @@
+Task 1.3.1 — instructor worked pages, PDF pages 28–33
+Source may contain typos/placeholders. Appendix coefficients and current question givens take priority.
+
+--- PDF PAGE 28 ---
+1. Turning 1.3 Turret lathes , 1.3.1 Task – Solution (1)
+On the revolver lathe, according to the condition of the task, the workpiece is machined by the simultaneous action of all
+the tools placed on the longitudinal and transverse support of the tool, as shown in the Machining Plan given below.
+Determining the relevant machining regime
+includes determining the depth of cut, feed rate
+and number of revolutions of the workpiece.
+The cutting depth for turning knives is determined
+based on the given sketch of the workpiece:
+- for longitudinal machining based on the
+difference in diameter before and after machining:
+a =(62÷56)/2=3 mm; a =(56÷50)/2=3 mm;
+1 2
+- for transverse machining based on the width of
+the groove that is made by machining: a =3 mm;
+3
+a =3 mm.
+4
+The feed is determined based on the ratio of the
+recommended values ​​for turning and drilling,
+namely:
+-feed for longitudinal and transverse turning is
+determined based on the recommended values ​​of
+the chip slenderness coefficients given in the table
+S-9 (next slide).
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 29 ---
+1. Turning 1.3 Turret lathes , 1.3.1 Task – Solution (2)
+Table S-9: Recommended feed values ​​„s“ for rough turning with knives made of high-speed steel and hard metal- carbide.
+s =a/g=3/(5÷10)=0,3÷0,6 mm/rev.
+tur long
+s =a/g=3/(5÷20)=0,15÷0,6 mm/rev.
+tur trans
+- the drilling feed is determined based on the
+recommendations from the table BU-1 for cast iron,
+HB=200 and D =25 mm: s =0,3 mm/rev.
+drill drill
+Table BU-1: Recommended feed values ​​for drilling.
+so that for the relevant feed, for longitudinal machining
+(based on recommendations for longitudinal turning and
+drilling) and transverse machining (only based on
+recommendations for transverse turning), the maximum
+permissible values ​​are adopted, namely: s =0,3 mm/rev. ;
+long
+s =0,6 mm/rev.
+trans
+The number of revolutions of the workpiece is calculated on
+the basis of the maximum utilization of the power of the
+driving electric motor of the machine, bearing in mind that
+all tools perform machining simultaneously:
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 30 ---
+1. Turning 1.3 Turret lathes , 1.3.1 Task – Solution (3)
+that is, after arranging the mathematical form given above:
+n=(P x η) /π x { C x a x1x [s y1 x (D +D ) + s y1 x (D +D )] + 2 x C x d x x s y}=
+M k i long 1 2 trav 3 4 M Drill long
+=(15000x0,75)/π x[1,778x108x0,0031x(0,00030,73x(0,062+0,056)+0,00060,73x(0,062+0,062))]+(15000x0,75)/π x
+[2x29,948891x106x0,0251,9x0,00030,8] =? rev/s
+The constants and exponents in the previous equation are:
+C =1,778 x 108 ; x =1 ; y =0,73 } From below Table S-13 for Cast Iron; HB=200
+k 1 1
+Table S-13: Values ​​of C , x , y for the calculation of the main cutting force (resistance), F =C x ax1 x sy1 (N).
+k 1 1 v k
+C =1,778 x 108 ; x=1,9 ; y=0,8 } From below
+M
+Table BU-4 for Cast Iron; HB=200
+Table BU-4: C and C values ​​for the
+m F
+calculation of the torque and a secondary
+movement force during drilling.
+M= C x Dx x sy (Nm) ; F =C x Dx1 x sy1 (N)
+M f F
+In order to determine the main machining time, given that the longitudinal
+and transverse feed are different, the machining times for the longitudinal
+and transverse tool holder are first determined:
+t =(l +Δl)/n x s =(0,03+0,002)/6,484 x 0,0003=? s
+glong long long
+t =(l +Δl)/n x s =(0,006+0,002)/6,484 x 0,0006=? s
+gtrans trans trans
+therefore, the longitudinal machining time is taken as the main machining
+time of the entire operation:
+t =? s
+g
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 31 ---
+1. Turning 1.3 Turret lathes , 1.3.1 Task – Solution (4)
+In order to determine the durability of the most endangered tool, with regard to various mathematical formulas, it is
+necessary to determine the durability of the most endangered turning knife and drill, and thus see which tool is the most
+endangered.
+The durability of the most endangered knife is determined for knife No. 1, which has the highest cutting speed and thus the
+lowest durability. This is because compared to knife no. 2, for the same feed and cutting depth, knife no. 1 machines a larger
+diameter, while knives no. 3 and no. 4, which although work with a higher feed, have a lower effective cutting speed due to
+the reduction of the machining diameter.
+The durability of the most vulnerable knife is determined from the form for calculating the cutting speed:
+v = (C x ζ x ζ xζ ) /T m x a x x s y =D x π x n
+1 v κ mrp T 1 1 long 1
+where the coefficient that takes into account tool durability is taken from the table S-8:
+so it is:
+T =[( C x ζ x ζ x 36001/6) / (0,062 x π x 6,484 x 0,0030,15 x 0,00030,2)](z/z x m +1) =
+1 v κ mrp
+=[( 0,9837 x 0,74 x 0,938 x 36001/6) / (0,062 x π x 6,484 x 0,0030,15 x 0,00030,2)](6/6 x 0,2 +1)
+=? s
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 32 ---
+1. Turning 1.3 Turret lathes , 1.3.1 Task – Solution (5)
+The constants and exponents in the previous equation are:C =0,9837 ; x=0,15 ; y=0,2 ; m=0,2; z=6 } From Table S-8 for Cast
+v
+Iron; HB=200, HM K20 and s≤0,4 mm/rev.
+Table S-8: Values ​​of C , x, y and m for calculation of cutting speed v=(C x ζ x ζ xζ ) /Tm x ax x sy (m/s)
+v v κ mrp T
+The table is used when the material of the tool is hard metal and ceramic insert, and if necessary also for high-speed steel.
+while the correction coefficients in the expression for the cutting speed are
+determined as follows:
+-A coefficient that takes into account the angle of attack of the tool blade κ=90⁰
+from the table S-5; ζ =0,74 .
+k
+Table S-5: Correction coefficient „ζ “for the calculation of the cutting speed v
+k
+for various values ​​of the attack angles of the tool blade κ.
+A coefficient that takes into account the material of the workpiece,
+from the table S-8 ;
+ζ =(190/HB)1,25=(190/200)1,25=?
+mrp
+The durability of the drill bit is determined from the following
+cutting speed:
+v =(C x D x0 x μ ) /(T m x sy0)= D x π x n
+b v b 0 b b
+so it is:
+T =[ (C x μ ) / (π x 6,484 x 0,00030,4 x 0,0251-0.25)]1/0,125 = ? s
+b v 0
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES
+
+--- PDF PAGE 33 ---
+1. Turning 1.3 Turret lathes , 1.3.1 Task – Solution (6)
+The constants and exponents in the previous equation are: C =0,11197 ; x =0,25; y =0,4; m=0,125 }-
+v 0 0
+From bellow Table BU-2 for Cast Iron; HB=200
+Table BU-2 : C ,x ,y and m values ​​for cutting speed calculation v=(C x D x0 x μ ) /(T m x sy0) (m/s)
+v 0 0 v b 0 b
+while the coefficient μ is determined
+0
+based on the data from the table BU-3:
+μ =1 for (l /D )=20/25<1.
+0 b b
+So, the most endangered tool is the drill
+and its durability is T =? s.
+b
+Table BU-3: Value of μ for l/D>2,5
+0
+INTERNATIONAL UNIVERSITY OF SARAJEVO/FACULTY OF ENGINEERING AND NATURAL SCIENCES

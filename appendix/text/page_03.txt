@@ -1,0 +1,46 @@
+Manual of ENS 208 ; Prof. Ismar Alagić Ph.D.
+Table S-6: Correction coefficient „ζ “ for calculation of cutting speed „v“ for various
+m
+tool materials.
+Work Material - Tool material
+Workpiece Unalloyed tool High speed steel Hard metal
+steel
+Steel 0,25 1 4-8
+Cast Iron 0,30 1 5 and more
+Table S7 : Values for calculation C , x,y for cutting speed v=(C / ax x sy) x ζ x ζ xζ (m/s)
+V V κ m T
+The table is used only in the case when the tool material is high-speed steel.
+Work material – a>1 mm a≤ 1 mm
+Workpiece
+C x,y C x,y C x,y C x,y
+V V V V
+Carbon steel s≥0,4 mm/rev s=0,2÷0,4 mm/rev s=0,2÷0,4 mm/rev s=0,1÷0,2 mm/rev
+Rm=45 x 107 N/m2 0,001610 0,016841 x=0,26 0,029266 x=0,18 0,068524 x=0,18
+x=0,26
+y=0,36 y=0,36 y=0,26
+y=0,66
+Rm=60 x 107 N/m2 0,001046 0,010928 0,018991 0,044513
+Rm=70 x 107 N/m2 0,000828 0,008673 0,015073 0,035339
+s≥0,4 mm/rev s=0,2÷0,4 mm/rev s=0,2÷0,4 mm/rev s=0,1÷0,2 mm/rev
+Chrome-nickel steel
+0,000937 x=0,24 0,009069 x=0,24 0,015758 x=0,16 0,036911 x=0,16
+Rm=70 x 107 N/m2
+y=0,63 y=0,34 y=0,34 y=0,24
+s≥0,72 mm/rev s<0,72 mm/rev
+Cast iron, HB=160 0,010395 x=0,16 0,014336 x=0,20
+- -
+y=0,38 y=0,30
+Bronze, s≥0,72 mm/rev s<0,72 mm/rev s=0,2÷0,4 mm/rev s=0,1÷0,2 mm/rev
+Rm=(20-30) x 107
+N/m2
+s≥0,72 mm/rev s<0,72 mm/rev s=0,1÷0,2 mm/rev
+Aluminum,
+0,003033 x=0,40 0,006651 x=0,40 - 0,015592 x=0,40
+HB=80-100
+y=0,60 y=0,50 y=0,40
+Note: The correction coefficient for the calculation of the cutting speed v for various values of tool stability T is determined based on the equation
+z
+ζ
+T
+=√(3600/T)
+; z=6-9 (lower values for steel and higher for cast iron).

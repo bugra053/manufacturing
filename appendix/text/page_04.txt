@@ -1,0 +1,64 @@
+Manual of ENS 208 ; Prof. Ismar Alagić Ph.D.
+Table S-8: Values of C , x, y and m for calculation of cutting speed v=(C x ζ x ζ xζ ) /Tm x ax
+v v κ mrp T
+x sy (m/s)
+The table is used when the material of the tool is hard metal and ceramic insert, and if
+necessary also for high-speed steel.
+Work material Type of machining Tool Coefficients Ti (min)
+Material Cv x y m
+s≤0,3 0,9197 0,2
+s≤0,75 HM P25 0,2713 0,15 0,35 0,2 60
+s>0,75 0,1324 0,45
+a≤s 0,3 0,15
+HM P10 0,4543 0,18 45
+Outer a>s 0,15 0,3
+Structural
+s≤0,25 0,4443 0,33
+longitudina HS 0,25 0,125 60
+carbon steels, s>0,25 0,0029 0,66
+alloy steels
+l turning
+, ≤ 0 3 a≤ 2 0,4830 0,19 0,37 0,24
+and cast steel s
+a>2 CERAMIC 16,539 0,02 60
+Rm=75 x 107 N/m2 s=0,3÷0,7
+10,321
+0,08
+0,08
+0,24
+a≤7
+- HM P25 0,0071 0 0,8 0,2
+Parting off 60
+- HS 0,0115 0 0,66 0,25
+Facing - HS 0,0409 0 0,5 0,3 120
+s≤0,4 0,9837 0,2
+Outer 0,15 0,2 60
+s>0,4 K20 - 0,2056 0,4
+Cast Iron, longitudina a≤s CARBIDE 0,4 0,2
+0,2693 0,28 30
+HB=190 l turning a>s 0,2 0,4
+s≤0,5 CERAMIC 9,5407 0,2 0,2 0,43
+- HM K20 0,1634 0 0,4 0,2 60
+Parting off
+- HS 0,0437 0 0,4 0,15
+Outer a<2
+2,1308 0,2
+s≤0,4
+Cast Iron, longitudina a≥2 HM K35 0,15 0,2
+0,1288 0,45 60
+HB=150 l turning
+Parting off - 0,0689 0 0,5 0,25
+Non-ferrous Outer s≤0,2 0,7856 0,25
+metals and their HS
+longitudina 0,12 0,23 60
+alloys, s>0,2 0,0950 0,23
+HB=100÷140 l turning
+Note: Feed values are given in (mm/rev), and cutting depth in (mm).
+Correction coefficient for the workpiece material:
+ζmrp=(75 x 107) / Rm – for steel ; ζmrp=(190/HB)1,25 –for Cast Iron.
+For given persistences T that differ from the values in this table, the cutting speed is corrected with a coefficient where the coefficient
+that takes into account tool durability is taken from the table below:
+z
+ζ =√(T /T ) ;z=7÷12 (tool made of high-speed steel); z=2÷6 (hard metal tool); z=1,5 ÷3 (ceramic insert as tool).
+T t 1
+Use smaller values for z when machining steel, and higher values when machining cast iron.

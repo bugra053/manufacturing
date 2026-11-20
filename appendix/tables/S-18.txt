@@ -1,0 +1,28 @@
+S-18 — exact instructor appendix, PDF page 8
+Authority: sources/appendix_formulas.pdf
+Extracted text may lose superscripts, merged cells, root indices or denominator grouping; read original page image when ambiguous. Decimal commas are preserved.
+
+Table S-18: Overview of correction factors for calculating cutting force/resistance components
+according to Kienzi's equation, F = b x h1-m x k x Π k
+i v i1.1 j
+Forces - Correction factor for D (mm); v (m/min); VB (mm); γ, λ, α, κ (°)
+Cutting k k k k k k k
+op va h γ λ α κ
+resistance
+F 1,05 + (1/D) (100/V)Z 1+ξ x VB [(106-1,5 x γ) /100] [(100-1,5 x λ) /100] - -
+v v
+ξ = 0,2÷0,5
+F - (100/v)0,35 1+ξ x VB [(106-5 x γ) /100] [(105-α) /100] sinκ /sin 70°
+s
+ξ = 1,0÷2,5
+F - - 1+ξ x VB [(106-4 x γ) /100] [(100-10 x λ) /100] cosκ /cos70°
+p
+ξ = 1,2÷3,0
+Note: zv=0,143 for v=20 – 100 m/min ; zv=0,071 for v>100 m/min
+kop - refers to internal turning;
+kva - since tool material and cutting speed are interrelated quantities, these are the correction factors for these two quantities combined so that: kva
+=kv x ka
+KB - correction factor that takes into account the specifics of drilling compared to turning.
+KB =1,14 ; for drilling in solid material ; KB =1,10 ; for enlarging an existing hole.
+Ka - correction factor that takes into account the tool material.
+Ka =1 ; for hard metal; Ka =0,9 ÷0,95 ; for cutting ceramics ; Ka =0,8; for high-speed steel.
