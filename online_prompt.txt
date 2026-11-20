@@ -41,6 +41,11 @@ FINAL CHECK
 All requested results, correct source branch, coefficient scale, units, formulas and numerical operations must be visible and consistent. Keep the F -> D -> S output mathematical and compact, without explanatory prose or promises of a particular grade.
 
 ONLINE LOOKUP — READ ACTUAL CONTENT
+FIRST: if the question matches Task 1.1.2 (P25 turning, maximum chip area and one/two passes at fixed g), open this self-contained packet directly:
+https://raw.githubusercontent.com/bugra053/manufacturing/main/tasks/1.1.2_context.txt
+It contains the actual S-5/S-8/S-13 rows, equations, units, traceable strength-unit correction, and the instructor-adopted life exponent. These selected data are sufficient for the matching case; do not stop merely because another redundant source link fails. Recalculate for current givens and recheck both feed branches. Never copy the packet's final results into a changed problem.
+For other tasks, use the indexes below. Try a direct relevant table URL if an index/search lookup fails. If raw text is ambiguous, use its original page image or the supplied appendix PDF. Do not equate a failed web search with successful direct URL retrieval. If actual access still fails and no complete matching data are available, state the missing table ID briefly; do not fabricate coefficients or claim retrieval.
+
 Use available browsing tools to open the relevant raw files:
 Exact source manifest:
 https://raw.githubusercontent.com/bugra053/manufacturing/main/data/source_manifest.json

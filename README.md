@@ -14,6 +14,14 @@ Hocanın çalışma soruları ve **yalnızca gönderilen formül/tablo ekini** k
 
 Uzun açıklama, arama anlatımı, gereksiz integral veya formül listesi yok. Her istenen sonucun son sayısal işlemi gösterilir. Kullanılan tablo yalnızca `(S-7)` veya `(BU-4)` gibi küçük bir etiketle belirtilir. Modelin kendi kaynak gösterimleri platform tarafından ayrıca eklenebilir; bunların görünümü yalnızca promptla garanti edilemez.
 
+## Kısa prompt ve doğrudan soru paketi
+
+[calculator_prompt.txt — raw](https://raw.githubusercontent.com/bugra053/manufacturing/main/calculator_prompt.txt), aynı F/D/S düzenini koruyan kısa ve tek başına kullanılabilen prompttur. Custom Prompt alanına dosyanın **içeriği** yapıştırılır; yalnızca bağlantısı değil. `online_prompt.txt` daha ayrıntılı kuralları korur; iki prompt birlikte yapıştırılmaz.
+
+[Task 1.1.2 — tek dosyada gerekli veriler](https://raw.githubusercontent.com/bugra053/manufacturing/main/tasks/1.1.2_context.txt): S-5/S-8/S-13 katsayıları, geçiş aralıkları, birim düzeltmesinin kaynağı, hocanın formülleri ve bağımsız hesap kontrolü. Kısa ve ayrıntılı promptlar bu soruda önce doğrudan bu dosyayı açar. Paket yalnızca belirtilen işlem/malzeme/takım kapsamındadır; farklı soruların verileri yeniden seçilir.
+
+Online tarama erişimini prompt tek başına sağlayamaz. Bu düzen gerçek bir online lookup hatasında katsayı uydurmaz; ilgili tabloyu kısa biçimde belirtir. Yükleme destekleniyorsa orijinal appendix PDF ayrıca modele dosya olarak verilebilir.
+
 ## Kesin kaynak
 
 [Hocanın ekinin birebir PDF'si](sources/appendix_formulas.pdf), kullanıcının verdiği `appendix ENS 208 Formulas 1.pdf` dosyasıdır; değiştirilmeden eklendi. **15 sayfa, 42 tablo başlığı**. Orijinal SHA256 değeri [source_manifest.json](data/source_manifest.json) ve [appendix/index.json](appendix/index.json) içinde.

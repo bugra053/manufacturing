@@ -148,7 +148,8 @@
         "two_pass_depth_m": 0.001417970667814584,
         "two_pass_branch": "low",
         "motor_power_two_pass_W": 3820.8904607636027,
-        "power_reduction_percent": 61.79109539236397
+        "power_reduction_percent": 61.79109539236397,
+        "max_chip_area_mm2": 1.0053204073912687
       },
       "tables": [
         "S-5",
